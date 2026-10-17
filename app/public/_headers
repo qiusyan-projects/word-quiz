@@ -1,0 +1,13 @@
+# Cloudflare Pages 响应头
+# 构建产物文件名带内容 hash，可以永久缓存；index.html 必须每次回源校验，
+# 否则重新部署后浏览器还会拿旧的 html 去引用已删除的 assets。
+
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate

@@ -37,6 +37,38 @@ npm run build      # 构建到 ../dist
 
 构建产物是纯静态文件，`dist/` 可直接托管。
 
+## 部署
+
+### Cloudflare Pages
+
+仓库已经适配好，新建项目时按下表填：
+
+| 配置项 | 值 |
+|---|---|
+| Framework preset | None（或 Vite） |
+| **Root directory** | `app` |
+| **Build command** | `npm ci && npm run build` |
+| **Build output directory** | `dist` |
+| Node 版本 | 22 —— 仓库带 `app/.nvmrc`；若 CF 没认出来，在环境变量里加 `NODE_VERSION=22` |
+
+两个容易踩的点：
+
+**1. 输出目录会跟着环境变。** Cloudflare Pages 要求产物必须落在构建根目录内，而本地构建要输出到仓库根的 `dist/`（WorkBuddy 托管读的是那个目录）。`vite.config.ts` 里按 `CF_PAGES` 环境变量切换——CF 构建时会自动注入这个变量：
+
+```ts
+outDir: process.env.CF_PAGES ? 'dist' : '../dist'
+```
+
+所以 Root directory 必须设成 `app`，让产物落在 `app/dist`。如果根目录留空、想在仓库根构建，Build command 要写成 `cd app && npm ci && npm run build`，输出目录填 `dist`。
+
+**2. 词库不需要手动处理。** `app/src/data/words.json` 被 `.gitignore` 排除，由 `npm run build` 的 `prebuild` 钩子从 `data/words.json` 复制生成。CF 会 checkout 整个仓库，所以钩子里的相对路径 `../../data/words.json` 依然有效。
+
+`app/public/_headers` 已配置缓存策略：带 hash 的 assets 永久缓存，`index.html` 每次回源校验——不这么做的话，重新部署后浏览器可能拿旧 html 去引用已删除的 assets，白屏。
+
+### 其他静态托管
+
+`npm run build` 后把 `dist/` 整个目录传上去即可。项目用相对路径（`base: './'`），放在子路径下也能跑。
+
 ## 词库是怎么来的
 
 `data/` 下的 JSON 由 `tools_*.py` 生成，不是手工整理的。
