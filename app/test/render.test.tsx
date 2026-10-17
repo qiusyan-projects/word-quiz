@@ -35,11 +35,20 @@ const wrap = (node: React.ReactNode) =>
   renderToString(<ToastProvider>{node}</ToastProvider>)
 
 console.log('\n[1] 数据完整性')
-check('词条总数 = 5877', words.length === 5877, String(words.length))
+check('词条总数 = 5901', words.length === 5901, String(words.length))
 check('初中基础词 = 1846', words.filter((w) => w.bs === 1).length === 1846)
 check('全部有音标', words.every((w) => w.p && w.p.length > 0))
 check('全部有释义', words.every((w) => w.m && w.m.length > 0))
 check('pri 字段齐全', words.every((w) => typeof w.pri === 'number'))
+
+const gkWords = words.filter((w) => w.gk)
+check('真题高频 = 689（核心 579 + 扩展 110）',
+  gkWords.length === 689 &&
+  gkWords.filter((w) => w.gk === 2).length === 579 &&
+  gkWords.filter((w) => w.gk === 1).length === 110,
+  `总${gkWords.length} 核${gkWords.filter((w) => w.gk === 2).length} 扩${gkWords.filter((w) => w.gk === 1).length}`)
+check('真题高频补录词带音标释义',
+  words.filter((w) => w.lv === '高考真题高频').every((w) => w.p && w.m))
 
 console.log('\n[2] 首页渲染')
 const home = wrap(
@@ -94,6 +103,21 @@ check('含 认识/不认识 按钮', card.includes('认识') && card.includes('�
 check('含 释义 按钮（手机可点）', card.includes('释义'))
 check('含 跳过/W 按钮', card.includes('跳过') && card.includes('下一个生词'))
 check('含进度条 role=progressbar', card.includes('progressbar'))
+
+// 真题高频词的徽章
+const gkWord = words.find((w) => w.gk === 2 && !w.bs)!
+const cardGk = wrap(
+  <CardView
+    word={gkWord} wi={2} pos={0} total={10}
+    counts={{ ok: 0, no: 0, done: 0, total: words.length }}
+    reveal={false} showPh ans={{}}
+    onOk={noop} onNo={noop} onMean={noop} onSpeak={noop}
+    onUndo={noop} onPrev={noop} onSkip={noop} onJumpWeak={noop} onFinish={noop}
+  />,
+)
+check('真题高频词显示 ★ 徽章', cardGk.includes('真题高频'), gkWord.w)
+check('真题高频词不带「初中基础」徽章', !cardGk.includes('初中基础'))
+check('非高频词不显示该徽章', !card.includes('真题高频'))
 
 console.log('\n[4] 答题页渲染（展开释义 + 高中词）')
 const senWord = words.find((w) => !w.bs && w.lv === '课标·选择性必修' && w.m)!
@@ -172,6 +196,8 @@ console.log('\n[7] 核心逻辑')
   const nBridge = baseIdx(words, 'bridge').length
   check('范围 all = 全库', nAll === words.length, String(nAll))
   check('范围 junior = 1846', nJunior === 1846, String(nJunior))
+  const nGk = baseIdx(words, 'gk688').length
+  check('范围 gk688 = 689', nGk === 689, String(nGk))
   check('junior + senior = all', nJunior + nSenior === nAll, `${nJunior}+${nSenior}`)
   check('core < all', nCore > 0 && nCore < nAll, String(nCore))
   check('bridge < all', nBridge > 0 && nBridge < nAll, String(nBridge))

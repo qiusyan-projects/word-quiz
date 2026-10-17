@@ -28,6 +28,7 @@ export function baseIdx(words: Word[], range: RangeId): number[] {
     const w = words[i]
     const lv = w.lv || ''
     if (range === 'core' && w.core !== 1) continue
+    if (range === 'gk688' && !w.gk) continue
     if (range === 'cs' && lv.indexOf('课标') < 0) continue
     if (range === 'junior' && !w.bs) continue
     if (range === 'senior' && w.bs) continue

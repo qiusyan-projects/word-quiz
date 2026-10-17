@@ -14,6 +14,7 @@ import {
   buildDoc, exportCsv, exportPdf, exportTxt, rowsFor,
 } from '@/lib/exports'
 import { freqTitle, stars } from '@/lib/quiz'
+import { cn } from '@/lib/utils'
 import type { Counts } from '@/lib/quiz'
 import type { Mark, Word } from '@/lib/types'
 
@@ -89,10 +90,12 @@ function baseVerdict(words: Word[], ans: Record<number, Mark>) {
 
 const LEVEL_LABEL: Record<string, string> = {
   '': '全部层级',
+  __gk: '高考真题高频',
   __base: '初中基础词汇',
   __senior: '高中及以上（非基础）',
   课标: '课标（教育部）',
   高考词书: '高考词书（星火）',
+  高考真题高频: '真题高频（补录派生形）',
   教材: '教材/词书共识',
   CET4: 'CET4 衔接',
   CET6: 'CET6 衔接',
@@ -133,6 +136,7 @@ export default function ResultView(p: Props) {
       if (fStatus === 'no' && st !== 'no') continue
       if (fStatus === 'ok' && st !== 'ok') continue
       if (fStatus === 'skip' && st !== 'none') continue
+      if (fLevel === '__gk' && !w.gk) continue
       if (fLevel === '__base' && !w.bs) continue
       if (fLevel === '__senior' && w.bs) continue
       if (fLevel && fLevel.indexOf('__') !== 0 && (w.lv || '').indexOf(fLevel) < 0) continue
@@ -276,10 +280,12 @@ export default function ResultView(p: Props) {
               </SelectTrigger>
               <SelectContent>
                 <SelectItem value="all">全部层级</SelectItem>
+                <SelectItem value="__gk">高考真题高频</SelectItem>
                 <SelectItem value="__base">初中基础词汇</SelectItem>
                 <SelectItem value="__senior">高中及以上（非基础）</SelectItem>
                 <SelectItem value="课标">课标（教育部）</SelectItem>
                 <SelectItem value="高考词书">高考词书（星火）</SelectItem>
+                <SelectItem value="高考真题高频">真题高频（补录派生形）</SelectItem>
                 <SelectItem value="教材">教材/词书共识</SelectItem>
                 <SelectItem value="CET4">CET4 衔接</SelectItem>
                 <SelectItem value="CET6">CET6 衔接</SelectItem>
@@ -329,7 +335,17 @@ export default function ResultView(p: Props) {
                 key={i}
                 className="flex flex-wrap items-baseline gap-x-3 gap-y-1 rounded-md px-2 py-1.5 text-sm odd:bg-secondary/30"
               >
-                <span className="min-w-[110px] font-medium">{w.w}</span>
+                <span className="min-w-[110px] font-medium">
+                  {w.gk ? (
+                    <span
+                      className={cn('mr-1 align-top text-[11px]', w.gk === 1 && 'text-muted-foreground')}
+                      title={w.gk === 2 ? '高考真题核心高频688' : '真题高频·核心扩展'}
+                    >
+                      ★
+                    </span>
+                  ) : null}
+                  {w.w}
+                </span>
                 <span className="flex gap-0.5 text-xs" title={w.c ? freqTitle(w) : ''}>
                   <span className="sr-only">常用度 {w.c}/5</span>
                   {Array.from({ length: on }).map((_, k) => <span key={k}>★</span>)}

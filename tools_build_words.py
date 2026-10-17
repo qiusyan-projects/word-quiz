@@ -221,6 +221,23 @@ print('释义条目', len(trans))
 official = json.load(open('data/official_words.json', encoding='utf-8'))
 OFFICIAL_KEY = {nk(x['w']): x for x in official}
 
+# 高考历年真题核心高频688（DictionaryData 词书 9fc3d715）—— 唯一带真题血统的考频信号
+# 该书 689 条，其中 24 个是派生形式（exhausted / thoroughly / similarity…），
+# 本词库以原形为主、收不了这些派生形，需要在 L5 之后补录。
+GK = json.load(open('data/gk688.json', encoding='utf-8'))
+GK_KEYS = {}                      # nk(word) -> 2 核心高频 / 1 扩展
+GK_ITEMS = []
+for it in GK['items']:
+    k = nk(it['w'])
+    if k:
+        GK_KEYS[k] = max(GK_KEYS.get(k, 0), it['tier'])
+    GK_ITEMS.append(it)
+print('高考真题高频688 %d 条（核心 %d / 扩展 %d）→ 归一键 %d'
+      % (len(GK_ITEMS),
+         sum(1 for x in GK_ITEMS if x['tier'] == 2),
+         sum(1 for x in GK_ITEMS if x['tier'] == 1),
+         len(GK_KEYS)))
+
 # 义教课标（2022）三级词汇表 —— 官方认定的义务教育阶段(含初中)词汇
 EDU = json.load(open('data/edu_junior.json', encoding='utf-8'))
 EDU_KEYS = set()
@@ -235,6 +252,8 @@ print('义教课标三级词表 %d 条（含 * 二级/小学 %d 条）→ 归一
 want_keys = {nk(x['w']) for x in official}
 for w in EDU_EXTRA:                      # 补录词要从 ECDICT 取音标与释义
     want_keys |= nk_variants(w)
+for it in GK_ITEMS:
+    want_keys.add(nk(it['w']))
 for wid in set(xh) | set(high_cnt) | set(cet4_cnt) | set(cet6_cnt):
     e = words.get(wid)
     if e and e['w']:
@@ -412,6 +431,17 @@ def pick(counter, cap, lvname, srcname, minc):
 n4 = pick(cet4_cnt, CET4_CAP, 'CET4 衔接', 'cet4', CET4_MIN)
 n5 = pick(cet6_cnt, CET6_CAP, 'CET6 衔接', 'cet6', CET6_MIN)
 
+# L6 高考真题高频688 中词库未收录的派生形
+# 必须放在所有层级之后：此时 used 已含全部词库词，push 会自动跳过已存在的，
+# 只补真正缺的（exhausted / thoroughly / obesity…），不会覆盖原有更好的层级。
+# 传 vid 让 push 优先取 DictionaryData 的音标释义——ECDICT 对这些词偶有专业义项偏差，
+# 例如 affordable 首义被给成「[计] 普及型」。
+n_gk = 0
+for it in GK_ITEMS:
+    if push(it.get('vid', ''), it['w'], '高考真题高频', 'gk688', 0, tier=2):
+        n_gk += 1
+print('L6 真题高频补录 %d 条' % n_gk)
+
 print('L1课标 %d | L2星火新增 %d | L3共识新增 %d | L4四级 %d | L5六级 %d | 合计 %d'
       % (len(official), n2, n3, n4, n5, len(out)))
 print('无音标 %d | 无释义 %d' % (sum(1 for x in out if not x['p']), sum(1 for x in out if not x['m'])))
@@ -434,7 +464,6 @@ for x in out:
     # 3) 极高频（语料库前 100）且仍在 5 本以上初中词书里 —— 捞回 I / an 这类临界词
     # 4) 课标以原形归并的动词变形（be → is/am/are...）
     # 5) 出现在义教课标（2022）三级词汇表里 —— 官方认定的义务教育阶段词汇，直接采信
-    # 5) 出现在义教课标（2022）三级词汇表里 —— 官方认定的义务教育阶段词汇，直接采信
     x['bs'] = 1 if (x['jr'] >= JR_MIN
                     or x['lv'] == '课标·基础'
                     or (x['jr'] >= 5 and 0 < x['f'] <= 100)
@@ -442,16 +471,18 @@ for x in out:
                     or nk(x['w']) in EDU_KEYS) else 0
     # 优先级：基础 0 < 课标 1 < 星火 2 < 共识 3 < CET4 4 < CET6 5
     x['pri'] = 0 if x['bs'] else x['tier']
+    # 高考真题高频：2=核心高频688 1=核心扩展110 0=不在该书
+    x['gk'] = GK_KEYS.get(nk(x['w']), 0)
 print('基础词汇 %d 条（阈值 %d 本初中词书 + 课标义务段兜底）' % (sum(1 for x in out if x['bs']), JR_MIN))
 print('  来源构成：课标义务段 %d 条 | 词书共识(jr>=%d) %d 条 | 高频兜底 %d 条'
       % (sum(1 for x in out if x['lv'] == '课标·基础'),
          JR_MIN,
          sum(1 for x in out if x['jr'] >= JR_MIN and x['lv'] != '课标·基础'),
          sum(1 for x in out if x['bs'] and x['jr'] < JR_MIN and x['lv'] != '课标·基础')))
-for t in sorted(set(x['tier'] for x in out)):
-    sub = [x for x in out if x['tier'] == t]
-    print('   tier %d %-14s 共 %4d 条，其中基础 %4d 条'
-          % (t, sub[0]['lv'], len(sub), sum(1 for x in sub if x['bs'])))
+for lv in sorted(set(x['lv'] for x in out)):
+    sub = [x for x in out if x['lv'] == lv]
+    print('   %-16s 共 %4d 条，其中基础 %4d 条'
+          % (lv, len(sub), sum(1 for x in sub if x['bs'])))
 
 # ---------------- 5. 切出「高考核心 3500」 ----------------
 # 高考核心 = 课标 + 高考词书层（不含衔接词）

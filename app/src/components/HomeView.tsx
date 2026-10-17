@@ -65,19 +65,22 @@ export default function HomeView(p: Props) {
   const fileRef = React.useRef<HTMLInputElement>(null)
 
   const n = React.useMemo(() => {
-    let core = 0, cs = 0, junior = 0, bridge = 0
+    let core = 0, cs = 0, junior = 0, bridge = 0, gk = 0
     for (const w of p.words) {
       const lv = w.lv || ''
       if (w.core === 1) core++
+      if (w.gk) gk++
       if (lv.indexOf('课标') >= 0) cs++
       if (lv.indexOf('CET') >= 0) bridge++
       if (w.bs) junior++
     }
-    return { all: p.words.length, core, cs, junior, senior: p.words.length - junior, bridge }
+    return { all: p.words.length, core, cs, junior, senior: p.words.length - junior, bridge, gk }
   }, [p.words])
 
+  // 顺序即下拉顺序：真题高频放最前，它是这批词里最硬的筛选条件
   const rangeLabel: Record<RangeId, string> = {
     all: `全部 · ${n.all} 条`,
+    gk688: `高考真题高频 688 · ${n.gk} 条`,
     core: `高考核心 · ${n.core} 条`,
     cs: `仅教育部课标 · ${n.cs} 条`,
     junior: `仅初中基础词汇 · ${n.junior} 条`,

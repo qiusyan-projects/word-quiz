@@ -125,7 +125,7 @@ export default function CardView(p: Props) {
     )
   }
 
-  const lvDup = w.bs && w.lv === '课标·基础'
+  const lvDup = (w.bs && w.lv === '课标·基础') || (!!w.gk && w.lv === '高考真题高频')
   const prevMark = p.wi !== undefined ? p.ans[p.wi] : undefined
   const pct = p.total ? (p.pos / p.total) * 100 : 0
 
@@ -170,6 +170,18 @@ export default function CardView(p: Props) {
           {prevMark === 0 && (
             <Badge variant="outline" className="tnum">上次标记：不会 ✗</Badge>
           )}
+          {w.gk ? (
+            <Badge
+              variant="default"
+              className="border-foreground/25"
+              title={w.gk === 2
+                ? '收录于《高考历年真题核心高频 688》（真题语料统计）'
+                : '《高考历年真题核心高频 688》的核心扩展词'}
+            >
+              <span aria-hidden="true">★</span>
+              真题高频{w.gk === 1 ? ' · 扩展' : ''}
+            </Badge>
+          ) : null}
           {w.bs === 1 && (
             <Badge variant="solid" title={'初中段基础词' + (w.jr > 0 ? `（${w.jr} 本初中教材/词书收录）` : '（教育部课标义务教育段要求）')}>
               初中基础

@@ -29,11 +29,14 @@ export interface Word {
   pri: number
   /** 1 = 高考核心 */
   core: number
+  /** 高考真题高频：2 = 核心高频688，1 = 核心扩展110，0/缺省 = 不在该书 */
+  gk?: number
 }
 
 export type View = 'home' | 'card' | 'result'
 
-export type RangeId = 'all' | 'core' | 'cs' | 'junior' | 'senior' | 'bridge'
+export type RangeId =
+  | 'all' | 'gk688' | 'core' | 'cs' | 'junior' | 'senior' | 'bridge'
 export type OrderId = 'asc' | 'random' | 'pri' | 'freq' | 'rare'
 
 /** 1 = 会，0 = 不会 */
