@@ -1,0 +1,33 @@
+# 依赖
+node_modules/
+app/node_modules/
+
+# 构建产物
+dist/
+app/dist/
+app/test/.build/
+
+# 词库副本：由 npm 的 predev/prebuild/pretest 从 data/words.json 自动同步
+# 仓库里只保留 data/words.json 这一份
+app/src/data/words.json
+
+# 原始数据：体积大（3 个 PDF 共 43MB）且涉及版权，不入库
+data/src/
+
+# 本地临时文件
+data/_*
+*.log
+.DS_Store
+Thumbs.db
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+
+# 项目内部数据（记忆、发布标记）
+.workbuddy/
+.wbapp_*.genie
+
+# Python
+__pycache__/
+*.pyc

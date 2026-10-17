@@ -1,0 +1,12374 @@
+[
+{
+"w": "a",
+"star": 0,
+"page": 104,
+"score": 0.67
+},
+{
+"w": "an",
+"star": 0,
+"page": 104,
+"score": 0.67
+},
+{
+"w": "ability",
+"star": 0,
+"page": 104,
+"score": 0.82
+},
+{
+"w": "able",
+"star": 0,
+"page": 104,
+"score": 0.8
+},
+{
+"w": "about",
+"star": 1,
+"page": 104,
+"score": 0.86
+},
+{
+"w": "above",
+"star": 0,
+"page": 104,
+"score": 0.83
+},
+{
+"w": "abroad",
+"star": 0,
+"page": 104,
+"score": 0.86
+},
+{
+"w": "absent",
+"star": 0,
+"page": 104,
+"score": 0.85
+},
+{
+"w": "accept",
+"star": 0,
+"page": 105,
+"score": 0.82
+},
+{
+"w": "accident",
+"star": 0,
+"page": 105,
+"score": 0.89
+},
+{
+"w": "according",
+"star": 0,
+"page": 105,
+"score": 0.91
+},
+{
+"w": "account",
+"star": 0,
+"page": 105,
+"score": 0.81
+},
+{
+"w": "ache",
+"star": 0,
+"page": 105,
+"score": 0.8
+},
+{
+"w": "achieve",
+"star": 0,
+"page": 105,
+"score": 0.87
+},
+{
+"w": "across",
+"star": 0,
+"page": 105,
+"score": 0.86
+},
+{
+"w": "act",
+"star": 0,
+"page": 105,
+"score": 0.75
+},
+{
+"w": "action",
+"star": 0,
+"page": 105,
+"score": 0.81
+},
+{
+"w": "active",
+"star": 0,
+"page": 105,
+"score": 0.73
+},
+{
+"w": "activity",
+"star": 0,
+"page": 105,
+"score": 0.85
+},
+{
+"w": "actor",
+"star": 0,
+"page": 105,
+"score": 0.87
+},
+{
+"w": "actress",
+"star": 0,
+"page": 105,
+"score": 0.87
+},
+{
+"w": "actually",
+"star": 0,
+"page": 105,
+"score": 0.84
+},
+{
+"w": "ad",
+"star": 0,
+"page": 105,
+"score": 0.86
+},
+{
+"w": "add",
+"star": 0,
+"page": 105,
+"score": 0.73
+},
+{
+"w": "address",
+"star": 0,
+"page": 105,
+"score": 0.84
+},
+{
+"w": "admire",
+"star": 0,
+"page": 105,
+"score": 0.84
+},
+{
+"w": "adult",
+"star": 0,
+"page": 105,
+"score": 0.83
+},
+{
+"w": "advantage",
+"star": 0,
+"page": 105,
+"score": 0.87
+},
+{
+"w": "advice",
+"star": 0,
+"page": 105,
+"score": 0.86
+},
+{
+"w": "advise",
+"star": 0,
+"page": 105,
+"score": 0.86
+},
+{
+"w": "afford",
+"star": 0,
+"page": 105,
+"score": 0.78
+},
+{
+"w": "afraid",
+"star": 0,
+"page": 105,
+"score": 0.7
+},
+{
+"w": "affter",
+"star": 1,
+"page": 105,
+"score": 0.79
+},
+{
+"w": "afternoon",
+"star": 0,
+"page": 105,
+"score": 0.86
+},
+{
+"w": "again",
+"star": 0,
+"page": 105,
+"score": 0.83
+},
+{
+"w": "against",
+"star": 0,
+"page": 105,
+"score": 0.8
+},
+{
+"w": "age",
+"star": 0,
+"page": 105,
+"score": 0.71
+},
+{
+"w": "ago",
+"star": 0,
+"page": 105,
+"score": 0.64
+},
+{
+"w": "agree",
+"star": 0,
+"page": 105,
+"score": 0.83
+},
+{
+"w": "ahead",
+"star": 0,
+"page": 105,
+"score": 0.83
+},
+{
+"w": "AI",
+"star": 0,
+"page": 105,
+"score": 0.92
+},
+{
+"w": "aid",
+"star": 0,
+"page": 105,
+"score": 0.75
+},
+{
+"w": "aim",
+"star": 0,
+"page": 105,
+"score": 0.6
+},
+{
+"w": "airport",
+"star": 0,
+"page": 105,
+"score": 0.87
+},
+{
+"w": "alarm",
+"star": 0,
+"page": 105,
+"score": 0.83
+},
+{
+"w": "alive",
+"star": 0,
+"page": 105,
+"score": 0.83
+},
+{
+"w": "all",
+"star": 1,
+"page": 105,
+"score": 0.78
+},
+{
+"w": "allow",
+"star": 0,
+"page": 105,
+"score": 0.83
+},
+{
+"w": "almost",
+"star": 0,
+"page": 105,
+"score": 0.82
+},
+{
+"w": "alone",
+"star": 0,
+"page": 105,
+"score": 0.83
+},
+{
+"w": "along",
+"star": 0,
+"page": 105,
+"score": 0.83
+},
+{
+"w": "aloud",
+"star": 0,
+"page": 105,
+"score": 0.79
+},
+{
+"w": "already",
+"star": 0,
+"page": 105,
+"score": 0.85
+},
+{
+"w": "also",
+"star": 0,
+"page": 105,
+"score": 0.8
+},
+{
+"w": "although",
+"star": 0,
+"page": 105,
+"score": 0.87
+},
+{
+"w": "always",
+"star": 0,
+"page": 105,
+"score": 0.81
+},
+{
+"w": "a.m",
+"star": 0,
+"page": 105,
+"score": 0.79
+},
+{
+"w": "amazing",
+"star": 0,
+"page": 105,
+"score": 0.87
+},
+{
+"w": "among",
+"star": 0,
+"page": 105,
+"score": 0.78
+},
+{
+"w": "ancient",
+"star": 0,
+"page": 105,
+"score": 0.87
+},
+{
+"w": "and",
+"star": 1,
+"page": 105,
+"score": 0.74
+},
+{
+"w": "angry",
+"star": 0,
+"page": 105,
+"score": 0.81
+},
+{
+"w": "animal",
+"star": 1,
+"page": 105,
+"score": 0.86
+},
+{
+"w": "another",
+"star": 0,
+"page": 105,
+"score": 0.81
+},
+{
+"w": "answer",
+"star": 0,
+"page": 106,
+"score": 0.86
+},
+{
+"w": "ant",
+"star": 0,
+"page": 106,
+"score": 0.75
+},
+{
+"w": "any",
+"star": 0,
+"page": 106,
+"score": 0.75
+},
+{
+"w": "anybody",
+"star": 0,
+"page": 106,
+"score": 0.93
+},
+{
+"w": "anyone",
+"star": 0,
+"page": 106,
+"score": 0.93
+},
+{
+"w": "anything",
+"star": 0,
+"page": 106,
+"score": 0.88
+},
+{
+"w": "anyway",
+"star": 0,
+"page": 106,
+"score": 0.86
+},
+{
+"w": "anywhere",
+"star": 0,
+"page": 106,
+"score": 0.75
+},
+{
+"w": "apartment",
+"star": 0,
+"page": 106,
+"score": 0.84
+},
+{
+"w": "app",
+"star": 0,
+"page": 106,
+"score": 0.9
+},
+{
+"w": "appear",
+"star": 0,
+"page": 106,
+"score": 0.86
+},
+{
+"w": "apple",
+"star": 0,
+"page": 106,
+"score": 0.83
+},
+{
+"w": "area",
+"star": 0,
+"page": 106,
+"score": 0.8
+},
+{
+"w": "argue",
+"star": 0,
+"page": 106,
+"score": 0.83
+},
+{
+"w": "arm",
+"star": 0,
+"page": 106,
+"score": 0.75
+},
+{
+"w": "army",
+"star": 0,
+"page": 106,
+"score": 0.69
+},
+{
+"w": "around",
+"star": 0,
+"page": 106,
+"score": 0.81
+},
+{
+"w": "arrive",
+"star": 0,
+"page": 106,
+"score": 0.81
+},
+{
+"w": "art",
+"star": 1,
+"page": 106,
+"score": 0.81
+},
+{
+"w": "article",
+"star": 0,
+"page": 106,
+"score": 0.76
+},
+{
+"w": "artist",
+"star": 0,
+"page": 106,
+"score": 0.74
+},
+{
+"w": "as",
+"star": 0,
+"page": 106,
+"score": 0.67
+},
+{
+"w": "ask",
+"star": 1,
+"page": 106,
+"score": 0.77
+},
+{
+"w": "asleep",
+"star": 0,
+"page": 106,
+"score": 0.86
+},
+{
+"w": "astronaut",
+"star": 0,
+"page": 106,
+"score": 0.83
+},
+{
+"w": "athlete",
+"star": 0,
+"page": 106,
+"score": 0.77
+},
+{
+"w": "attack",
+"star": 0,
+"page": 106,
+"score": 0.86
+},
+{
+"w": "attend",
+"star": 0,
+"page": 106,
+"score": 0.86
+},
+{
+"w": "attention",
+"star": 0,
+"page": 106,
+"score": 0.9
+},
+{
+"w": "aunt",
+"star": 1,
+"page": 106,
+"score": 0.76
+},
+{
+"w": "autumn",
+"star": 0,
+"page": 106,
+"score": 0.85
+},
+{
+"w": "average",
+"star": 0,
+"page": 106,
+"score": 0.87
+},
+{
+"w": "avoid",
+"star": 0,
+"page": 106,
+"score": 0.83
+},
+{
+"w": "awake",
+"star": 0,
+"page": 106,
+"score": 0.76
+},
+{
+"w": "award",
+"star": 0,
+"page": 106,
+"score": 0.8
+},
+{
+"w": "aware",
+"star": 0,
+"page": 106,
+"score": 0.78
+},
+{
+"w": "away",
+"star": 0,
+"page": 106,
+"score": 0.77
+},
+{
+"w": "awful",
+"star": 0,
+"page": 106,
+"score": 0.69
+},
+{
+"w": "baby",
+"star": 0,
+"page": 106,
+"score": 0.71
+},
+{
+"w": "back",
+"star": 1,
+"page": 106,
+"score": 0.83
+},
+{
+"w": "background",
+"star": 0,
+"page": 106,
+"score": 0.88
+},
+{
+"w": "bad",
+"star": 1,
+"page": 106,
+"score": 0.81
+},
+{
+"w": "badminton",
+"star": 0,
+"page": 106,
+"score": 0.85
+},
+{
+"w": "bag",
+"star": 0,
+"page": 106,
+"score": 0.67
+},
+{
+"w": "balance",
+"star": 0,
+"page": 106,
+"score": 0.87
+},
+{
+"w": "ball",
+"star": 1,
+"page": 106,
+"score": 0.78
+},
+{
+"w": "balloon",
+"star": 0,
+"page": 106,
+"score": 0.83
+},
+{
+"w": "bamboo",
+"star": 0,
+"page": 106,
+"score": 0.76
+},
+{
+"w": "banana",
+"star": 0,
+"page": 106,
+"score": 0.86
+},
+{
+"w": "band",
+"star": 0,
+"page": 106,
+"score": 0.8
+},
+{
+"w": "bank",
+"star": 0,
+"page": 106,
+"score": 0.7
+},
+{
+"w": "baseball",
+"star": 0,
+"page": 106,
+"score": 0.88
+},
+{
+"w": "basic",
+"star": 0,
+"page": 106,
+"score": 0.83
+},
+{
+"w": "basket",
+"star": 0,
+"page": 106,
+"score": 0.85
+},
+{
+"w": "basketball",
+"star": 1,
+"page": 107,
+"score": 0.9
+},
+{
+"w": "bat",
+"star": 0,
+"page": 107,
+"score": 0.75
+},
+{
+"w": "bath",
+"star": 0,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "bathroom",
+"star": 0,
+"page": 107,
+"score": 0.81
+},
+{
+"w": "be",
+"star": 0,
+"page": 107,
+"score": 0.93
+},
+{
+"w": "beach",
+"star": 1,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "bean",
+"star": 0,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "bear",
+"star": 0,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "beat",
+"star": 0,
+"page": 107,
+"score": 0.79
+},
+{
+"w": "beautiful",
+"star": 1,
+"page": 107,
+"score": 0.91
+},
+{
+"w": "because",
+"star": 0,
+"page": 107,
+"score": 0.84
+},
+{
+"w": "become",
+"star": 0,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "bed",
+"star": 1,
+"page": 107,
+"score": 0.74
+},
+{
+"w": "bedroom",
+"star": 0,
+"page": 107,
+"score": 0.87
+},
+{
+"w": "bee",
+"star": 0,
+"page": 107,
+"score": 0.75
+},
+{
+"w": "beef",
+"star": 0,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "before",
+"star": 0,
+"page": 107,
+"score": 0.83
+},
+{
+"w": "behave",
+"star": 0,
+"page": 107,
+"score": 0.81
+},
+{
+"w": "behind",
+"star": 1,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "believe",
+"star": 0,
+"page": 107,
+"score": 0.76
+},
+{
+"w": "bell",
+"star": 0,
+"page": 107,
+"score": 0.78
+},
+{
+"w": "belong",
+"star": 0,
+"page": 107,
+"score": 0.86
+},
+{
+"w": "below",
+"star": 0,
+"page": 107,
+"score": 0.83
+},
+{
+"w": "belt",
+"star": 0,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "benefit",
+"star": 0,
+"page": 107,
+"score": 0.83
+},
+{
+"w": "beside",
+"star": 1,
+"page": 107,
+"score": 0.81
+},
+{
+"w": "best",
+"star": 1,
+"page": 107,
+"score": 0.85
+},
+{
+"w": "better",
+"star": 0,
+"page": 107,
+"score": 0.76
+},
+{
+"w": "between",
+"star": 0,
+"page": 107,
+"score": 0.84
+},
+{
+"w": "big",
+"star": 0,
+"page": 107,
+"score": 0.72
+},
+{
+"w": "bike",
+"star": 0,
+"page": 107,
+"score": 0.83
+},
+{
+"w": "bill",
+"star": 0,
+"page": 107,
+"score": 0.79
+},
+{
+"w": "bin",
+"star": 0,
+"page": 107,
+"score": 0.75
+},
+{
+"w": "biology",
+"star": 0,
+"page": 107,
+"score": 0.87
+},
+{
+"w": "bird",
+"star": 1,
+"page": 107,
+"score": 0.77
+},
+{
+"w": "birth",
+"star": 0,
+"page": 107,
+"score": 0.83
+},
+{
+"w": "birthday",
+"star": 0,
+"page": 107,
+"score": 0.84
+},
+{
+"w": "biscuit",
+"star": 0,
+"page": 107,
+"score": 0.87
+},
+{
+"w": "bit",
+"star": 0,
+"page": 107,
+"score": 0.68
+},
+{
+"w": "black",
+"star": 1,
+"page": 107,
+"score": 0.82
+},
+{
+"w": "blackboard",
+"star": 1,
+"page": 107,
+"score": 0.88
+},
+{
+"w": "bleed",
+"star": 0,
+"page": 107,
+"score": 0.83
+},
+{
+"w": "blind",
+"star": 0,
+"page": 107,
+"score": 0.83
+},
+{
+"w": "block",
+"star": 0,
+"page": 107,
+"score": 0.83
+},
+{
+"w": "blood",
+"star": 0,
+"page": 107,
+"score": 0.83
+},
+{
+"w": "blouse",
+"star": 0,
+"page": 107,
+"score": 0.86
+},
+{
+"w": "blow",
+"star": 0,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "blue",
+"star": 0,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "board",
+"star": 0,
+"page": 107,
+"score": 0.79
+},
+{
+"w": "boat",
+"star": 1,
+"page": 107,
+"score": 0.74
+},
+{
+"w": "body",
+"star": 0,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "boil",
+"star": 0,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "book",
+"star": 1,
+"page": 107,
+"score": 0.8
+},
+{
+"w": "boring",
+"star": 0,
+"page": 107,
+"score": 0.83
+},
+{
+"w": "born",
+"star": 0,
+"page": 107,
+"score": 0.74
+},
+{
+"w": "borrow",
+"star": 0,
+"page": 108,
+"score": 0.82
+},
+{
+"w": "boss",
+"star": 0,
+"page": 108,
+"score": 0.8
+},
+{
+"w": "both",
+"star": 0,
+"page": 108,
+"score": 0.8
+},
+{
+"w": "bottle",
+"star": 0,
+"page": 108,
+"score": 0.85
+},
+{
+"w": "bottom",
+"star": 0,
+"page": 108,
+"score": 0.78
+},
+{
+"w": "bowl",
+"star": 0,
+"page": 108,
+"score": 0.8
+},
+{
+"w": "box",
+"star": 0,
+"page": 108,
+"score": 0.75
+},
+{
+"w": "boy",
+"star": 0,
+"page": 108,
+"score": 0.72
+},
+{
+"w": "brain",
+"star": 0,
+"page": 108,
+"score": 0.74
+},
+{
+"w": "brave",
+"star": 0,
+"page": 108,
+"score": 0.83
+},
+{
+"w": "bread",
+"star": 1,
+"page": 108,
+"score": 0.77
+},
+{
+"w": "break",
+"star": 0,
+"page": 108,
+"score": 0.8
+},
+{
+"w": "breakfast",
+"star": 0,
+"page": 108,
+"score": 0.9
+},
+{
+"w": "breath",
+"star": 0,
+"page": 108,
+"score": 0.86
+},
+{
+"w": "bridge",
+"star": 0,
+"page": 108,
+"score": 0.79
+},
+{
+"w": "bright",
+"star": 0,
+"page": 108,
+"score": 0.8
+},
+{
+"w": "bring",
+"star": 0,
+"page": 108,
+"score": 0.76
+},
+{
+"w": "brother",
+"star": 0,
+"page": 108,
+"score": 0.87
+},
+{
+"w": "brown",
+"star": 0,
+"page": 108,
+"score": 0.83
+},
+{
+"w": "brush",
+"star": 0,
+"page": 108,
+"score": 0.76
+},
+{
+"w": "budget",
+"star": 0,
+"page": 108,
+"score": 0.7
+},
+{
+"w": "build",
+"star": 0,
+"page": 108,
+"score": 0.77
+},
+{
+"w": "building",
+"star": 0,
+"page": 108,
+"score": 0.81
+},
+{
+"w": "bully",
+"star": 0,
+"page": 108,
+"score": 0.74
+},
+{
+"w": "burn",
+"star": 0,
+"page": 108,
+"score": 0.75
+},
+{
+"w": "bus",
+"star": 0,
+"page": 108,
+"score": 0.75
+},
+{
+"w": "business",
+"star": 0,
+"page": 108,
+"score": 0.84
+},
+{
+"w": "busy",
+"star": 0,
+"page": 108,
+"score": 0.72
+},
+{
+"w": "but",
+"star": 1,
+"page": 108,
+"score": 0.78
+},
+{
+"w": "butter",
+"star": 0,
+"page": 108,
+"score": 0.69
+},
+{
+"w": "butterfly",
+"star": 0,
+"page": 108,
+"score": 0.86
+},
+{
+"w": "buy",
+"star": 0,
+"page": 108,
+"score": 0.75
+},
+{
+"w": "by",
+"star": 0,
+"page": 108,
+"score": 0.67
+},
+{
+"w": "cabbage",
+"star": 0,
+"page": 108,
+"score": 0.87
+},
+{
+"w": "cake",
+"star": 0,
+"page": 108,
+"score": 0.8
+},
+{
+"w": "calendar",
+"star": 0,
+"page": 108,
+"score": 0.76
+},
+{
+"w": "call",
+"star": 1,
+"page": 108,
+"score": 0.83
+},
+{
+"w": "calm",
+"star": 0,
+"page": 108,
+"score": 0.67
+},
+{
+"w": "camera",
+"star": 0,
+"page": 108,
+"score": 0.77
+},
+{
+"w": "camp",
+"star": 0,
+"page": 108,
+"score": 0.78
+},
+{
+"w": "can",
+"star": 0,
+"page": 108,
+"score": 0.75
+},
+{
+"w": "cancel",
+"star": 0,
+"page": 108,
+"score": 0.81
+},
+{
+"w": "cancer",
+"star": 0,
+"page": 108,
+"score": 0.83
+},
+{
+"w": "candle",
+"star": 0,
+"page": 108,
+"score": 0.84
+},
+{
+"w": "candy",
+"star": 0,
+"page": 108,
+"score": 0.83
+},
+{
+"w": "cap",
+"star": 0,
+"page": 108,
+"score": 0.75
+},
+{
+"w": "capital",
+"star": 0,
+"page": 108,
+"score": 0.8
+},
+{
+"w": "car",
+"star": 0,
+"page": 108,
+"score": 0.72
+},
+{
+"w": "card",
+"star": 1,
+"page": 108,
+"score": 0.75
+},
+{
+"w": "care",
+"star": 0,
+"page": 108,
+"score": 0.71
+},
+{
+"w": "careful",
+"star": 1,
+"page": 108,
+"score": 0.82
+},
+{
+"w": "careless",
+"star": 0,
+"page": 108,
+"score": 0.89
+},
+{
+"w": "carrot",
+"star": 0,
+"page": 108,
+"score": 0.77
+},
+{
+"w": "carry",
+"star": 0,
+"page": 108,
+"score": 0.75
+},
+{
+"w": "cartoon",
+"star": 0,
+"page": 109,
+"score": 0.82
+},
+{
+"w": "case",
+"star": 0,
+"page": 109,
+"score": 0.75
+},
+{
+"w": "cash",
+"star": 0,
+"page": 109,
+"score": 0.8
+},
+{
+"w": "cat",
+"star": 1,
+"page": 109,
+"score": 0.76
+},
+{
+"w": "catch",
+"star": 0,
+"page": 109,
+"score": 0.83
+},
+{
+"w": "cause",
+"star": 0,
+"page": 109,
+"score": 0.76
+},
+{
+"w": "celebrate",
+"star": 0,
+"page": 109,
+"score": 0.81
+},
+{
+"w": "cent",
+"star": 0,
+"page": 109,
+"score": 0.8
+},
+{
+"w": "central",
+"star": 0,
+"page": 109,
+"score": 0.82
+},
+{
+"w": "centre",
+"star": 0,
+"page": 109,
+"score": 0.84
+},
+{
+"w": "century",
+"star": 0,
+"page": 109,
+"score": 0.86
+},
+{
+"w": "certain",
+"star": 0,
+"page": 109,
+"score": 0.87
+},
+{
+"w": "chair",
+"star": 1,
+"page": 109,
+"score": 0.79
+},
+{
+"w": "chalk",
+"star": 0,
+"page": 109,
+"score": 0.83
+},
+{
+"w": "challenge",
+"star": 0,
+"page": 109,
+"score": 0.87
+},
+{
+"w": "champion",
+"star": 0,
+"page": 109,
+"score": 0.86
+},
+{
+"w": "chance",
+"star": 0,
+"page": 109,
+"score": 0.84
+},
+{
+"w": "change",
+"star": 0,
+"page": 109,
+"score": 0.8
+},
+{
+"w": "character",
+"star": 0,
+"page": 109,
+"score": 0.85
+},
+{
+"w": "characteristic",
+"star": 0,
+"page": 109,
+"score": 0.93
+},
+{
+"w": "charity",
+"star": 0,
+"page": 109,
+"score": 0.82
+},
+{
+"w": "chat",
+"star": 0,
+"page": 109,
+"score": 0.8
+},
+{
+"w": "cheap",
+"star": 0,
+"page": 109,
+"score": 0.83
+},
+{
+"w": "cheat",
+"star": 0,
+"page": 109,
+"score": 0.83
+},
+{
+"w": "check",
+"star": 0,
+"page": 109,
+"score": 0.81
+},
+{
+"w": "cheer",
+"star": 0,
+"page": 109,
+"score": 0.81
+},
+{
+"w": "cheese",
+"star": 0,
+"page": 109,
+"score": 0.78
+},
+{
+"w": "chemistry",
+"star": 0,
+"page": 109,
+"score": 0.88
+},
+{
+"w": "chess",
+"star": 0,
+"page": 109,
+"score": 0.78
+},
+{
+"w": "chicken",
+"star": 0,
+"page": 109,
+"score": 0.76
+},
+{
+"w": "child",
+"star": 0,
+"page": 109,
+"score": 0.86
+},
+{
+"w": "China",
+"star": 0,
+"page": 109,
+"score": 0.83
+},
+{
+"w": "Chinese",
+"star": 0,
+"page": 109,
+"score": 0.75
+},
+{
+"w": "chip",
+"star": 0,
+"page": 109,
+"score": 0.8
+},
+{
+"w": "chocolate",
+"star": 0,
+"page": 109,
+"score": 0.81
+},
+{
+"w": "choice",
+"star": 0,
+"page": 109,
+"score": 0.82
+},
+{
+"w": "choose",
+"star": 0,
+"page": 109,
+"score": 0.83
+},
+{
+"w": "chopsticks",
+"star": 0,
+"page": 109,
+"score": 0.86
+},
+{
+"w": "chore",
+"star": 0,
+"page": 109,
+"score": 0.79
+},
+{
+"w": "Christmas",
+"star": 0,
+"page": 109,
+"score": 0.82
+},
+{
+"w": "cinema",
+"star": 0,
+"page": 109,
+"score": 0.84
+},
+{
+"w": "circle",
+"star": 0,
+"page": 109,
+"score": 0.86
+},
+{
+"w": "citizen",
+"star": 0,
+"page": 109,
+"score": 0.87
+},
+{
+"w": "city",
+"star": 0,
+"page": 109,
+"score": 0.8
+},
+{
+"w": "class",
+"star": 0,
+"page": 109,
+"score": 0.82
+},
+{
+"w": "classic",
+"star": 0,
+"page": 109,
+"score": 0.8
+},
+{
+"w": "classmate",
+"star": 0,
+"page": 109,
+"score": 0.88
+},
+{
+"w": "classroom",
+"star": 0,
+"page": 109,
+"score": 0.89
+},
+{
+"w": "clean",
+"star": 0,
+"page": 109,
+"score": 0.83
+},
+{
+"w": "clear",
+"star": 0,
+"page": 109,
+"score": 0.83
+},
+{
+"w": "clever",
+"star": 0,
+"page": 109,
+"score": 0.64
+},
+{
+"w": "click",
+"star": 0,
+"page": 109,
+"score": 0.83
+},
+{
+"w": "climate",
+"star": 0,
+"page": 109,
+"score": 0.7
+},
+{
+"w": "climb",
+"star": 0,
+"page": 109,
+"score": 0.77
+},
+{
+"w": "clock",
+"star": 1,
+"page": 109,
+"score": 0.84
+},
+{
+"w": "close",
+"star": 0,
+"page": 109,
+"score": 0.83
+},
+{
+"w": "clothes",
+"star": 0,
+"page": 110,
+"score": 0.87
+},
+{
+"w": "cloud",
+"star": 0,
+"page": 110,
+"score": 0.83
+},
+{
+"w": "cloudy",
+"star": 0,
+"page": 110,
+"score": 0.86
+},
+{
+"w": "club",
+"star": 0,
+"page": 110,
+"score": 0.8
+},
+{
+"w": "coach",
+"star": 0,
+"page": 110,
+"score": 0.83
+},
+{
+"w": "coast",
+"star": 0,
+"page": 110,
+"score": 0.79
+},
+{
+"w": "coffee",
+"star": 0,
+"page": 110,
+"score": 0.78
+},
+{
+"w": "coin",
+"star": 0,
+"page": 110,
+"score": 0.8
+},
+{
+"w": "cold",
+"star": 1,
+"page": 110,
+"score": 0.78
+},
+{
+"w": "collect",
+"star": 0,
+"page": 110,
+"score": 0.79
+},
+{
+"w": "college",
+"star": 0,
+"page": 110,
+"score": 0.82
+},
+{
+"w": "colour",
+"star": 0,
+"page": 110,
+"score": 0.92
+},
+{
+"w": "come",
+"star": 0,
+"page": 110,
+"score": 0.8
+},
+{
+"w": "comfortable",
+"star": 0,
+"page": 110,
+"score": 0.9
+},
+{
+"w": "common",
+"star": 0,
+"page": 110,
+"score": 0.82
+},
+{
+"w": "communicate",
+"star": 0,
+"page": 110,
+"score": 0.79
+},
+{
+"w": "community",
+"star": 0,
+"page": 110,
+"score": 0.89
+},
+{
+"w": "company",
+"star": 0,
+"page": 110,
+"score": 0.78
+},
+{
+"w": "compare",
+"star": 0,
+"page": 110,
+"score": 0.73
+},
+{
+"w": "compete",
+"star": 0,
+"page": 110,
+"score": 0.79
+},
+{
+"w": "complete",
+"star": 0,
+"page": 110,
+"score": 0.88
+},
+{
+"w": "computer",
+"star": 0,
+"page": 110,
+"score": 0.83
+},
+{
+"w": "concert",
+"star": 0,
+"page": 110,
+"score": 0.77
+},
+{
+"w": "condition",
+"star": 0,
+"page": 110,
+"score": 0.82
+},
+{
+"w": "confidence",
+"star": 0,
+"page": 110,
+"score": 0.88
+},
+{
+"w": "congratulation",
+"star": 0,
+"page": 110,
+"score": 0.92
+},
+{
+"w": "connect",
+"star": 0,
+"page": 110,
+"score": 0.79
+},
+{
+"w": "consider",
+"star": 0,
+"page": 110,
+"score": 0.88
+},
+{
+"w": "continue",
+"star": 0,
+"page": 110,
+"score": 0.84
+},
+{
+"w": "control",
+"star": 0,
+"page": 110,
+"score": 0.86
+},
+{
+"w": "convenient",
+"star": 0,
+"page": 110,
+"score": 0.88
+},
+{
+"w": "conversation",
+"star": 0,
+"page": 110,
+"score": 0.87
+},
+{
+"w": "cook",
+"star": 1,
+"page": 110,
+"score": 0.75
+},
+{
+"w": "cookie",
+"star": 0,
+"page": 110,
+"score": 0.86
+},
+{
+"w": "cooperate",
+"star": 0,
+"page": 110,
+"score": 0.85
+},
+{
+"w": "copy",
+"star": 0,
+"page": 110,
+"score": 0.74
+},
+{
+"w": "corn",
+"star": 0,
+"page": 110,
+"score": 0.79
+},
+{
+"w": "corner",
+"star": 0,
+"page": 110,
+"score": 0.74
+},
+{
+"w": "correct",
+"star": 0,
+"page": 110,
+"score": 0.83
+},
+{
+"w": "cost",
+"star": 0,
+"page": 110,
+"score": 0.8
+},
+{
+"w": "cotton",
+"star": 0,
+"page": 110,
+"score": 0.82
+},
+{
+"w": "cough",
+"star": 0,
+"page": 110,
+"score": 0.78
+},
+{
+"w": "could",
+"star": 0,
+"page": 110,
+"score": 0.83
+},
+{
+"w": "count",
+"star": 0,
+"page": 110,
+"score": 0.82
+},
+{
+"w": "country",
+"star": 0,
+"page": 110,
+"score": 0.86
+},
+{
+"w": "countryside",
+"star": 0,
+"page": 110,
+"score": 0.85
+},
+{
+"w": "couple",
+"star": 0,
+"page": 110,
+"score": 0.82
+},
+{
+"w": "courage",
+"star": 0,
+"page": 110,
+"score": 0.86
+},
+{
+"w": "course",
+"star": 0,
+"page": 110,
+"score": 0.85
+},
+{
+"w": "cousin",
+"star": 0,
+"page": 110,
+"score": 0.79
+},
+{
+"w": "cover",
+"star": 0,
+"page": 110,
+"score": 0.8
+},
+{
+"w": "cow",
+"star": 0,
+"page": 110,
+"score": 0.72
+},
+{
+"w": "crazy",
+"star": 0,
+"page": 110,
+"score": 0.78
+},
+{
+"w": "create",
+"star": 0,
+"page": 110,
+"score": 0.83
+},
+{
+"w": "creative",
+"star": 0,
+"page": 111,
+"score": 0.79
+},
+{
+"w": "cross",
+"star": 0,
+"page": 111,
+"score": 0.67
+},
+{
+"w": "crowded",
+"star": 0,
+"page": 111,
+"score": 0.84
+},
+{
+"w": "cry",
+"star": 0,
+"page": 111,
+"score": 0.75
+},
+{
+"w": "cucumber",
+"star": 0,
+"page": 111,
+"score": 0.83
+},
+{
+"w": "culture",
+"star": 0,
+"page": 111,
+"score": 0.87
+},
+{
+"w": "cup",
+"star": 0,
+"page": 111,
+"score": 0.75
+},
+{
+"w": "curious",
+"star": 0,
+"page": 111,
+"score": 0.87
+},
+{
+"w": "customer",
+"star": 0,
+"page": 111,
+"score": 0.8
+},
+{
+"w": "cut",
+"star": 1,
+"page": 111,
+"score": 0.71
+},
+{
+"w": "cute",
+"star": 0,
+"page": 111,
+"score": 0.8
+},
+{
+"w": "daily",
+"star": 0,
+"page": 111,
+"score": 0.77
+},
+{
+"w": "dance",
+"star": 0,
+"page": 111,
+"score": 0.83
+},
+{
+"w": "danger",
+"star": 0,
+"page": 111,
+"score": 0.82
+},
+{
+"w": "dangerous",
+"star": 0,
+"page": 111,
+"score": 0.83
+},
+{
+"w": "dark",
+"star": 0,
+"page": 111,
+"score": 0.8
+},
+{
+"w": "date",
+"star": 0,
+"page": 111,
+"score": 0.67
+},
+{
+"w": "daughter",
+"star": 0,
+"page": 111,
+"score": 0.81
+},
+{
+"w": "day",
+"star": 0,
+"page": 111,
+"score": 0.75
+},
+{
+"w": "dead",
+"star": 0,
+"page": 111,
+"score": 0.7
+},
+{
+"w": "deaf",
+"star": 0,
+"page": 111,
+"score": 0.8
+},
+{
+"w": "deal",
+"star": 0,
+"page": 111,
+"score": 0.72
+},
+{
+"w": "dear",
+"star": 0,
+"page": 111,
+"score": 0.65
+},
+{
+"w": "death",
+"star": 0,
+"page": 111,
+"score": 0.78
+},
+{
+"w": "decide",
+"star": 0,
+"page": 111,
+"score": 0.75
+},
+{
+"w": "deep",
+"star": 0,
+"page": 111,
+"score": 0.8
+},
+{
+"w": "degree",
+"star": 0,
+"page": 111,
+"score": 0.85
+},
+{
+"w": "delicious",
+"star": 0,
+"page": 111,
+"score": 0.82
+},
+{
+"w": "dentist",
+"star": 0,
+"page": 111,
+"score": 0.83
+},
+{
+"w": "depend",
+"star": 0,
+"page": 111,
+"score": 0.82
+},
+{
+"w": "describe",
+"star": 0,
+"page": 111,
+"score": 0.84
+},
+{
+"w": "desert",
+"star": 0,
+"page": 111,
+"score": 0.84
+},
+{
+"w": "design",
+"star": 0,
+"page": 111,
+"score": 0.8
+},
+{
+"w": "desk",
+"star": 1,
+"page": 111,
+"score": 0.84
+},
+{
+"w": "develop",
+"star": 0,
+"page": 111,
+"score": 0.73
+},
+{
+"w": "dialogue",
+"star": 0,
+"page": 111,
+"score": 0.92
+},
+{
+"w": "diary",
+"star": 0,
+"page": 111,
+"score": 0.77
+},
+{
+"w": "dictionary",
+"star": 0,
+"page": 111,
+"score": 0.84
+},
+{
+"w": "die",
+"star": 0,
+"page": 111,
+"score": 0.67
+},
+{
+"w": "diet",
+"star": 0,
+"page": 111,
+"score": 0.69
+},
+{
+"w": "difference",
+"star": 0,
+"page": 111,
+"score": 0.85
+},
+{
+"w": "different",
+"star": 0,
+"page": 111,
+"score": 0.85
+},
+{
+"w": "difficult",
+"star": 0,
+"page": 111,
+"score": 0.84
+},
+{
+"w": "digital",
+"star": 0,
+"page": 111,
+"score": 0.82
+},
+{
+"w": "dining",
+"star": 0,
+"page": 111,
+"score": 0.86
+},
+{
+"w": "dinner",
+"star": 0,
+"page": 111,
+"score": 0.78
+},
+{
+"w": "direct",
+"star": 0,
+"page": 111,
+"score": 0.8
+},
+{
+"w": "director",
+"star": 0,
+"page": 111,
+"score": 0.82
+},
+{
+"w": "dirty",
+"star": 0,
+"page": 111,
+"score": 0.76
+},
+{
+"w": "disappoint",
+"star": 0,
+"page": 111,
+"score": 0.9
+},
+{
+"w": "disaster",
+"star": 0,
+"page": 111,
+"score": 0.89
+},
+{
+"w": "discover",
+"star": 0,
+"page": 111,
+"score": 0.78
+},
+{
+"w": "discuss",
+"star": 0,
+"page": 111,
+"score": 0.86
+},
+{
+"w": "disease",
+"star": 0,
+"page": 112,
+"score": 0.87
+},
+{
+"w": "dish",
+"star": 0,
+"page": 112,
+"score": 0.75
+},
+{
+"w": "divide",
+"star": 0,
+"page": 112,
+"score": 0.81
+},
+{
+"w": "do",
+"star": 1,
+"page": 112,
+"score": 0.79
+},
+{
+"w": "doctor",
+"star": 0,
+"page": 112,
+"score": 0.8
+},
+{
+"w": "dollar",
+"star": 0,
+"page": 112,
+"score": 0.81
+},
+{
+"w": "donate",
+"star": 0,
+"page": 112,
+"score": 0.65
+},
+{
+"w": "door",
+"star": 1,
+"page": 112,
+"score": 0.8
+},
+{
+"w": "double",
+"star": 0,
+"page": 112,
+"score": 0.79
+},
+{
+"w": "doubt",
+"star": 0,
+"page": 112,
+"score": 0.81
+},
+{
+"w": "down",
+"star": 0,
+"page": 112,
+"score": 0.69
+},
+{
+"w": "download",
+"star": 0,
+"page": 112,
+"score": 0.84
+},
+{
+"w": "dragon",
+"star": 0,
+"page": 112,
+"score": 0.81
+},
+{
+"w": "drama",
+"star": 0,
+"page": 112,
+"score": 0.81
+},
+{
+"w": "draw",
+"star": 0,
+"page": 112,
+"score": 0.8
+},
+{
+"w": "dream",
+"star": 0,
+"page": 112,
+"score": 0.77
+},
+{
+"w": "dress",
+"star": 0,
+"page": 112,
+"score": 0.83
+},
+{
+"w": "drink",
+"star": 1,
+"page": 112,
+"score": 0.76
+},
+{
+"w": "drive",
+"star": 0,
+"page": 112,
+"score": 0.8
+},
+{
+"w": "driver",
+"star": 0,
+"page": 112,
+"score": 0.72
+},
+{
+"w": "drop",
+"star": 0,
+"page": 112,
+"score": 0.77
+},
+{
+"w": "dry",
+"star": 0,
+"page": 112,
+"score": 0.75
+},
+{
+"w": "duck",
+"star": 1,
+"page": 112,
+"score": 0.78
+},
+{
+"w": "dumpling",
+"star": 0,
+"page": 112,
+"score": 0.87
+},
+{
+"w": "during",
+"star": 0,
+"page": 112,
+"score": 0.79
+},
+{
+"w": "duty",
+"star": 0,
+"page": 112,
+"score": 0.8
+},
+{
+"w": "each",
+"star": 0,
+"page": 112,
+"score": 0.8
+},
+{
+"w": "eagle",
+"star": 0,
+"page": 112,
+"score": 0.8
+},
+{
+"w": "ear",
+"star": 0,
+"page": 112,
+"score": 0.75
+},
+{
+"w": "early",
+"star": 0,
+"page": 112,
+"score": 0.83
+},
+{
+"w": "earth",
+"star": 1,
+"page": 112,
+"score": 0.75
+},
+{
+"w": "earthquake",
+"star": 0,
+"page": 112,
+"score": 0.9
+},
+{
+"w": "east",
+"star": 0,
+"page": 112,
+"score": 0.7
+},
+{
+"w": "easy",
+"star": 0,
+"page": 112,
+"score": 0.8
+},
+{
+"w": "eat",
+"star": 1,
+"page": 112,
+"score": 0.76
+},
+{
+"w": "education",
+"star": 0,
+"page": 112,
+"score": 0.82
+},
+{
+"w": "effect",
+"star": 0,
+"page": 112,
+"score": 0.83
+},
+{
+"w": "effort",
+"star": 0,
+"page": 112,
+"score": 0.79
+},
+{
+"w": "egg",
+"star": 0,
+"page": 112,
+"score": 0.74
+},
+{
+"w": "either",
+"star": 0,
+"page": 112,
+"score": 0.86
+},
+{
+"w": "elder",
+"star": 0,
+"page": 112,
+"score": 0.83
+},
+{
+"w": "electric",
+"star": 0,
+"page": 112,
+"score": 0.78
+},
+{
+"w": "electronic",
+"star": 0,
+"page": 112,
+"score": 0.85
+},
+{
+"w": "elephant",
+"star": 1,
+"page": 112,
+"score": 0.82
+},
+{
+"w": "else",
+"star": 0,
+"page": 112,
+"score": 0.8
+},
+{
+"w": "email",
+"star": 1,
+"page": 112,
+"score": 0.84
+},
+{
+"w": "emergency",
+"star": 0,
+"page": 112,
+"score": 0.89
+},
+{
+"w": "emperor",
+"star": 0,
+"page": 112,
+"score": 0.85
+},
+{
+"w": "empress",
+"star": 0,
+"page": 112,
+"score": 0.85
+},
+{
+"w": "empty",
+"star": 0,
+"page": 112,
+"score": 0.83
+},
+{
+"w": "encourage",
+"star": 0,
+"page": 112,
+"score": 0.87
+},
+{
+"w": "end",
+"star": 0,
+"page": 112,
+"score": 0.73
+},
+{
+"w": "enemy",
+"star": 0,
+"page": 112,
+"score": 0.8
+},
+{
+"w": "energetic",
+"star": 0,
+"page": 112,
+"score": 0.83
+},
+{
+"w": "energy",
+"star": 0,
+"page": 113,
+"score": 0.85
+},
+{
+"w": "engineer",
+"star": 0,
+"page": 113,
+"score": 0.88
+},
+{
+"w": "English",
+"star": 0,
+"page": 113,
+"score": 0.87
+},
+{
+"w": "enjoy",
+"star": 0,
+"page": 113,
+"score": 0.83
+},
+{
+"w": "enough",
+"star": 0,
+"page": 113,
+"score": 0.81
+},
+{
+"w": "enter",
+"star": 0,
+"page": 113,
+"score": 0.78
+},
+{
+"w": "environment",
+"star": 0,
+"page": 113,
+"score": 0.9
+},
+{
+"w": "era",
+"star": 0,
+"page": 113,
+"score": 0.74
+},
+{
+"w": "eraser",
+"star": 0,
+"page": 113,
+"score": 0.75
+},
+{
+"w": "especially",
+"star": 0,
+"page": 113,
+"score": 0.91
+},
+{
+"w": "even",
+"star": 0,
+"page": 113,
+"score": 0.8
+},
+{
+"w": "evening",
+"star": 0,
+"page": 113,
+"score": 0.87
+},
+{
+"w": "event",
+"star": 0,
+"page": 113,
+"score": 0.73
+},
+{
+"w": "ever",
+"star": 0,
+"page": 113,
+"score": 0.8
+},
+{
+"w": "every",
+"star": 0,
+"page": 113,
+"score": 0.83
+},
+{
+"w": "everybody",
+"star": 0,
+"page": 113,
+"score": 0.93
+},
+{
+"w": "everyone",
+"star": 0,
+"page": 113,
+"score": 0.93
+},
+{
+"w": "everyday",
+"star": 0,
+"page": 113,
+"score": 0.87
+},
+{
+"w": "everything",
+"star": 0,
+"page": 113,
+"score": 0.83
+},
+{
+"w": "everywhere",
+"star": 0,
+"page": 113,
+"score": 0.85
+},
+{
+"w": "exactly",
+"star": 0,
+"page": 113,
+"score": 0.86
+},
+{
+"w": "exam",
+"star": 0,
+"page": 113,
+"score": 0.92
+},
+{
+"w": "example",
+"star": 0,
+"page": 113,
+"score": 0.87
+},
+{
+"w": "excellent",
+"star": 0,
+"page": 113,
+"score": 0.86
+},
+{
+"w": "except",
+"star": 0,
+"page": 113,
+"score": 0.85
+},
+{
+"w": "excited",
+"star": 1,
+"page": 113,
+"score": 0.87
+},
+{
+"w": "exciting",
+"star": 0,
+"page": 113,
+"score": 0.87
+},
+{
+"w": "excuse",
+"star": 0,
+"page": 113,
+"score": 0.85
+},
+{
+"w": "exercise",
+"star": 0,
+"page": 113,
+"score": 0.83
+},
+{
+"w": "expect",
+"star": 0,
+"page": 113,
+"score": 0.86
+},
+{
+"w": "expensive",
+"star": 0,
+"page": 113,
+"score": 0.87
+},
+{
+"w": "experience",
+"star": 0,
+"page": 113,
+"score": 0.82
+},
+{
+"w": "expert",
+"star": 0,
+"page": 113,
+"score": 0.86
+},
+{
+"w": "explain",
+"star": 0,
+"page": 113,
+"score": 0.74
+},
+{
+"w": "explore",
+"star": 0,
+"page": 113,
+"score": 0.87
+},
+{
+"w": "express",
+"star": 0,
+"page": 113,
+"score": 0.87
+},
+{
+"w": "eye",
+"star": 0,
+"page": 113,
+"score": 0.69
+},
+{
+"w": "face",
+"star": 0,
+"page": 113,
+"score": 0.77
+},
+{
+"w": "fact",
+"star": 0,
+"page": 113,
+"score": 0.73
+},
+{
+"w": "factory",
+"star": 0,
+"page": 113,
+"score": 0.86
+},
+{
+"w": "fail",
+"star": 0,
+"page": 113,
+"score": 0.8
+},
+{
+"w": "fair",
+"star": 0,
+"page": 113,
+"score": 0.8
+},
+{
+"w": "fall",
+"star": 0,
+"page": 113,
+"score": 0.76
+},
+{
+"w": "false",
+"star": 0,
+"page": 113,
+"score": 0.8
+},
+{
+"w": "familiar",
+"star": 0,
+"page": 113,
+"score": 0.89
+},
+{
+"w": "family",
+"star": 0,
+"page": 113,
+"score": 0.8
+},
+{
+"w": "famous",
+"star": 0,
+"page": 113,
+"score": 0.76
+},
+{
+"w": "fan",
+"star": 1,
+"page": 113,
+"score": 0.82
+},
+{
+"w": "fantastic",
+"star": 0,
+"page": 113,
+"score": 0.89
+},
+{
+"w": "far",
+"star": 1,
+"page": 113,
+"score": 0.69
+},
+{
+"w": "farm",
+"star": 0,
+"page": 113,
+"score": 0.8
+},
+{
+"w": "farmer",
+"star": 0,
+"page": 113,
+"score": 0.78
+},
+{
+"w": "fashion",
+"star": 0,
+"page": 113,
+"score": 0.84
+},
+{
+"w": "fat",
+"star": 0,
+"page": 113,
+"score": 0.74
+},
+{
+"w": "father",
+"star": 0,
+"page": 114,
+"score": 0.86
+},
+{
+"w": "favourite",
+"star": 0,
+"page": 114,
+"score": 0.9
+},
+{
+"w": "fear",
+"star": 0,
+"page": 114,
+"score": 0.8
+},
+{
+"w": "feed",
+"star": 0,
+"page": 114,
+"score": 0.74
+},
+{
+"w": "fee",
+"star": 1,
+"page": 114,
+"score": 0.8
+},
+{
+"w": "feeling",
+"star": 0,
+"page": 114,
+"score": 0.83
+},
+{
+"w": "festival",
+"star": 0,
+"page": 114,
+"score": 0.88
+},
+{
+"w": "fever",
+"star": 0,
+"page": 114,
+"score": 0.83
+},
+{
+"w": "few",
+"star": 0,
+"page": 114,
+"score": 0.66
+},
+{
+"w": "field",
+"star": 0,
+"page": 114,
+"score": 0.78
+},
+{
+"w": "fight",
+"star": 0,
+"page": 114,
+"score": 0.65
+},
+{
+"w": "film",
+"star": 0,
+"page": 114,
+"score": 0.79
+},
+{
+"w": "final",
+"star": 0,
+"page": 114,
+"score": 0.83
+},
+{
+"w": "find",
+"star": 1,
+"page": 114,
+"score": 0.84
+},
+{
+"w": "fine",
+"star": 0,
+"page": 114,
+"score": 0.79
+},
+{
+"w": "finger",
+"star": 0,
+"page": 114,
+"score": 0.84
+},
+{
+"w": "finish",
+"star": 0,
+"page": 114,
+"score": 0.86
+},
+{
+"w": "fire",
+"star": 1,
+"page": 114,
+"score": 0.78
+},
+{
+"w": "fireman",
+"star": 0,
+"page": 114,
+"score": 0.92
+},
+{
+"w": "firework",
+"star": 0,
+"page": 114,
+"score": 0.81
+},
+{
+"w": "fish",
+"star": 1,
+"page": 114,
+"score": 0.83
+},
+{
+"w": "flag",
+"star": 0,
+"page": 114,
+"score": 0.7
+},
+{
+"w": "flat",
+"star": 0,
+"page": 114,
+"score": 0.71
+},
+{
+"w": "poou",
+"star": 0,
+"page": 114,
+"score": 0.63
+},
+{
+"w": "floor",
+"star": 0,
+"page": 114,
+"score": 0.83
+},
+{
+"w": "flower",
+"star": 0,
+"page": 114,
+"score": 0.86
+},
+{
+"w": "flu",
+"star": 0,
+"page": 114,
+"score": 0.73
+},
+{
+"w": "fly",
+"star": 1,
+"page": 114,
+"score": 0.78
+},
+{
+"w": "focus",
+"star": 0,
+"page": 114,
+"score": 0.83
+},
+{
+"w": "fog",
+"star": 0,
+"page": 114,
+"score": 0.73
+},
+{
+"w": "folk",
+"star": 0,
+"page": 114,
+"score": 0.78
+},
+{
+"w": "follow",
+"star": 0,
+"page": 114,
+"score": 0.79
+},
+{
+"w": "pooJ",
+"star": 0,
+"page": 114,
+"score": 0.56
+},
+{
+"w": "fool",
+"star": 0,
+"page": 114,
+"score": 0.73
+},
+{
+"w": "foot",
+"star": 0,
+"page": 114,
+"score": 0.89
+},
+{
+"w": "football",
+"star": 1,
+"page": 114,
+"score": 0.88
+},
+{
+"w": "for",
+"star": 1,
+"page": 114,
+"score": 0.82
+},
+{
+"w": "force",
+"star": 0,
+"page": 114,
+"score": 0.83
+},
+{
+"w": "foreign",
+"star": 0,
+"page": 114,
+"score": 0.76
+},
+{
+"w": "forest",
+"star": 0,
+"page": 114,
+"score": 0.8
+},
+{
+"w": "forever",
+"star": 0,
+"page": 114,
+"score": 0.85
+},
+{
+"w": "forget",
+"star": 0,
+"page": 114,
+"score": 0.8
+},
+{
+"w": "fork",
+"star": 0,
+"page": 114,
+"score": 0.8
+},
+{
+"w": "form",
+"star": 0,
+"page": 114,
+"score": 0.71
+},
+{
+"w": "forward",
+"star": 0,
+"page": 114,
+"score": 0.77
+},
+{
+"w": "found",
+"star": 0,
+"page": 114,
+"score": 0.75
+},
+{
+"w": "fox",
+"star": 0,
+"page": 114,
+"score": 0.68
+},
+{
+"w": "free",
+"star": 0,
+"page": 114,
+"score": 0.8
+},
+{
+"w": "freeze",
+"star": 0,
+"page": 114,
+"score": 0.85
+},
+{
+"w": "fresh",
+"star": 0,
+"page": 114,
+"score": 0.83
+},
+{
+"w": "fridge",
+"star": 0,
+"page": 114,
+"score": 0.89
+},
+{
+"w": "friend",
+"star": 1,
+"page": 114,
+"score": 0.84
+},
+{
+"w": "friendly",
+"star": 0,
+"page": 114,
+"score": 0.84
+},
+{
+"w": "friendship",
+"star": 0,
+"page": 115,
+"score": 0.86
+},
+{
+"w": "from",
+"star": 0,
+"page": 115,
+"score": 0.8
+},
+{
+"w": "front",
+"star": 1,
+"page": 115,
+"score": 0.86
+},
+{
+"w": "fruit",
+"star": 1,
+"page": 115,
+"score": 0.82
+},
+{
+"w": "full",
+"star": 0,
+"page": 115,
+"score": 0.79
+},
+{
+"w": "fun",
+"star": 0,
+"page": 115,
+"score": 0.64
+},
+{
+"w": "funny",
+"star": 0,
+"page": 115,
+"score": 0.83
+},
+{
+"w": "future",
+"star": 0,
+"page": 115,
+"score": 0.85
+},
+{
+"w": "game",
+"star": 0,
+"page": 115,
+"score": 0.8
+},
+{
+"w": "garden",
+"star": 0,
+"page": 115,
+"score": 0.86
+},
+{
+"w": "gas",
+"star": 0,
+"page": 115,
+"score": 0.75
+},
+{
+"w": "gate",
+"star": 0,
+"page": 115,
+"score": 0.8
+},
+{
+"w": "general",
+"star": 0,
+"page": 115,
+"score": 0.87
+},
+{
+"w": "gentleman",
+"star": 0,
+"page": 115,
+"score": 0.9
+},
+{
+"w": "geography",
+"star": 0,
+"page": 115,
+"score": 0.9
+},
+{
+"w": "get",
+"star": 1,
+"page": 115,
+"score": 0.77
+},
+{
+"w": "gif",
+"star": 1,
+"page": 115,
+"score": 0.75
+},
+{
+"w": "giraffe",
+"star": 0,
+"page": 115,
+"score": 0.85
+},
+{
+"w": "girl",
+"star": 1,
+"page": 115,
+"score": 0.63
+},
+{
+"w": "give",
+"star": 0,
+"page": 115,
+"score": 0.63
+},
+{
+"w": "glad",
+"star": 0,
+"page": 115,
+"score": 0.62
+},
+{
+"w": "glass",
+"star": 0,
+"page": 115,
+"score": 0.81
+},
+{
+"w": "glove",
+"star": 0,
+"page": 115,
+"score": 0.83
+},
+{
+"w": "glue",
+"star": 0,
+"page": 115,
+"score": 0.76
+},
+{
+"w": "go",
+"star": 0,
+"page": 115,
+"score": 0.65
+},
+{
+"w": "goal",
+"star": 0,
+"page": 115,
+"score": 0.8
+},
+{
+"w": "pos",
+"star": 0,
+"page": 115,
+"score": 0.52
+},
+{
+"w": "good",
+"star": 1,
+"page": 115,
+"score": 0.82
+},
+{
+"w": "goodbye",
+"star": 0,
+"page": 115,
+"score": 0.87
+},
+{
+"w": "government",
+"star": 0,
+"page": 115,
+"score": 0.87
+},
+{
+"w": "grade",
+"star": 0,
+"page": 115,
+"score": 0.77
+},
+{
+"w": "graduate",
+"star": 0,
+"page": 115,
+"score": 0.89
+},
+{
+"w": "grammar",
+"star": 0,
+"page": 115,
+"score": 0.79
+},
+{
+"w": "grandfather",
+"star": 0,
+"page": 115,
+"score": 0.9
+},
+{
+"w": "grandmother",
+"star": 0,
+"page": 115,
+"score": 0.9
+},
+{
+"w": "grape",
+"star": 0,
+"page": 115,
+"score": 0.81
+},
+{
+"w": "grass",
+"star": 0,
+"page": 115,
+"score": 0.79
+},
+{
+"w": "great",
+"star": 1,
+"page": 115,
+"score": 0.82
+},
+{
+"w": "green",
+"star": 0,
+"page": 115,
+"score": 0.76
+},
+{
+"w": "greet",
+"star": 0,
+"page": 115,
+"score": 0.76
+},
+{
+"w": "grey",
+"star": 0,
+"page": 115,
+"score": 0.86
+},
+{
+"w": "ground",
+"star": 0,
+"page": 115,
+"score": 0.79
+},
+{
+"w": "group",
+"star": 0,
+"page": 115,
+"score": 0.81
+},
+{
+"w": "grow",
+"star": 0,
+"page": 115,
+"score": 0.75
+},
+{
+"w": "guard",
+"star": 0,
+"page": 115,
+"score": 0.78
+},
+{
+"w": "guess",
+"star": 0,
+"page": 115,
+"score": 0.76
+},
+{
+"w": "guest",
+"star": 0,
+"page": 115,
+"score": 0.82
+},
+{
+"w": "guide",
+"star": 0,
+"page": 115,
+"score": 0.76
+},
+{
+"w": "guitar",
+"star": 0,
+"page": 115,
+"score": 0.77
+},
+{
+"w": "gun",
+"star": 0,
+"page": 115,
+"score": 0.64
+},
+{
+"w": "gym",
+"star": 0,
+"page": 115,
+"score": 0.91
+},
+{
+"w": "habit",
+"star": 0,
+"page": 116,
+"score": 0.75
+},
+{
+"w": "hair",
+"star": 1,
+"page": 116,
+"score": 0.82
+},
+{
+"w": "half",
+"star": 1,
+"page": 116,
+"score": 0.81
+},
+{
+"w": "hall",
+"star": 0,
+"page": 116,
+"score": 0.8
+},
+{
+"w": "hamburger",
+"star": 0,
+"page": 116,
+"score": 0.85
+},
+{
+"w": "hand",
+"star": 1,
+"page": 116,
+"score": 0.75
+},
+{
+"w": "handsome",
+"star": 0,
+"page": 116,
+"score": 0.89
+},
+{
+"w": "hang",
+"star": 0,
+"page": 116,
+"score": 0.74
+},
+{
+"w": "happen",
+"star": 0,
+"page": 116,
+"score": 0.86
+},
+{
+"w": "happy",
+"star": 0,
+"page": 116,
+"score": 0.83
+},
+{
+"w": "hard",
+"star": 1,
+"page": 116,
+"score": 0.71
+},
+{
+"w": "hardly",
+"star": 0,
+"page": 116,
+"score": 0.8
+},
+{
+"w": "harm",
+"star": 0,
+"page": 116,
+"score": 0.8
+},
+{
+"w": "hat",
+"star": 0,
+"page": 116,
+"score": 0.7
+},
+{
+"w": "hate",
+"star": 0,
+"page": 116,
+"score": 0.79
+},
+{
+"w": "have",
+"star": 0,
+"page": 116,
+"score": 0.84
+},
+{
+"w": "he",
+"star": 1,
+"page": 116,
+"score": 0.75
+},
+{
+"w": "head",
+"star": 1,
+"page": 116,
+"score": 0.82
+},
+{
+"w": "health",
+"star": 0,
+"page": 116,
+"score": 0.74
+},
+{
+"w": "healthy",
+"star": 0,
+"page": 116,
+"score": 0.84
+},
+{
+"w": "hear",
+"star": 0,
+"page": 116,
+"score": 0.79
+},
+{
+"w": "heart",
+"star": 0,
+"page": 116,
+"score": 0.82
+},
+{
+"w": "heat",
+"star": 0,
+"page": 116,
+"score": 0.71
+},
+{
+"w": "heavy",
+"star": 0,
+"page": 116,
+"score": 0.83
+},
+{
+"w": "height",
+"star": 0,
+"page": 116,
+"score": 0.86
+},
+{
+"w": "hello",
+"star": 0,
+"page": 116,
+"score": 0.81
+},
+{
+"w": "help",
+"star": 0,
+"page": 116,
+"score": 0.71
+},
+{
+"w": "helpful",
+"star": 1,
+"page": 116,
+"score": 0.84
+},
+{
+"w": "hen",
+"star": 0,
+"page": 116,
+"score": 0.72
+},
+{
+"w": "her",
+"star": 1,
+"page": 116,
+"score": 0.68
+},
+{
+"w": "here",
+"star": 0,
+"page": 116,
+"score": 0.78
+},
+{
+"w": "hero",
+"star": 0,
+"page": 116,
+"score": 0.79
+},
+{
+"w": "hers",
+"star": 0,
+"page": 116,
+"score": 0.8
+},
+{
+"w": "herself",
+"star": 0,
+"page": 116,
+"score": 0.83
+},
+{
+"w": "hi",
+"star": 1,
+"page": 116,
+"score": 0.75
+},
+{
+"w": "hide",
+"star": 0,
+"page": 116,
+"score": 0.75
+},
+{
+"w": "high",
+"star": 0,
+"page": 116,
+"score": 0.69
+},
+{
+"w": "hike",
+"star": 0,
+"page": 116,
+"score": 0.8
+},
+{
+"w": "hil",
+"star": 1,
+"page": 116,
+"score": 0.7
+},
+{
+"w": "him",
+"star": 0,
+"page": 116,
+"score": 0.68
+},
+{
+"w": "himself",
+"star": 0,
+"page": 116,
+"score": 0.87
+},
+{
+"w": "his",
+"star": 1,
+"page": 116,
+"score": 0.74
+},
+{
+"w": "history",
+"star": 0,
+"page": 116,
+"score": 0.81
+},
+{
+"w": "hit",
+"star": 0,
+"page": 116,
+"score": 0.73
+},
+{
+"w": "hobby",
+"star": 0,
+"page": 116,
+"score": 0.81
+},
+{
+"w": "hold",
+"star": 0,
+"page": 116,
+"score": 0.7
+},
+{
+"w": "hole",
+"star": 0,
+"page": 116,
+"score": 0.8
+},
+{
+"w": "holiday",
+"star": 0,
+"page": 116,
+"score": 0.87
+},
+{
+"w": "home",
+"star": 0,
+"page": 116,
+"score": 0.8
+},
+{
+"w": "hometown",
+"star": 0,
+"page": 116,
+"score": 0.86
+},
+{
+"w": "homework",
+"star": 0,
+"page": 116,
+"score": 0.87
+},
+{
+"w": "honest",
+"star": 0,
+"page": 116,
+"score": 0.85
+},
+{
+"w": "honey",
+"star": 0,
+"page": 116,
+"score": 0.8
+},
+{
+"w": "honour",
+"star": 0,
+"page": 116,
+"score": 0.9
+},
+{
+"w": "hope",
+"star": 0,
+"page": 116,
+"score": 0.8
+},
+{
+"w": "horse",
+"star": 0,
+"page": 117,
+"score": 0.82
+},
+{
+"w": "hospital",
+"star": 1,
+"page": 117,
+"score": 0.85
+},
+{
+"w": "host",
+"star": 0,
+"page": 117,
+"score": 0.89
+},
+{
+"w": "hostess",
+"star": 0,
+"page": 117,
+"score": 0.89
+},
+{
+"w": "hot",
+"star": 1,
+"page": 117,
+"score": 0.72
+},
+{
+"w": "hotel",
+"star": 0,
+"page": 117,
+"score": 0.71
+},
+{
+"w": "hour",
+"star": 0,
+"page": 117,
+"score": 0.8
+},
+{
+"w": "house",
+"star": 0,
+"page": 117,
+"score": 0.83
+},
+{
+"w": "housework",
+"star": 0,
+"page": 117,
+"score": 0.84
+},
+{
+"w": "how",
+"star": 0,
+"page": 117,
+"score": 0.75
+},
+{
+"w": "however",
+"star": 0,
+"page": 117,
+"score": 0.83
+},
+{
+"w": "hug",
+"star": 0,
+"page": 117,
+"score": 0.75
+},
+{
+"w": "huge",
+"star": 0,
+"page": 117,
+"score": 0.8
+},
+{
+"w": "human",
+"star": 0,
+"page": 117,
+"score": 0.82
+},
+{
+"w": "humour",
+"star": 0,
+"page": 117,
+"score": 0.9
+},
+{
+"w": "hungry",
+"star": 0,
+"page": 117,
+"score": 0.84
+},
+{
+"w": "hunt",
+"star": 0,
+"page": 117,
+"score": 0.79
+},
+{
+"w": "hurry",
+"star": 0,
+"page": 117,
+"score": 0.83
+},
+{
+"w": "hurt",
+"star": 1,
+"page": 117,
+"score": 0.8
+},
+{
+"w": "husband",
+"star": 0,
+"page": 117,
+"score": 0.81
+},
+{
+"w": "ice",
+"star": 0,
+"page": 117,
+"score": 0.75
+},
+{
+"w": "ice cream",
+"star": 0,
+"page": 117,
+"score": 0.84
+},
+{
+"w": "idea",
+"star": 0,
+"page": 117,
+"score": 0.71
+},
+{
+"w": "if",
+"star": 0,
+"page": 117,
+"score": 0.67
+},
+{
+"w": "il",
+"star": 1,
+"page": 117,
+"score": 0.62
+},
+{
+"w": "illness",
+"star": 0,
+"page": 117,
+"score": 0.86
+},
+{
+"w": "imagine",
+"star": 0,
+"page": 117,
+"score": 0.83
+},
+{
+"w": "important",
+"star": 0,
+"page": 117,
+"score": 0.88
+},
+{
+"w": "impossible",
+"star": 0,
+"page": 117,
+"score": 0.91
+},
+{
+"w": "improve",
+"star": 0,
+"page": 117,
+"score": 0.87
+},
+{
+"w": "include",
+"star": 0,
+"page": 117,
+"score": 0.82
+},
+{
+"w": "increase",
+"star": 0,
+"page": 117,
+"score": 0.8
+},
+{
+"w": "industry",
+"star": 0,
+"page": 117,
+"score": 0.86
+},
+{
+"w": "influence",
+"star": 0,
+"page": 117,
+"score": 0.81
+},
+{
+"w": "information",
+"star": 0,
+"page": 117,
+"score": 0.86
+},
+{
+"w": "insect",
+"star": 0,
+"page": 117,
+"score": 0.85
+},
+{
+"w": "inside",
+"star": 0,
+"page": 117,
+"score": 0.83
+},
+{
+"w": "instead",
+"star": 0,
+"page": 117,
+"score": 0.87
+},
+{
+"w": "instruction",
+"star": 0,
+"page": 117,
+"score": 0.88
+},
+{
+"w": "instrument",
+"star": 0,
+"page": 117,
+"score": 0.9
+},
+{
+"w": "interest",
+"star": 0,
+"page": 117,
+"score": 0.88
+},
+{
+"w": "interesting",
+"star": 0,
+"page": 117,
+"score": 0.92
+},
+{
+"w": "international",
+"star": 0,
+"page": 117,
+"score": 0.93
+},
+{
+"w": "Internet",
+"star": 1,
+"page": 117,
+"score": 0.85
+},
+{
+"w": "interview",
+"star": 0,
+"page": 117,
+"score": 0.87
+},
+{
+"w": "into",
+"star": 0,
+"page": 117,
+"score": 0.77
+},
+{
+"w": "introduce",
+"star": 0,
+"page": 117,
+"score": 0.86
+},
+{
+"w": "invent",
+"star": 0,
+"page": 117,
+"score": 0.85
+},
+{
+"w": "invite",
+"star": 0,
+"page": 117,
+"score": 0.86
+},
+{
+"w": "island",
+"star": 0,
+"page": 117,
+"score": 0.82
+},
+{
+"w": "it",
+"star": 1,
+"page": 117,
+"score": 0.66
+},
+{
+"w": "its",
+"star": 0,
+"page": 117,
+"score": 0.75
+},
+{
+"w": "itself",
+"star": 0,
+"page": 117,
+"score": 0.86
+},
+{
+"w": "jacket",
+"star": 0,
+"page": 118,
+"score": 0.8
+},
+{
+"w": "jeans",
+"star": 0,
+"page": 118,
+"score": 0.83
+},
+{
+"w": "job",
+"star": 1,
+"page": 118,
+"score": 0.71
+},
+{
+"w": "join",
+"star": 0,
+"page": 118,
+"score": 0.73
+},
+{
+"w": "joke",
+"star": 0,
+"page": 118,
+"score": 0.74
+},
+{
+"w": "journey",
+"star": 0,
+"page": 118,
+"score": 0.8
+},
+{
+"w": "joy",
+"star": 0,
+"page": 118,
+"score": 0.74
+},
+{
+"w": "judge",
+"star": 0,
+"page": 118,
+"score": 0.72
+},
+{
+"w": "juice",
+"star": 0,
+"page": 118,
+"score": 0.83
+},
+{
+"w": "jump",
+"star": 0,
+"page": 118,
+"score": 0.79
+},
+{
+"w": "junior",
+"star": 0,
+"page": 118,
+"score": 0.83
+},
+{
+"w": "just",
+"star": 0,
+"page": 118,
+"score": 0.72
+},
+{
+"w": "keep",
+"star": 0,
+"page": 118,
+"score": 0.78
+},
+{
+"w": "key",
+"star": 0,
+"page": 118,
+"score": 0.75
+},
+{
+"w": "keyboard",
+"star": 0,
+"page": 118,
+"score": 0.84
+},
+{
+"w": "kick",
+"star": 0,
+"page": 118,
+"score": 0.8
+},
+{
+"w": "kid",
+"star": 1,
+"page": 118,
+"score": 0.8
+},
+{
+"w": "kill",
+"star": 0,
+"page": 118,
+"score": 0.8
+},
+{
+"w": "kilo",
+"star": 0,
+"page": 118,
+"score": 0.87
+},
+{
+"w": "kilometre",
+"star": 0,
+"page": 118,
+"score": 0.92
+},
+{
+"w": "kind",
+"star": 1,
+"page": 118,
+"score": 0.82
+},
+{
+"w": "king",
+"star": 0,
+"page": 118,
+"score": 0.79
+},
+{
+"w": "kiss",
+"star": 0,
+"page": 118,
+"score": 0.79
+},
+{
+"w": "kitchen",
+"star": 0,
+"page": 118,
+"score": 0.79
+},
+{
+"w": "kite",
+"star": 1,
+"page": 118,
+"score": 0.77
+},
+{
+"w": "knee",
+"star": 0,
+"page": 118,
+"score": 0.69
+},
+{
+"w": "knife",
+"star": 0,
+"page": 118,
+"score": 0.9
+},
+{
+"w": "knock",
+"star": 0,
+"page": 118,
+"score": 0.78
+},
+{
+"w": "know",
+"star": 0,
+"page": 118,
+"score": 0.77
+},
+{
+"w": "knowledge",
+"star": 0,
+"page": 118,
+"score": 0.89
+},
+{
+"w": "kung fu",
+"star": 0,
+"page": 118,
+"score": 0.87
+},
+{
+"w": "lab",
+"star": 0,
+"page": 118,
+"score": 0.9
+},
+{
+"w": "lady",
+"star": 0,
+"page": 118,
+"score": 0.68
+},
+{
+"w": "lake",
+"star": 0,
+"page": 118,
+"score": 0.73
+},
+{
+"w": "land",
+"star": 0,
+"page": 118,
+"score": 0.72
+},
+{
+"w": "landscape",
+"star": 0,
+"page": 118,
+"score": 0.84
+},
+{
+"w": "language",
+"star": 0,
+"page": 118,
+"score": 0.87
+},
+{
+"w": "lantern",
+"star": 0,
+"page": 118,
+"score": 0.84
+},
+{
+"w": "laptop",
+"star": 0,
+"page": 118,
+"score": 0.82
+},
+{
+"w": "large",
+"star": 0,
+"page": 118,
+"score": 0.74
+},
+{
+"w": "last",
+"star": 1,
+"page": 118,
+"score": 0.77
+},
+{
+"w": "late",
+"star": 0,
+"page": 118,
+"score": 0.79
+},
+{
+"w": "later",
+"star": 0,
+"page": 118,
+"score": 0.77
+},
+{
+"w": "laugh",
+"star": 0,
+"page": 118,
+"score": 0.83
+},
+{
+"w": "law",
+"star": 0,
+"page": 118,
+"score": 0.74
+},
+{
+"w": "lawyer",
+"star": 0,
+"page": 118,
+"score": 0.72
+},
+{
+"w": "lay",
+"star": 0,
+"page": 118,
+"score": 0.72
+},
+{
+"w": "lazy",
+"star": 0,
+"page": 118,
+"score": 0.76
+},
+{
+"w": "lead",
+"star": 0,
+"page": 118,
+"score": 0.78
+},
+{
+"w": "leaf",
+"star": 0,
+"page": 119,
+"score": 0.8
+},
+{
+"w": "learn",
+"star": 0,
+"page": 119,
+"score": 0.78
+},
+{
+"w": "least",
+"star": 0,
+"page": 119,
+"score": 0.81
+},
+{
+"w": "leave",
+"star": 0,
+"page": 119,
+"score": 0.78
+},
+{
+"w": "lef",
+"star": 1,
+"page": 119,
+"score": 0.74
+},
+{
+"w": "leg",
+"star": 0,
+"page": 119,
+"score": 0.71
+},
+{
+"w": "lend",
+"star": 0,
+"page": 119,
+"score": 0.69
+},
+{
+"w": "less",
+"star": 0,
+"page": 119,
+"score": 0.75
+},
+{
+"w": "lesson",
+"star": 0,
+"page": 119,
+"score": 0.85
+},
+{
+"w": "let",
+"star": 1,
+"page": 119,
+"score": 0.75
+},
+{
+"w": "letter",
+"star": 0,
+"page": 119,
+"score": 0.78
+},
+{
+"w": "level",
+"star": 0,
+"page": 119,
+"score": 0.79
+},
+{
+"w": "library",
+"star": 0,
+"page": 119,
+"score": 0.71
+},
+{
+"w": "lie",
+"star": 0,
+"page": 119,
+"score": 0.75
+},
+{
+"w": "life",
+"star": 0,
+"page": 119,
+"score": 0.88
+},
+{
+"w": "lift",
+"star": 0,
+"page": 119,
+"score": 0.75
+},
+{
+"w": "light",
+"star": 0,
+"page": 119,
+"score": 0.76
+},
+{
+"w": "lightning",
+"star": 0,
+"page": 119,
+"score": 0.88
+},
+{
+"w": "like",
+"star": 0,
+"page": 119,
+"score": 0.8
+},
+{
+"w": "likely",
+"star": 0,
+"page": 119,
+"score": 0.81
+},
+{
+"w": "line",
+"star": 0,
+"page": 119,
+"score": 0.8
+},
+{
+"w": "lion",
+"star": 0,
+"page": 119,
+"score": 0.8
+},
+{
+"w": "list",
+"star": 0,
+"page": 119,
+"score": 0.79
+},
+{
+"w": "listen",
+"star": 0,
+"page": 119,
+"score": 0.81
+},
+{
+"w": "literature",
+"star": 0,
+"page": 119,
+"score": 0.87
+},
+{
+"w": "litter",
+"star": 0,
+"page": 119,
+"score": 0.83
+},
+{
+"w": "little",
+"star": 0,
+"page": 119,
+"score": 0.79
+},
+{
+"w": "live",
+"star": 1,
+"page": 119,
+"score": 0.8
+},
+{
+"w": "lively",
+"star": 0,
+"page": 119,
+"score": 0.78
+},
+{
+"w": "local",
+"star": 0,
+"page": 119,
+"score": 0.72
+},
+{
+"w": "lock",
+"star": 0,
+"page": 119,
+"score": 0.7
+},
+{
+"w": "lonely",
+"star": 0,
+"page": 119,
+"score": 0.71
+},
+{
+"w": "long",
+"star": 0,
+"page": 119,
+"score": 0.72
+},
+{
+"w": "look",
+"star": 1,
+"page": 119,
+"score": 0.7
+},
+{
+"w": "lose",
+"star": 0,
+"page": 119,
+"score": 0.7
+},
+{
+"w": "loss",
+"star": 0,
+"page": 119,
+"score": 0.73
+},
+{
+"w": "lost",
+"star": 0,
+"page": 119,
+"score": 0.68
+},
+{
+"w": "lot",
+"star": 1,
+"page": 119,
+"score": 0.81
+},
+{
+"w": "loud",
+"star": 0,
+"page": 119,
+"score": 0.77
+},
+{
+"w": "love",
+"star": 0,
+"page": 119,
+"score": 0.75
+},
+{
+"w": "lovely",
+"star": 0,
+"page": 119,
+"score": 0.78
+},
+{
+"w": "low",
+"star": 0,
+"page": 119,
+"score": 0.69
+},
+{
+"w": "luck",
+"star": 0,
+"page": 119,
+"score": 0.68
+},
+{
+"w": "lunch",
+"star": 1,
+"page": 119,
+"score": 0.85
+},
+{
+"w": "machine",
+"star": 0,
+"page": 119,
+"score": 0.87
+},
+{
+"w": "mad",
+"star": 0,
+"page": 119,
+"score": 0.63
+},
+{
+"w": "madam",
+"star": 0,
+"page": 119,
+"score": 0.7
+},
+{
+"w": "magazine",
+"star": 0,
+"page": 119,
+"score": 0.83
+},
+{
+"w": "magic",
+"star": 0,
+"page": 119,
+"score": 0.72
+},
+{
+"w": "main",
+"star": 0,
+"page": 119,
+"score": 0.8
+},
+{
+"w": "make",
+"star": 0,
+"page": 119,
+"score": 0.7
+},
+{
+"w": "mall",
+"star": 0,
+"page": 119,
+"score": 0.78
+},
+{
+"w": "man",
+"star": 0,
+"page": 119,
+"score": 0.88
+},
+{
+"w": "manage",
+"star": 0,
+"page": 120,
+"score": 0.86
+},
+{
+"w": "manner",
+"star": 0,
+"page": 120,
+"score": 0.78
+},
+{
+"w": "many",
+"star": 0,
+"page": 120,
+"score": 0.8
+},
+{
+"w": "map",
+"star": 0,
+"page": 120,
+"score": 0.61
+},
+{
+"w": "mark",
+"star": 0,
+"page": 120,
+"score": 0.64
+},
+{
+"w": "market",
+"star": 0,
+"page": 120,
+"score": 0.79
+},
+{
+"w": "marry",
+"star": 0,
+"page": 120,
+"score": 0.83
+},
+{
+"w": "master",
+"star": 0,
+"page": 120,
+"score": 0.75
+},
+{
+"w": "match",
+"star": 0,
+"page": 120,
+"score": 0.77
+},
+{
+"w": "material",
+"star": 0,
+"page": 120,
+"score": 0.84
+},
+{
+"w": "maths",
+"star": 0,
+"page": 120,
+"score": 0.9
+},
+{
+"w": "matter",
+"star": 0,
+"page": 120,
+"score": 0.83
+},
+{
+"w": "may",
+"star": 0,
+"page": 120,
+"score": 0.75
+},
+{
+"w": "maybe",
+"star": 0,
+"page": 120,
+"score": 0.77
+},
+{
+"w": "me",
+"star": 0,
+"page": 120,
+"score": 0.67
+},
+{
+"w": "meal",
+"star": 0,
+"page": 120,
+"score": 0.8
+},
+{
+"w": "mean",
+"star": 0,
+"page": 120,
+"score": 0.73
+},
+{
+"w": "meaning",
+"star": 0,
+"page": 120,
+"score": 0.83
+},
+{
+"w": "meat",
+"star": 0,
+"page": 120,
+"score": 0.8
+},
+{
+"w": "medal",
+"star": 0,
+"page": 120,
+"score": 0.72
+},
+{
+"w": "medical",
+"star": 0,
+"page": 120,
+"score": 0.86
+},
+{
+"w": "medicine",
+"star": 0,
+"page": 120,
+"score": 0.83
+},
+{
+"w": "medium",
+"star": 0,
+"page": 120,
+"score": 0.88
+},
+{
+"w": "meeting",
+"star": 0,
+"page": 120,
+"score": 0.87
+},
+{
+"w": "member",
+"star": 0,
+"page": 120,
+"score": 0.79
+},
+{
+"w": "mention",
+"star": 0,
+"page": 120,
+"score": 0.75
+},
+{
+"w": "menu",
+"star": 0,
+"page": 120,
+"score": 0.8
+},
+{
+"w": "mess",
+"star": 0,
+"page": 120,
+"score": 0.79
+},
+{
+"w": "message",
+"star": 0,
+"page": 120,
+"score": 0.85
+},
+{
+"w": "method",
+"star": 0,
+"page": 120,
+"score": 0.75
+},
+{
+"w": "metre",
+"star": 0,
+"page": 120,
+"score": 0.9
+},
+{
+"w": "middle",
+"star": 0,
+"page": 120,
+"score": 0.8
+},
+{
+"w": "might",
+"star": 0,
+"page": 120,
+"score": 0.83
+},
+{
+"w": "mile",
+"star": 0,
+"page": 120,
+"score": 0.77
+},
+{
+"w": "milk",
+"star": 0,
+"page": 120,
+"score": 0.7
+},
+{
+"w": "mind",
+"star": 0,
+"page": 120,
+"score": 0.77
+},
+{
+"w": "mine",
+"star": 0,
+"page": 120,
+"score": 0.77
+},
+{
+"w": "minute",
+"star": 0,
+"page": 120,
+"score": 0.86
+},
+{
+"w": "mirror",
+"star": 0,
+"page": 120,
+"score": 0.85
+},
+{
+"w": "miss",
+"star": 0,
+"page": 120,
+"score": 0.79
+},
+{
+"w": "Miss",
+"star": 0,
+"page": 120,
+"score": 0.8
+},
+{
+"w": "mistake",
+"star": 0,
+"page": 120,
+"score": 0.83
+},
+{
+"w": "mix",
+"star": 0,
+"page": 120,
+"score": 0.73
+},
+{
+"w": "mobile",
+"star": 0,
+"page": 120,
+"score": 0.77
+},
+{
+"w": "modern",
+"star": 0,
+"page": 120,
+"score": 0.73
+},
+{
+"w": "moment",
+"star": 0,
+"page": 120,
+"score": 0.8
+},
+{
+"w": "money",
+"star": 0,
+"page": 120,
+"score": 0.77
+},
+{
+"w": "monkey",
+"star": 0,
+"page": 120,
+"score": 0.85
+},
+{
+"w": "month",
+"star": 1,
+"page": 120,
+"score": 0.82
+},
+{
+"w": "moon",
+"star": 0,
+"page": 120,
+"score": 0.72
+},
+{
+"w": "more",
+"star": 0,
+"page": 120,
+"score": 0.76
+},
+{
+"w": "morning",
+"star": 0,
+"page": 120,
+"score": 0.82
+},
+{
+"w": "most",
+"star": 0,
+"page": 120,
+"score": 0.8
+},
+{
+"w": "mother",
+"star": 0,
+"page": 120,
+"score": 0.9
+},
+{
+"w": "mountain",
+"star": 0,
+"page": 121,
+"score": 0.8
+},
+{
+"w": "e",
+"star": 0,
+"page": 121,
+"score": 0.87
+},
+{
+"w": "mouse",
+"star": 0,
+"page": 121,
+"score": 0.76
+},
+{
+"w": "mouth",
+"star": 0,
+"page": 121,
+"score": 0.77
+},
+{
+"w": "move",
+"star": 0,
+"page": 121,
+"score": 0.71
+},
+{
+"w": "movie",
+"star": 0,
+"page": 121,
+"score": 0.83
+},
+{
+"w": "Mr",
+"star": 0,
+"page": 121,
+"score": 0.83
+},
+{
+"w": "Mrs",
+"star": 0,
+"page": 121,
+"score": 0.87
+},
+{
+"w": "Ms",
+"star": 0,
+"page": 121,
+"score": 0.84
+},
+{
+"w": "much",
+"star": 0,
+"page": 121,
+"score": 0.72
+},
+{
+"w": "museum",
+"star": 0,
+"page": 121,
+"score": 0.78
+},
+{
+"w": "music",
+"star": 0,
+"page": 121,
+"score": 0.8
+},
+{
+"w": "must",
+"star": 0,
+"page": 121,
+"score": 0.73
+},
+{
+"w": "mutton",
+"star": 0,
+"page": 121,
+"score": 0.85
+},
+{
+"w": "my",
+"star": 0,
+"page": 121,
+"score": 0.67
+},
+{
+"w": "myself",
+"star": 0,
+"page": 121,
+"score": 0.81
+},
+{
+"w": "name",
+"star": 0,
+"page": 121,
+"score": 0.72
+},
+{
+"w": "narrow",
+"star": 0,
+"page": 121,
+"score": 0.72
+},
+{
+"w": "nation",
+"star": 0,
+"page": 121,
+"score": 0.84
+},
+{
+"w": "nature",
+"star": 0,
+"page": 121,
+"score": 0.8
+},
+{
+"w": "near",
+"star": 0,
+"page": 121,
+"score": 0.8
+},
+{
+"w": "nearly",
+"star": 0,
+"page": 121,
+"score": 0.8
+},
+{
+"w": "necessary",
+"star": 0,
+"page": 121,
+"score": 0.85
+},
+{
+"w": "neck",
+"star": 0,
+"page": 121,
+"score": 0.78
+},
+{
+"w": "need",
+"star": 0,
+"page": 121,
+"score": 0.71
+},
+{
+"w": "negative",
+"star": 0,
+"page": 121,
+"score": 0.89
+},
+{
+"w": "neighbour",
+"star": 0,
+"page": 121,
+"score": 0.87
+},
+{
+"w": "neither",
+"star": 0,
+"page": 121,
+"score": 0.83
+},
+{
+"w": "nervous",
+"star": 0,
+"page": 121,
+"score": 0.84
+},
+{
+"w": "never",
+"star": 0,
+"page": 121,
+"score": 0.7
+},
+{
+"w": "new",
+"star": 0,
+"page": 121,
+"score": 0.75
+},
+{
+"w": "news",
+"star": 0,
+"page": 121,
+"score": 0.74
+},
+{
+"w": "newspaper",
+"star": 0,
+"page": 121,
+"score": 0.8
+},
+{
+"w": "nice",
+"star": 0,
+"page": 121,
+"score": 0.8
+},
+{
+"w": "night",
+"star": 0,
+"page": 121,
+"score": 0.8
+},
+{
+"w": "no",
+"star": 0,
+"page": 121,
+"score": 0.66
+},
+{
+"w": "nobody",
+"star": 0,
+"page": 121,
+"score": 0.85
+},
+{
+"w": "pou",
+"star": 0,
+"page": 121,
+"score": 0.75
+},
+{
+"w": "noise",
+"star": 0,
+"page": 121,
+"score": 0.75
+},
+{
+"w": "none",
+"star": 0,
+"page": 121,
+"score": 0.8
+},
+{
+"w": "noodle",
+"star": 0,
+"page": 121,
+"score": 0.86
+},
+{
+"w": "noon",
+"star": 0,
+"page": 121,
+"score": 0.8
+},
+{
+"w": "nor",
+"star": 0,
+"page": 121,
+"score": 0.74
+},
+{
+"w": "normal",
+"star": 0,
+"page": 121,
+"score": 0.86
+},
+{
+"w": "north",
+"star": 0,
+"page": 121,
+"score": 0.83
+},
+{
+"w": "nose",
+"star": 0,
+"page": 121,
+"score": 0.77
+},
+{
+"w": "not",
+"star": 1,
+"page": 121,
+"score": 0.81
+},
+{
+"w": "note",
+"star": 0,
+"page": 121,
+"score": 0.72
+},
+{
+"w": "notebook",
+"star": 0,
+"page": 121,
+"score": 0.86
+},
+{
+"w": "nothing",
+"star": 0,
+"page": 121,
+"score": 0.81
+},
+{
+"w": "notice",
+"star": 0,
+"page": 121,
+"score": 0.77
+},
+{
+"w": "novel",
+"star": 0,
+"page": 121,
+"score": 0.83
+},
+{
+"w": "now",
+"star": 0,
+"page": 121,
+"score": 0.75
+},
+{
+"w": "number",
+"star": 0,
+"page": 121,
+"score": 0.76
+},
+{
+"w": "nurse",
+"star": 0,
+"page": 122,
+"score": 0.79
+},
+{
+"w": "object",
+"star": 0,
+"page": 122,
+"score": 0.79
+},
+{
+"w": "ocean",
+"star": 0,
+"page": 122,
+"score": 0.83
+},
+{
+"w": "O'clock",
+"star": 1,
+"page": 122,
+"score": 0.72
+},
+{
+"w": "of",
+"star": 1,
+"page": 122,
+"score": 0.6
+},
+{
+"w": "off",
+"star": 1,
+"page": 122,
+"score": 0.69
+},
+{
+"w": "offer",
+"star": 0,
+"page": 122,
+"score": 0.8
+},
+{
+"w": "office",
+"star": 0,
+"page": 122,
+"score": 0.78
+},
+{
+"w": "officer",
+"star": 0,
+"page": 122,
+"score": 0.81
+},
+{
+"w": "often",
+"star": 0,
+"page": 122,
+"score": 0.79
+},
+{
+"w": "oil",
+"star": 0,
+"page": 122,
+"score": 0.73
+},
+{
+"w": "OK",
+"star": 1,
+"page": 122,
+"score": 0.74
+},
+{
+"w": "Olympic",
+"star": 0,
+"page": 122,
+"score": 0.83
+},
+{
+"w": "on",
+"star": 0,
+"page": 122,
+"score": 0.67
+},
+{
+"w": "once",
+"star": 0,
+"page": 122,
+"score": 0.76
+},
+{
+"w": "onion",
+"star": 0,
+"page": 122,
+"score": 0.77
+},
+{
+"w": "online",
+"star": 0,
+"page": 122,
+"score": 0.78
+},
+{
+"w": "only",
+"star": 0,
+"page": 122,
+"score": 0.66
+},
+{
+"w": "open",
+"star": 0,
+"page": 122,
+"score": 0.8
+},
+{
+"w": "opera",
+"star": 0,
+"page": 122,
+"score": 0.83
+},
+{
+"w": "operate",
+"star": 0,
+"page": 122,
+"score": 0.85
+},
+{
+"w": "opinion",
+"star": 0,
+"page": 122,
+"score": 0.87
+},
+{
+"w": "opposite",
+"star": 0,
+"page": 122,
+"score": 0.84
+},
+{
+"w": "orange",
+"star": 0,
+"page": 122,
+"score": 0.79
+},
+{
+"w": "organise",
+"star": 0,
+"page": 122,
+"score": 0.92
+},
+{
+"w": "other",
+"star": 0,
+"page": 122,
+"score": 0.74
+},
+{
+"w": "our",
+"star": 1,
+"page": 122,
+"score": 0.72
+},
+{
+"w": "ours",
+"star": 0,
+"page": 122,
+"score": 0.8
+},
+{
+"w": "ourselves",
+"star": 0,
+"page": 122,
+"score": 0.78
+},
+{
+"w": "Ino",
+"star": 0,
+"page": 122,
+"score": 0.67
+},
+{
+"w": "outside",
+"star": 0,
+"page": 122,
+"score": 0.84
+},
+{
+"w": "oven",
+"star": 0,
+"page": 122,
+"score": 0.69
+},
+{
+"w": "over",
+"star": 0,
+"page": 122,
+"score": 0.71
+},
+{
+"w": "own",
+"star": 0,
+"page": 122,
+"score": 0.75
+},
+{
+"w": "pack",
+"star": 0,
+"page": 122,
+"score": 0.75
+},
+{
+"w": "packet",
+"star": 0,
+"page": 122,
+"score": 0.86
+},
+{
+"w": "page",
+"star": 0,
+"page": 122,
+"score": 0.8
+},
+{
+"w": "pain",
+"star": 0,
+"page": 122,
+"score": 0.8
+},
+{
+"w": "paint",
+"star": 0,
+"page": 122,
+"score": 0.83
+},
+{
+"w": "pair",
+"star": 1,
+"page": 122,
+"score": 0.8
+},
+{
+"w": "palace",
+"star": 0,
+"page": 122,
+"score": 0.86
+},
+{
+"w": "pale",
+"star": 0,
+"page": 122,
+"score": 0.8
+},
+{
+"w": "pancake",
+"star": 0,
+"page": 122,
+"score": 0.87
+},
+{
+"w": "paper",
+"star": 0,
+"page": 122,
+"score": 0.82
+},
+{
+"w": "paragraph",
+"star": 0,
+"page": 122,
+"score": 0.88
+},
+{
+"w": "pardon",
+"star": 0,
+"page": 122,
+"score": 0.86
+},
+{
+"w": "parent",
+"star": 0,
+"page": 122,
+"score": 0.82
+},
+{
+"w": "park",
+"star": 1,
+"page": 122,
+"score": 0.79
+},
+{
+"w": "part",
+"star": 0,
+"page": 123,
+"score": 0.8
+},
+{
+"w": "partner",
+"star": 0,
+"page": 123,
+"score": 0.77
+},
+{
+"w": "party",
+"star": 0,
+"page": 123,
+"score": 0.74
+},
+{
+"w": "pass",
+"star": 0,
+"page": 123,
+"score": 0.75
+},
+{
+"w": "passage",
+"star": 0,
+"page": 123,
+"score": 0.84
+},
+{
+"w": "passenger",
+"star": 0,
+"page": 123,
+"score": 0.88
+},
+{
+"w": "passport",
+"star": 0,
+"page": 123,
+"score": 0.83
+},
+{
+"w": "past",
+"star": 0,
+"page": 123,
+"score": 0.79
+},
+{
+"w": "patient",
+"star": 0,
+"page": 123,
+"score": 0.84
+},
+{
+"w": "pay",
+"star": 0,
+"page": 123,
+"score": 0.75
+},
+{
+"w": "PE",
+"star": 0,
+"page": 123,
+"score": 0.87
+},
+{
+"w": "peace",
+"star": 0,
+"page": 123,
+"score": 0.81
+},
+{
+"w": "pear",
+"star": 0,
+"page": 123,
+"score": 0.79
+},
+{
+"w": "pen",
+"star": 0,
+"page": 123,
+"score": 0.75
+},
+{
+"w": "pencil",
+"star": 1,
+"page": 123,
+"score": 0.87
+},
+{
+"w": "penguin",
+"star": 0,
+"page": 123,
+"score": 0.79
+},
+{
+"w": "people",
+"star": 0,
+"page": 123,
+"score": 0.74
+},
+{
+"w": "pepper",
+"star": 0,
+"page": 123,
+"score": 0.86
+},
+{
+"w": "per cent",
+"star": 0,
+"page": 123,
+"score": 0.9
+},
+{
+"w": "perfect",
+"star": 0,
+"page": 123,
+"score": 0.87
+},
+{
+"w": "perform",
+"star": 0,
+"page": 123,
+"score": 0.87
+},
+{
+"w": "perhaps",
+"star": 0,
+"page": 123,
+"score": 0.82
+},
+{
+"w": "period",
+"star": 0,
+"page": 123,
+"score": 0.82
+},
+{
+"w": "person",
+"star": 0,
+"page": 123,
+"score": 0.8
+},
+{
+"w": "personal",
+"star": 0,
+"page": 123,
+"score": 0.84
+},
+{
+"w": "pet",
+"star": 1,
+"page": 123,
+"score": 0.78
+},
+{
+"w": "phone",
+"star": 0,
+"page": 123,
+"score": 0.77
+},
+{
+"w": "photo",
+"star": 0,
+"page": 123,
+"score": 0.88
+},
+{
+"w": "physics",
+"star": 0,
+"page": 123,
+"score": 0.87
+},
+{
+"w": "piano",
+"star": 0,
+"page": 123,
+"score": 0.72
+},
+{
+"w": "pick",
+"star": 0,
+"page": 123,
+"score": 0.7
+},
+{
+"w": "picnic",
+"star": 0,
+"page": 123,
+"score": 0.85
+},
+{
+"w": "picture",
+"star": 0,
+"page": 123,
+"score": 0.8
+},
+{
+"w": "pie",
+"star": 0,
+"page": 123,
+"score": 0.75
+},
+{
+"w": "piece",
+"star": 0,
+"page": 123,
+"score": 0.8
+},
+{
+"w": "pill",
+"star": 0,
+"page": 123,
+"score": 0.77
+},
+{
+"w": "pilot",
+"star": 0,
+"page": 123,
+"score": 0.77
+},
+{
+"w": "ping-pong",
+"star": 0,
+"page": 123,
+"score": 0.87
+},
+{
+"w": "pink",
+"star": 1,
+"page": 123,
+"score": 0.79
+},
+{
+"w": "pioneer",
+"star": 0,
+"page": 123,
+"score": 0.87
+},
+{
+"w": "pity",
+"star": 0,
+"page": 123,
+"score": 0.75
+},
+{
+"w": "pizza",
+"star": 0,
+"page": 123,
+"score": 0.76
+},
+{
+"w": "place",
+"star": 0,
+"page": 123,
+"score": 0.77
+},
+{
+"w": "plan",
+"star": 0,
+"page": 123,
+"score": 0.8
+},
+{
+"w": "plane",
+"star": 0,
+"page": 123,
+"score": 0.8
+},
+{
+"w": "planet",
+"star": 0,
+"page": 123,
+"score": 0.84
+},
+{
+"w": "plant",
+"star": 1,
+"page": 123,
+"score": 0.84
+},
+{
+"w": "plastic",
+"star": 0,
+"page": 123,
+"score": 0.87
+},
+{
+"w": "plate",
+"star": 0,
+"page": 123,
+"score": 0.78
+},
+{
+"w": "play",
+"star": 0,
+"page": 123,
+"score": 0.79
+},
+{
+"w": "playground",
+"star": 0,
+"page": 123,
+"score": 0.87
+},
+{
+"w": "please",
+"star": 0,
+"page": 123,
+"score": 0.74
+},
+{
+"w": "pleasure",
+"star": 0,
+"page": 123,
+"score": 0.84
+},
+{
+"w": "plenty",
+"star": 0,
+"page": 123,
+"score": 0.85
+},
+{
+"w": "p.m",
+"star": 0,
+"page": 123,
+"score": 0.8
+},
+{
+"w": "pocket",
+"star": 0,
+"page": 124,
+"score": 0.85
+},
+{
+"w": "poem",
+"star": 0,
+"page": 124,
+"score": 0.71
+},
+{
+"w": "poet",
+"star": 0,
+"page": 124,
+"score": 0.8
+},
+{
+"w": "point",
+"star": 0,
+"page": 124,
+"score": 0.83
+},
+{
+"w": "police",
+"star": 0,
+"page": 124,
+"score": 0.86
+},
+{
+"w": "policeman",
+"star": 0,
+"page": 124,
+"score": 0.89
+},
+{
+"w": "policemen",
+"star": 0,
+"page": 124,
+"score": 0.9
+},
+{
+"w": "polite",
+"star": 0,
+"page": 124,
+"score": 0.76
+},
+{
+"w": "pollute",
+"star": 0,
+"page": 124,
+"score": 0.81
+},
+{
+"w": "pool",
+"star": 0,
+"page": 124,
+"score": 0.79
+},
+{
+"w": "poor",
+"star": 0,
+"page": 124,
+"score": 0.8
+},
+{
+"w": "popular",
+"star": 0,
+"page": 124,
+"score": 0.82
+},
+{
+"w": "population",
+"star": 0,
+"page": 124,
+"score": 0.85
+},
+{
+"w": "pork",
+"star": 0,
+"page": 124,
+"score": 0.77
+},
+{
+"w": "porridge",
+"star": 0,
+"page": 124,
+"score": 0.84
+},
+{
+"w": "position",
+"star": 0,
+"page": 124,
+"score": 0.85
+},
+{
+"w": "positive",
+"star": 0,
+"page": 124,
+"score": 0.85
+},
+{
+"w": "possible",
+"star": 0,
+"page": 124,
+"score": 0.79
+},
+{
+"w": "post",
+"star": 0,
+"page": 124,
+"score": 0.8
+},
+{
+"w": "postcard",
+"star": 0,
+"page": 124,
+"score": 0.86
+},
+{
+"w": "postman",
+"star": 0,
+"page": 124,
+"score": 0.91
+},
+{
+"w": "potato",
+"star": 0,
+"page": 124,
+"score": 0.73
+},
+{
+"w": "pound",
+"star": 0,
+"page": 124,
+"score": 0.83
+},
+{
+"w": "pour",
+"star": 0,
+"page": 124,
+"score": 0.75
+},
+{
+"w": "power",
+"star": 0,
+"page": 124,
+"score": 0.83
+},
+{
+"w": "practice",
+"star": 0,
+"page": 124,
+"score": 0.84
+},
+{
+"w": "praise",
+"star": 0,
+"page": 124,
+"score": 0.86
+},
+{
+"w": "prefer",
+"star": 0,
+"page": 124,
+"score": 0.86
+},
+{
+"w": "prepare",
+"star": 0,
+"page": 124,
+"score": 0.81
+},
+{
+"w": "present",
+"star": 0,
+"page": 124,
+"score": 0.87
+},
+{
+"w": "president",
+"star": 0,
+"page": 124,
+"score": 0.89
+},
+{
+"w": "press",
+"star": 0,
+"page": 124,
+"score": 0.78
+},
+{
+"w": "pressure",
+"star": 0,
+"page": 124,
+"score": 0.78
+},
+{
+"w": "pretty",
+"star": 0,
+"page": 124,
+"score": 0.74
+},
+{
+"w": "price",
+"star": 0,
+"page": 124,
+"score": 0.83
+},
+{
+"w": "pride",
+"star": 0,
+"page": 124,
+"score": 0.73
+},
+{
+"w": "primary",
+"star": 0,
+"page": 124,
+"score": 0.87
+},
+{
+"w": "prince",
+"star": 0,
+"page": 124,
+"score": 0.89
+},
+{
+"w": "princess",
+"star": 0,
+"page": 124,
+"score": 0.89
+},
+{
+"w": "print",
+"star": 0,
+"page": 124,
+"score": 0.82
+},
+{
+"w": "private",
+"star": 0,
+"page": 124,
+"score": 0.79
+},
+{
+"w": "prize",
+"star": 0,
+"page": 124,
+"score": 0.82
+},
+{
+"w": "probably",
+"star": 0,
+"page": 124,
+"score": 0.81
+},
+{
+"w": "problem",
+"star": 0,
+"page": 124,
+"score": 0.8
+},
+{
+"w": "produce",
+"star": 0,
+"page": 124,
+"score": 0.87
+},
+{
+"w": "product",
+"star": 0,
+"page": 124,
+"score": 0.87
+},
+{
+"w": "programme",
+"star": 0,
+"page": 124,
+"score": 0.93
+},
+{
+"w": "progress",
+"star": 0,
+"page": 124,
+"score": 0.89
+},
+{
+"w": "project",
+"star": 0,
+"page": 124,
+"score": 0.87
+},
+{
+"w": "promise",
+"star": 0,
+"page": 124,
+"score": 0.86
+},
+{
+"w": "pronounce",
+"star": 0,
+"page": 124,
+"score": 0.86
+},
+{
+"w": "proper",
+"star": 0,
+"page": 124,
+"score": 0.85
+},
+{
+"w": "protect",
+"star": 0,
+"page": 124,
+"score": 0.83
+},
+{
+"w": "proud",
+"star": 0,
+"page": 124,
+"score": 0.83
+},
+{
+"w": "prove",
+"star": 0,
+"page": 124,
+"score": 0.81
+},
+{
+"w": "provide",
+"star": 0,
+"page": 124,
+"score": 0.87
+},
+{
+"w": "public",
+"star": 0,
+"page": 125,
+"score": 0.86
+},
+{
+"w": "publish",
+"star": 0,
+"page": 125,
+"score": 0.82
+},
+{
+"w": "pull",
+"star": 0,
+"page": 125,
+"score": 0.76
+},
+{
+"w": "punish",
+"star": 0,
+"page": 125,
+"score": 0.84
+},
+{
+"w": "purple",
+"star": 0,
+"page": 125,
+"score": 0.81
+},
+{
+"w": "purpose",
+"star": 0,
+"page": 125,
+"score": 0.85
+},
+{
+"w": "push",
+"star": 0,
+"page": 125,
+"score": 0.79
+},
+{
+"w": "put",
+"star": 1,
+"page": 125,
+"score": 0.79
+},
+{
+"w": "quality",
+"star": 0,
+"page": 125,
+"score": 0.83
+},
+{
+"w": "quarter",
+"star": 0,
+"page": 125,
+"score": 0.7
+},
+{
+"w": "queen",
+"star": 0,
+"page": 125,
+"score": 0.76
+},
+{
+"w": "question",
+"star": 0,
+"page": 125,
+"score": 0.87
+},
+{
+"w": "quick",
+"star": 0,
+"page": 125,
+"score": 0.72
+},
+{
+"w": "quiet",
+"star": 1,
+"page": 125,
+"score": 0.78
+},
+{
+"w": "quite",
+"star": 0,
+"page": 125,
+"score": 0.79
+},
+{
+"w": "rabbit",
+"star": 0,
+"page": 125,
+"score": 0.83
+},
+{
+"w": "race",
+"star": 0,
+"page": 125,
+"score": 0.78
+},
+{
+"w": "radio",
+"star": 0,
+"page": 125,
+"score": 0.79
+},
+{
+"w": "railway",
+"star": 0,
+"page": 125,
+"score": 0.82
+},
+{
+"w": "rain",
+"star": 0,
+"page": 125,
+"score": 0.6
+},
+{
+"w": "rainbow",
+"star": 0,
+"page": 125,
+"score": 0.8
+},
+{
+"w": "raise",
+"star": 0,
+"page": 125,
+"score": 0.74
+},
+{
+"w": "rapid",
+"star": 0,
+"page": 125,
+"score": 0.83
+},
+{
+"w": "rather",
+"star": 0,
+"page": 125,
+"score": 0.8
+},
+{
+"w": "reach",
+"star": 0,
+"page": 125,
+"score": 0.75
+},
+{
+"w": "read",
+"star": 1,
+"page": 125,
+"score": 0.84
+},
+{
+"w": "ready",
+"star": 0,
+"page": 125,
+"score": 0.83
+},
+{
+"w": "real",
+"star": 0,
+"page": 125,
+"score": 0.8
+},
+{
+"w": "realise",
+"star": 0,
+"page": 125,
+"score": 0.9
+},
+{
+"w": "really",
+"star": 0,
+"page": 125,
+"score": 0.86
+},
+{
+"w": "reason",
+"star": 0,
+"page": 125,
+"score": 0.86
+},
+{
+"w": "receive",
+"star": 0,
+"page": 125,
+"score": 0.81
+},
+{
+"w": "recent",
+"star": 0,
+"page": 125,
+"score": 0.76
+},
+{
+"w": "recognise",
+"star": 0,
+"page": 125,
+"score": 0.9
+},
+{
+"w": "recommend",
+"star": 0,
+"page": 125,
+"score": 0.88
+},
+{
+"w": "record",
+"star": 0,
+"page": 125,
+"score": 0.84
+},
+{
+"w": "recycle",
+"star": 0,
+"page": 125,
+"score": 0.87
+},
+{
+"w": "red",
+"star": 1,
+"page": 125,
+"score": 0.69
+},
+{
+"w": "reduce",
+"star": 0,
+"page": 125,
+"score": 0.82
+},
+{
+"w": "refuse",
+"star": 0,
+"page": 125,
+"score": 0.67
+},
+{
+"w": "regret",
+"star": 0,
+"page": 125,
+"score": 0.73
+},
+{
+"w": "relationship",
+"star": 0,
+"page": 125,
+"score": 0.86
+},
+{
+"w": "relative",
+"star": 0,
+"page": 125,
+"score": 0.85
+},
+{
+"w": "relax",
+"star": 0,
+"page": 125,
+"score": 0.67
+},
+{
+"w": "remain",
+"star": 0,
+"page": 125,
+"score": 0.82
+},
+{
+"w": "remember",
+"star": 0,
+"page": 125,
+"score": 0.78
+},
+{
+"w": "remind",
+"star": 0,
+"page": 125,
+"score": 0.84
+},
+{
+"w": "repair",
+"star": 0,
+"page": 125,
+"score": 0.81
+},
+{
+"w": "repeat",
+"star": 0,
+"page": 125,
+"score": 0.79
+},
+{
+"w": "reply",
+"star": 0,
+"page": 125,
+"score": 0.83
+},
+{
+"w": "report",
+"star": 0,
+"page": 125,
+"score": 0.84
+},
+{
+"w": "require",
+"star": 0,
+"page": 125,
+"score": 0.87
+},
+{
+"w": "research",
+"star": 0,
+"page": 126,
+"score": 0.87
+},
+{
+"w": "respect",
+"star": 0,
+"page": 126,
+"score": 0.87
+},
+{
+"w": "responsible",
+"star": 0,
+"page": 126,
+"score": 0.9
+},
+{
+"w": "rest",
+"star": 0,
+"page": 126,
+"score": 0.74
+},
+{
+"w": "restaurant",
+"star": 0,
+"page": 126,
+"score": 0.86
+},
+{
+"w": "result",
+"star": 0,
+"page": 126,
+"score": 0.81
+},
+{
+"w": "return",
+"star": 0,
+"page": 126,
+"score": 0.86
+},
+{
+"w": "review",
+"star": 0,
+"page": 126,
+"score": 0.85
+},
+{
+"w": "rice",
+"star": 0,
+"page": 126,
+"score": 0.8
+},
+{
+"w": "rich",
+"star": 0,
+"page": 126,
+"score": 0.8
+},
+{
+"w": "ride",
+"star": 0,
+"page": 126,
+"score": 0.77
+},
+{
+"w": "right",
+"star": 0,
+"page": 126,
+"score": 0.81
+},
+{
+"w": "ring",
+"star": 0,
+"page": 126,
+"score": 0.7
+},
+{
+"w": "rise",
+"star": 0,
+"page": 126,
+"score": 0.79
+},
+{
+"w": "risk",
+"star": 0,
+"page": 126,
+"score": 0.75
+},
+{
+"w": "river",
+"star": 0,
+"page": 126,
+"score": 0.79
+},
+{
+"w": "road",
+"star": 0,
+"page": 126,
+"score": 0.71
+},
+{
+"w": "robot",
+"star": 1,
+"page": 126,
+"score": 0.87
+},
+{
+"w": "rock",
+"star": 0,
+"page": 126,
+"score": 0.8
+},
+{
+"w": "rocket",
+"star": 0,
+"page": 126,
+"score": 0.77
+},
+{
+"w": "role",
+"star": 0,
+"page": 126,
+"score": 0.71
+},
+{
+"w": "room",
+"star": 0,
+"page": 126,
+"score": 0.8
+},
+{
+"w": "rope",
+"star": 0,
+"page": 126,
+"score": 0.77
+},
+{
+"w": "rose",
+"star": 0,
+"page": 126,
+"score": 0.77
+},
+{
+"w": "round",
+"star": 0,
+"page": 126,
+"score": 0.77
+},
+{
+"w": "row",
+"star": 0,
+"page": 126,
+"score": 0.63
+},
+{
+"w": "rubbish",
+"star": 0,
+"page": 126,
+"score": 0.81
+},
+{
+"w": "rule",
+"star": 0,
+"page": 126,
+"score": 0.65
+},
+{
+"w": "ruler",
+"star": 1,
+"page": 126,
+"score": 0.87
+},
+{
+"w": "run",
+"star": 0,
+"page": 126,
+"score": 0.75
+},
+{
+"w": "rush",
+"star": 0,
+"page": 126,
+"score": 0.8
+},
+{
+"w": "Sad",
+"star": 1,
+"page": 126,
+"score": 0.76
+},
+{
+"w": "Safe",
+"star": 1,
+"page": 126,
+"score": 0.76
+},
+{
+"w": "safety",
+"star": 0,
+"page": 126,
+"score": 0.86
+},
+{
+"w": "salad",
+"star": 0,
+"page": 126,
+"score": 0.83
+},
+{
+"w": "sale",
+"star": 0,
+"page": 126,
+"score": 0.8
+},
+{
+"w": "salt",
+"star": 0,
+"page": 126,
+"score": 0.79
+},
+{
+"w": "same",
+"star": 0,
+"page": 126,
+"score": 0.8
+},
+{
+"w": "sand",
+"star": 0,
+"page": 126,
+"score": 0.79
+},
+{
+"w": "sandwich",
+"star": 0,
+"page": 126,
+"score": 0.89
+},
+{
+"w": "satisfy",
+"star": 0,
+"page": 126,
+"score": 0.75
+},
+{
+"w": "save",
+"star": 0,
+"page": 126,
+"score": 0.76
+},
+{
+"w": "say",
+"star": 0,
+"page": 126,
+"score": 0.73
+},
+{
+"w": "scare",
+"star": 0,
+"page": 126,
+"score": 0.74
+},
+{
+"w": "scarf",
+"star": 0,
+"page": 126,
+"score": 0.81
+},
+{
+"w": "School",
+"star": 1,
+"page": 126,
+"score": 0.8
+},
+{
+"w": "schoolbag",
+"star": 0,
+"page": 126,
+"score": 0.87
+},
+{
+"w": "science",
+"star": 0,
+"page": 126,
+"score": 0.77
+},
+{
+"w": "scientist",
+"star": 0,
+"page": 126,
+"score": 0.86
+},
+{
+"w": "scissors",
+"star": 0,
+"page": 126,
+"score": 0.83
+},
+{
+"w": "score",
+"star": 0,
+"page": 126,
+"score": 0.73
+},
+{
+"w": "screen",
+"star": 0,
+"page": 126,
+"score": 0.79
+},
+{
+"w": "sea",
+"star": 0,
+"page": 126,
+"score": 0.72
+},
+{
+"w": "search",
+"star": 0,
+"page": 126,
+"score": 0.78
+},
+{
+"w": "season",
+"star": 0,
+"page": 127,
+"score": 0.7
+},
+{
+"w": "seat",
+"star": 0,
+"page": 127,
+"score": 0.65
+},
+{
+"w": "secret",
+"star": 0,
+"page": 127,
+"score": 0.76
+},
+{
+"w": "see",
+"star": 0,
+"page": 127,
+"score": 0.75
+},
+{
+"w": "seem",
+"star": 0,
+"page": 127,
+"score": 0.7
+},
+{
+"w": "seldom",
+"star": 0,
+"page": 127,
+"score": 0.82
+},
+{
+"w": "Ssell",
+"star": 1,
+"page": 127,
+"score": 0.74
+},
+{
+"w": "send",
+"star": 0,
+"page": 127,
+"score": 0.73
+},
+{
+"w": "sense",
+"star": 0,
+"page": 127,
+"score": 0.79
+},
+{
+"w": "sentence",
+"star": 0,
+"page": 127,
+"score": 0.88
+},
+{
+"w": "separate",
+"star": 0,
+"page": 127,
+"score": 0.82
+},
+{
+"w": "serious",
+"star": 0,
+"page": 127,
+"score": 0.87
+},
+{
+"w": "serve",
+"star": 0,
+"page": 127,
+"score": 0.72
+},
+{
+"w": "service",
+"star": 0,
+"page": 127,
+"score": 0.86
+},
+{
+"w": "set",
+"star": 0,
+"page": 127,
+"score": 0.75
+},
+{
+"w": "several",
+"star": 0,
+"page": 127,
+"score": 0.83
+},
+{
+"w": "shake",
+"star": 0,
+"page": 127,
+"score": 0.83
+},
+{
+"w": "shall",
+"star": 0,
+"page": 127,
+"score": 0.81
+},
+{
+"w": "shame",
+"star": 0,
+"page": 127,
+"score": 0.74
+},
+{
+"w": "shape",
+"star": 0,
+"page": 127,
+"score": 0.79
+},
+{
+"w": "share",
+"star": 0,
+"page": 127,
+"score": 0.8
+},
+{
+"w": "shark",
+"star": 0,
+"page": 127,
+"score": 0.78
+},
+{
+"w": "She",
+"star": 1,
+"page": 127,
+"score": 0.79
+},
+{
+"w": "sheep",
+"star": 0,
+"page": 127,
+"score": 0.87
+},
+{
+"w": "shelf",
+"star": 0,
+"page": 127,
+"score": 0.89
+},
+{
+"w": "shine",
+"star": 0,
+"page": 127,
+"score": 0.83
+},
+{
+"w": "ship",
+"star": 0,
+"page": 127,
+"score": 0.8
+},
+{
+"w": "shirt",
+"star": 0,
+"page": 127,
+"score": 0.8
+},
+{
+"w": "shock",
+"star": 0,
+"page": 127,
+"score": 0.83
+},
+{
+"w": "Shoe",
+"star": 1,
+"page": 127,
+"score": 0.74
+},
+{
+"w": "shoot",
+"star": 0,
+"page": 127,
+"score": 0.82
+},
+{
+"w": "shop",
+"star": 0,
+"page": 127,
+"score": 0.8
+},
+{
+"w": "short",
+"star": 1,
+"page": 127,
+"score": 0.84
+},
+{
+"w": "shorts",
+"star": 0,
+"page": 127,
+"score": 0.81
+},
+{
+"w": "should",
+"star": 1,
+"page": 127,
+"score": 0.84
+},
+{
+"w": "shoulder",
+"star": 0,
+"page": 127,
+"score": 0.88
+},
+{
+"w": "shout",
+"star": 0,
+"page": 127,
+"score": 0.83
+},
+{
+"w": "show",
+"star": 0,
+"page": 127,
+"score": 0.8
+},
+{
+"w": "shower",
+"star": 0,
+"page": 127,
+"score": 0.82
+},
+{
+"w": "shut",
+"star": 0,
+"page": 127,
+"score": 0.68
+},
+{
+"w": "shy",
+"star": 0,
+"page": 127,
+"score": 0.74
+},
+{
+"w": "sick",
+"star": 0,
+"page": 127,
+"score": 0.8
+},
+{
+"w": "side",
+"star": 0,
+"page": 127,
+"score": 0.8
+},
+{
+"w": "sign",
+"star": 0,
+"page": 127,
+"score": 0.7
+},
+{
+"w": "silent",
+"star": 0,
+"page": 127,
+"score": 0.82
+},
+{
+"w": "silk",
+"star": 0,
+"page": 127,
+"score": 0.8
+},
+{
+"w": "silly",
+"star": 0,
+"page": 127,
+"score": 0.82
+},
+{
+"w": "silver",
+"star": 0,
+"page": 127,
+"score": 0.82
+},
+{
+"w": "similar",
+"star": 0,
+"page": 127,
+"score": 0.81
+},
+{
+"w": "simple",
+"star": 0,
+"page": 127,
+"score": 0.86
+},
+{
+"w": "since",
+"star": 0,
+"page": 127,
+"score": 0.83
+},
+{
+"w": "sing",
+"star": 0,
+"page": 127,
+"score": 0.8
+},
+{
+"w": "single",
+"star": 0,
+"page": 127,
+"score": 0.82
+},
+{
+"w": "sir",
+"star": 0,
+"page": 127,
+"score": 0.75
+},
+{
+"w": "sister",
+"star": 0,
+"page": 127,
+"score": 0.86
+},
+{
+"w": "Sit",
+"star": 1,
+"page": 127,
+"score": 0.71
+},
+{
+"w": "situation",
+"star": 0,
+"page": 128,
+"score": 0.88
+},
+{
+"w": "size",
+"star": 0,
+"page": 128,
+"score": 0.8
+},
+{
+"w": "skate",
+"star": 0,
+"page": 128,
+"score": 0.75
+},
+{
+"w": "ski",
+"star": 0,
+"page": 128,
+"score": 0.71
+},
+{
+"w": "skill",
+"star": 0,
+"page": 128,
+"score": 0.71
+},
+{
+"w": "skirt",
+"star": 1,
+"page": 128,
+"score": 0.79
+},
+{
+"w": "sky",
+"star": 0,
+"page": 128,
+"score": 0.68
+},
+{
+"w": "sleep",
+"star": 0,
+"page": 128,
+"score": 0.83
+},
+{
+"w": "slim",
+"star": 0,
+"page": 128,
+"score": 0.74
+},
+{
+"w": "slow",
+"star": 0,
+"page": 128,
+"score": 0.8
+},
+{
+"w": "Small",
+"star": 1,
+"page": 128,
+"score": 0.67
+},
+{
+"w": "smart",
+"star": 0,
+"page": 128,
+"score": 0.83
+},
+{
+"w": "smell",
+"star": 0,
+"page": 128,
+"score": 0.83
+},
+{
+"w": "smile",
+"star": 0,
+"page": 128,
+"score": 0.79
+},
+{
+"w": "smoke",
+"star": 0,
+"page": 128,
+"score": 0.69
+},
+{
+"w": "smooth",
+"star": 0,
+"page": 128,
+"score": 0.84
+},
+{
+"w": "snack",
+"star": 0,
+"page": 128,
+"score": 0.83
+},
+{
+"w": "snake",
+"star": 0,
+"page": 128,
+"score": 0.81
+},
+{
+"w": "snow",
+"star": 0,
+"page": 128,
+"score": 0.79
+},
+{
+"w": "social",
+"star": 0,
+"page": 128,
+"score": 0.85
+},
+{
+"w": "socialism",
+"star": 0,
+"page": 128,
+"score": 0.9
+},
+{
+"w": "society",
+"star": 0,
+"page": 128,
+"score": 0.81
+},
+{
+"w": "Sock",
+"star": 1,
+"page": 128,
+"score": 0.79
+},
+{
+"w": "sofa",
+"star": 0,
+"page": 128,
+"score": 0.8
+},
+{
+"w": "soft",
+"star": 0,
+"page": 128,
+"score": 0.79
+},
+{
+"w": "soil",
+"star": 0,
+"page": 128,
+"score": 0.76
+},
+{
+"w": "soldier",
+"star": 0,
+"page": 128,
+"score": 0.87
+},
+{
+"w": "solve",
+"star": 0,
+"page": 128,
+"score": 0.83
+},
+{
+"w": "some",
+"star": 0,
+"page": 128,
+"score": 0.75
+},
+{
+"w": "somebody",
+"star": 0,
+"page": 128,
+"score": 0.9
+},
+{
+"w": "someone",
+"star": 0,
+"page": 128,
+"score": 0.9
+},
+{
+"w": "something",
+"star": 0,
+"page": 128,
+"score": 0.8
+},
+{
+"w": "sometimes",
+"star": 0,
+"page": 128,
+"score": 0.87
+},
+{
+"w": "somewhere",
+"star": 0,
+"page": 128,
+"score": 0.84
+},
+{
+"w": "son",
+"star": 0,
+"page": 128,
+"score": 0.58
+},
+{
+"w": "song",
+"star": 0,
+"page": 128,
+"score": 0.64
+},
+{
+"w": "soon",
+"star": 0,
+"page": 128,
+"score": 0.78
+},
+{
+"w": "sore",
+"star": 0,
+"page": 128,
+"score": 0.8
+},
+{
+"w": "sorry",
+"star": 0,
+"page": 128,
+"score": 0.82
+},
+{
+"w": "sound",
+"star": 0,
+"page": 128,
+"score": 0.83
+},
+{
+"w": "soup",
+"star": 0,
+"page": 128,
+"score": 0.74
+},
+{
+"w": "south",
+"star": 0,
+"page": 128,
+"score": 0.78
+},
+{
+"w": "space",
+"star": 0,
+"page": 128,
+"score": 0.78
+},
+{
+"w": "spare",
+"star": 0,
+"page": 128,
+"score": 0.71
+},
+{
+"w": "speak",
+"star": 1,
+"page": 128,
+"score": 0.86
+},
+{
+"w": "special",
+"star": 0,
+"page": 128,
+"score": 0.8
+},
+{
+"w": "speech",
+"star": 0,
+"page": 128,
+"score": 0.8
+},
+{
+"w": "speed",
+"star": 0,
+"page": 128,
+"score": 0.83
+},
+{
+"w": "spell",
+"star": 0,
+"page": 128,
+"score": 0.81
+},
+{
+"w": "spend",
+"star": 0,
+"page": 128,
+"score": 0.79
+},
+{
+"w": "spirit",
+"star": 0,
+"page": 128,
+"score": 0.82
+},
+{
+"w": "spoon",
+"star": 0,
+"page": 128,
+"score": 0.78
+},
+{
+"w": "ods",
+"star": 0,
+"page": 128,
+"score": 0.66
+},
+{
+"w": "spread",
+"star": 0,
+"page": 128,
+"score": 0.79
+},
+{
+"w": "spring",
+"star": 0,
+"page": 128,
+"score": 0.85
+},
+{
+"w": "square",
+"star": 0,
+"page": 128,
+"score": 0.84
+},
+{
+"w": "stage",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "stamp",
+"star": 0,
+"page": 129,
+"score": 0.76
+},
+{
+"w": "stand",
+"star": 1,
+"page": 129,
+"score": 0.78
+},
+{
+"w": "standard",
+"star": 0,
+"page": 129,
+"score": 0.89
+},
+{
+"w": "Star",
+"star": 1,
+"page": 129,
+"score": 0.76
+},
+{
+"w": "start",
+"star": 0,
+"page": 129,
+"score": 0.78
+},
+{
+"w": "state",
+"star": 0,
+"page": 129,
+"score": 0.81
+},
+{
+"w": "station",
+"star": 0,
+"page": 129,
+"score": 0.87
+},
+{
+"w": "stay",
+"star": 0,
+"page": 129,
+"score": 0.79
+},
+{
+"w": "steal",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "step",
+"star": 0,
+"page": 129,
+"score": 0.8
+},
+{
+"w": "stick",
+"star": 0,
+"page": 129,
+"score": 0.82
+},
+{
+"w": "stomach",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "stone",
+"star": 0,
+"page": 129,
+"score": 0.81
+},
+{
+"w": "stop",
+"star": 0,
+"page": 129,
+"score": 0.79
+},
+{
+"w": "store",
+"star": 0,
+"page": 129,
+"score": 0.8
+},
+{
+"w": "storm",
+"star": 0,
+"page": 129,
+"score": 0.78
+},
+{
+"w": "story",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "straight",
+"star": 0,
+"page": 129,
+"score": 0.78
+},
+{
+"w": "strange",
+"star": 0,
+"page": 129,
+"score": 0.87
+},
+{
+"w": "strawberry",
+"star": 0,
+"page": 129,
+"score": 0.88
+},
+{
+"w": "stress",
+"star": 0,
+"page": 129,
+"score": 0.82
+},
+{
+"w": "strict",
+"star": 0,
+"page": 129,
+"score": 0.86
+},
+{
+"w": "strong",
+"star": 0,
+"page": 129,
+"score": 0.79
+},
+{
+"w": "student",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "study",
+"star": 0,
+"page": 129,
+"score": 0.77
+},
+{
+"w": "style",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "subject",
+"star": 1,
+"page": 129,
+"score": 0.84
+},
+{
+"w": "succeed",
+"star": 0,
+"page": 129,
+"score": 0.81
+},
+{
+"w": "success",
+"star": 0,
+"page": 129,
+"score": 0.81
+},
+{
+"w": "such",
+"star": 0,
+"page": 129,
+"score": 0.79
+},
+{
+"w": "sudden",
+"star": 0,
+"page": 129,
+"score": 0.82
+},
+{
+"w": "suffer",
+"star": 0,
+"page": 129,
+"score": 0.85
+},
+{
+"w": "sugar",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "suggest",
+"star": 0,
+"page": 129,
+"score": 0.87
+},
+{
+"w": "suit",
+"star": 0,
+"page": 129,
+"score": 0.69
+},
+{
+"w": "summer",
+"star": 0,
+"page": 129,
+"score": 0.73
+},
+{
+"w": "sun",
+"star": 0,
+"page": 129,
+"score": 0.67
+},
+{
+"w": "sunny",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "supermarket",
+"star": 0,
+"page": 129,
+"score": 0.86
+},
+{
+"w": "support",
+"star": 0,
+"page": 129,
+"score": 0.81
+},
+{
+"w": "suppose",
+"star": 0,
+"page": 129,
+"score": 0.85
+},
+{
+"w": "sure",
+"star": 0,
+"page": 129,
+"score": 0.68
+},
+{
+"w": "surface",
+"star": 0,
+"page": 129,
+"score": 0.8
+},
+{
+"w": "surprise",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "survey",
+"star": 0,
+"page": 129,
+"score": 0.86
+},
+{
+"w": "survive",
+"star": 0,
+"page": 129,
+"score": 0.81
+},
+{
+"w": "sweater",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "sweep",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "sweet",
+"star": 0,
+"page": 129,
+"score": 0.79
+},
+{
+"w": "swim",
+"star": 0,
+"page": 129,
+"score": 0.76
+},
+{
+"w": "symbol",
+"star": 0,
+"page": 129,
+"score": 0.83
+},
+{
+"w": "table",
+"star": 0,
+"page": 130,
+"score": 0.76
+},
+{
+"w": "tail",
+"star": 1,
+"page": 130,
+"score": 0.83
+},
+{
+"w": "take",
+"star": 0,
+"page": 130,
+"score": 0.8
+},
+{
+"w": "talent",
+"star": 0,
+"page": 130,
+"score": 0.82
+},
+{
+"w": "talk",
+"star": 1,
+"page": 130,
+"score": 0.79
+},
+{
+"w": "tall",
+"star": 1,
+"page": 130,
+"score": 0.76
+},
+{
+"w": "tap",
+"star": 0,
+"page": 130,
+"score": 0.63
+},
+{
+"w": "tape",
+"star": 0,
+"page": 130,
+"score": 0.8
+},
+{
+"w": "task",
+"star": 0,
+"page": 130,
+"score": 0.8
+},
+{
+"w": "taste",
+"star": 0,
+"page": 130,
+"score": 0.83
+},
+{
+"w": "taxi",
+"star": 1,
+"page": 130,
+"score": 0.72
+},
+{
+"w": "tea",
+"star": 0,
+"page": 130,
+"score": 0.64
+},
+{
+"w": "teach",
+"star": 0,
+"page": 130,
+"score": 0.81
+},
+{
+"w": "teacher",
+"star": 0,
+"page": 130,
+"score": 0.85
+},
+{
+"w": "team",
+"star": 0,
+"page": 130,
+"score": 0.78
+},
+{
+"w": "teamwork",
+"star": 0,
+"page": 130,
+"score": 0.8
+},
+{
+"w": "technology",
+"star": 0,
+"page": 130,
+"score": 0.85
+},
+{
+"w": "teenage",
+"star": 0,
+"page": 130,
+"score": 0.82
+},
+{
+"w": "tell",
+"star": 1,
+"page": 130,
+"score": 0.66
+},
+{
+"w": "temperature",
+"star": 0,
+"page": 130,
+"score": 0.89
+},
+{
+"w": "tennis",
+"star": 0,
+"page": 130,
+"score": 0.8
+},
+{
+"w": "tent",
+"star": 0,
+"page": 130,
+"score": 0.62
+},
+{
+"w": "term",
+"star": 0,
+"page": 130,
+"score": 0.75
+},
+{
+"w": "terrible",
+"star": 0,
+"page": 130,
+"score": 0.8
+},
+{
+"w": "test",
+"star": 0,
+"page": 130,
+"score": 0.75
+},
+{
+"w": "text",
+"star": 0,
+"page": 130,
+"score": 0.77
+},
+{
+"w": "than",
+"star": 0,
+"page": 130,
+"score": 0.73
+},
+{
+"w": "thank",
+"star": 1,
+"page": 130,
+"score": 0.85
+},
+{
+"w": "that",
+"star": 1,
+"page": 130,
+"score": 0.75
+},
+{
+"w": "the",
+"star": 1,
+"page": 130,
+"score": 0.78
+},
+{
+"w": "theatre",
+"star": 0,
+"page": 130,
+"score": 0.87
+},
+{
+"w": "their",
+"star": 1,
+"page": 130,
+"score": 0.81
+},
+{
+"w": "theirs",
+"star": 0,
+"page": 130,
+"score": 0.79
+},
+{
+"w": "them",
+"star": 0,
+"page": 130,
+"score": 0.8
+},
+{
+"w": "themselves",
+"star": 0,
+"page": 130,
+"score": 0.88
+},
+{
+"w": "then",
+"star": 0,
+"page": 130,
+"score": 0.8
+},
+{
+"w": "there",
+"star": 0,
+"page": 130,
+"score": 0.83
+},
+{
+"w": "therefore",
+"star": 0,
+"page": 130,
+"score": 0.88
+},
+{
+"w": "these",
+"star": 0,
+"page": 130,
+"score": 0.83
+},
+{
+"w": "they",
+"star": 0,
+"page": 130,
+"score": 0.79
+},
+{
+"w": "thick",
+"star": 0,
+"page": 130,
+"score": 0.83
+},
+{
+"w": "thing",
+"star": 0,
+"page": 130,
+"score": 0.78
+},
+{
+"w": "think",
+"star": 1,
+"page": 130,
+"score": 0.84
+},
+{
+"w": "thirsty",
+"star": 0,
+"page": 130,
+"score": 0.87
+},
+{
+"w": "this",
+"star": 0,
+"page": 130,
+"score": 0.71
+},
+{
+"w": "those",
+"star": 0,
+"page": 130,
+"score": 0.83
+},
+{
+"w": "though",
+"star": 0,
+"page": 130,
+"score": 0.85
+},
+{
+"w": "thought",
+"star": 0,
+"page": 130,
+"score": 0.86
+},
+{
+"w": "throat",
+"star": 0,
+"page": 130,
+"score": 0.85
+},
+{
+"w": "through",
+"star": 0,
+"page": 130,
+"score": 0.87
+},
+{
+"w": "throw",
+"star": 0,
+"page": 130,
+"score": 0.77
+},
+{
+"w": "thunder",
+"star": 0,
+"page": 130,
+"score": 0.79
+},
+{
+"w": "ticket",
+"star": 0,
+"page": 130,
+"score": 0.74
+},
+{
+"w": "tidy",
+"star": 0,
+"page": 130,
+"score": 0.8
+},
+{
+"w": "tie",
+"star": 0,
+"page": 131,
+"score": 0.63
+},
+{
+"w": "tiger",
+"star": 0,
+"page": 131,
+"score": 0.83
+},
+{
+"w": "time",
+"star": 0,
+"page": 131,
+"score": 0.69
+},
+{
+"w": "tiny",
+"star": 0,
+"page": 131,
+"score": 0.69
+},
+{
+"w": "tired",
+"star": 1,
+"page": 131,
+"score": 0.81
+},
+{
+"w": "to",
+"star": 0,
+"page": 131,
+"score": 0.61
+},
+{
+"w": "today",
+"star": 0,
+"page": 131,
+"score": 0.83
+},
+{
+"w": "tofu",
+"star": 0,
+"page": 131,
+"score": 0.73
+},
+{
+"w": "together",
+"star": 0,
+"page": 131,
+"score": 0.87
+},
+{
+"w": "toilet",
+"star": 1,
+"page": 131,
+"score": 0.88
+},
+{
+"w": "tomato",
+"star": 0,
+"page": 131,
+"score": 0.79
+},
+{
+"w": "tomorrow",
+"star": 0,
+"page": 131,
+"score": 0.82
+},
+{
+"w": "ton",
+"star": 0,
+"page": 131,
+"score": 0.68
+},
+{
+"w": "tonight",
+"star": 0,
+"page": 131,
+"score": 0.87
+},
+{
+"w": "too",
+"star": 0,
+"page": 131,
+"score": 0.67
+},
+{
+"w": "tool",
+"star": 0,
+"page": 131,
+"score": 0.79
+},
+{
+"w": "tooth",
+"star": 0,
+"page": 131,
+"score": 0.89
+},
+{
+"w": "top",
+"star": 0,
+"page": 131,
+"score": 0.75
+},
+{
+"w": "total",
+"star": 0,
+"page": 131,
+"score": 0.83
+},
+{
+"w": "touch",
+"star": 0,
+"page": 131,
+"score": 0.83
+},
+{
+"w": "tour",
+"star": 0,
+"page": 131,
+"score": 0.75
+},
+{
+"w": "tourist",
+"star": 0,
+"page": 131,
+"score": 0.86
+},
+{
+"w": "towards",
+"star": 0,
+"page": 131,
+"score": 0.88
+},
+{
+"w": "tower",
+"star": 0,
+"page": 131,
+"score": 0.83
+},
+{
+"w": "town",
+"star": 0,
+"page": 131,
+"score": 0.76
+},
+{
+"w": "toy",
+"star": 0,
+"page": 131,
+"score": 0.75
+},
+{
+"w": "trade",
+"star": 0,
+"page": 131,
+"score": 0.83
+},
+{
+"w": "tradition",
+"star": 0,
+"page": 131,
+"score": 0.9
+},
+{
+"w": "traffic",
+"star": 0,
+"page": 131,
+"score": 0.82
+},
+{
+"w": "train",
+"star": 1,
+"page": 131,
+"score": 0.81
+},
+{
+"w": "training",
+"star": 0,
+"page": 131,
+"score": 0.79
+},
+{
+"w": "translate",
+"star": 0,
+"page": 131,
+"score": 0.9
+},
+{
+"w": "travel",
+"star": 1,
+"page": 131,
+"score": 0.75
+},
+{
+"w": "treasure",
+"star": 0,
+"page": 131,
+"score": 0.88
+},
+{
+"w": "treat",
+"star": 0,
+"page": 131,
+"score": 0.83
+},
+{
+"w": "tree",
+"star": 0,
+"page": 131,
+"score": 0.8
+},
+{
+"w": "trip",
+"star": 0,
+"page": 131,
+"score": 0.76
+},
+{
+"w": "trouble",
+"star": 0,
+"page": 131,
+"score": 0.86
+},
+{
+"w": "trousers",
+"star": 0,
+"page": 131,
+"score": 0.85
+},
+{
+"w": "truck",
+"star": 0,
+"page": 131,
+"score": 0.83
+},
+{
+"w": "true",
+"star": 0,
+"page": 131,
+"score": 0.8
+},
+{
+"w": "trust",
+"star": 0,
+"page": 131,
+"score": 0.83
+},
+{
+"w": "truth",
+"star": 0,
+"page": 131,
+"score": 0.83
+},
+{
+"w": "try",
+"star": 0,
+"page": 131,
+"score": 0.75
+},
+{
+"w": "T-shirt",
+"star": 0,
+"page": 131,
+"score": 0.79
+},
+{
+"w": "turn",
+"star": 0,
+"page": 131,
+"score": 0.73
+},
+{
+"w": "TV",
+"star": 0,
+"page": 131,
+"score": 0.9
+},
+{
+"w": "ugly",
+"star": 0,
+"page": 131,
+"score": 0.71
+},
+{
+"w": "umbrella",
+"star": 0,
+"page": 131,
+"score": 0.8
+},
+{
+"w": "uncle",
+"star": 0,
+"page": 131,
+"score": 0.8
+},
+{
+"w": "under",
+"star": 0,
+"page": 131,
+"score": 0.82
+},
+{
+"w": "underground",
+"star": 0,
+"page": 131,
+"score": 0.87
+},
+{
+"w": "understand",
+"star": 0,
+"page": 131,
+"score": 0.83
+},
+{
+"w": "uniform",
+"star": 0,
+"page": 131,
+"score": 0.85
+},
+{
+"w": "unit",
+"star": 0,
+"page": 132,
+"score": 0.8
+},
+{
+"w": "universe",
+"star": 0,
+"page": 132,
+"score": 0.85
+},
+{
+"w": "university",
+"star": 0,
+"page": 132,
+"score": 0.89
+},
+{
+"w": "unless",
+"star": 0,
+"page": 132,
+"score": 0.84
+},
+{
+"w": "until",
+"star": 0,
+"page": 132,
+"score": 0.88
+},
+{
+"w": "up",
+"star": 0,
+"page": 132,
+"score": 0.66
+},
+{
+"w": "upon",
+"star": 0,
+"page": 132,
+"score": 0.78
+},
+{
+"w": "us",
+"star": 0,
+"page": 132,
+"score": 0.66
+},
+{
+"w": "use",
+"star": 0,
+"page": 132,
+"score": 0.75
+},
+{
+"w": "usual",
+"star": 0,
+"page": 132,
+"score": 0.81
+},
+{
+"w": "vacation",
+"star": 0,
+"page": 132,
+"score": 0.83
+},
+{
+"w": "value",
+"star": 0,
+"page": 132,
+"score": 0.83
+},
+{
+"w": "vegetable",
+"star": 0,
+"page": 132,
+"score": 0.86
+},
+{
+"w": "very",
+"star": 0,
+"page": 132,
+"score": 0.73
+},
+{
+"w": "victory",
+"star": 0,
+"page": 132,
+"score": 0.83
+},
+{
+"w": "video",
+"star": 0,
+"page": 132,
+"score": 0.72
+},
+{
+"w": "view",
+"star": 0,
+"page": 132,
+"score": 0.8
+},
+{
+"w": "village",
+"star": 0,
+"page": 132,
+"score": 0.86
+},
+{
+"w": "violin",
+"star": 0,
+"page": 132,
+"score": 0.82
+},
+{
+"w": "virus",
+"star": 0,
+"page": 132,
+"score": 0.77
+},
+{
+"w": "voice",
+"star": 0,
+"page": 132,
+"score": 0.83
+},
+{
+"w": "volleyball",
+"star": 0,
+"page": 132,
+"score": 0.88
+},
+{
+"w": "voluntary",
+"star": 0,
+"page": 132,
+"score": 0.86
+},
+{
+"w": "volunteer",
+"star": 0,
+"page": 132,
+"score": 0.85
+},
+{
+"w": "vote",
+"star": 0,
+"page": 132,
+"score": 0.8
+},
+{
+"w": "Wait",
+"star": 1,
+"page": 132,
+"score": 0.72
+},
+{
+"w": "wake",
+"star": 0,
+"page": 132,
+"score": 0.76
+},
+{
+"w": "Walk",
+"star": 1,
+"page": 132,
+"score": 0.71
+},
+{
+"w": "Wall",
+"star": 1,
+"page": 132,
+"score": 0.68
+},
+{
+"w": "wallet",
+"star": 0,
+"page": 132,
+"score": 0.85
+},
+{
+"w": "want",
+"star": 0,
+"page": 132,
+"score": 0.7
+},
+{
+"w": "war",
+"star": 0,
+"page": 132,
+"score": 0.62
+},
+{
+"w": "warm",
+"star": 0,
+"page": 132,
+"score": 0.72
+},
+{
+"w": "warn",
+"star": 0,
+"page": 132,
+"score": 0.77
+},
+{
+"w": "wash",
+"star": 1,
+"page": 132,
+"score": 0.7
+},
+{
+"w": "waste",
+"star": 0,
+"page": 132,
+"score": 0.82
+},
+{
+"w": "water",
+"star": 0,
+"page": 132,
+"score": 0.74
+},
+{
+"w": "watermelon",
+"star": 0,
+"page": 132,
+"score": 0.85
+},
+{
+"w": "wave",
+"star": 0,
+"page": 132,
+"score": 0.75
+},
+{
+"w": "way",
+"star": 0,
+"page": 132,
+"score": 0.75
+},
+{
+"w": "we",
+"star": 0,
+"page": 132,
+"score": 0.67
+},
+{
+"w": "weak",
+"star": 0,
+"page": 132,
+"score": 0.71
+},
+{
+"w": "wealth",
+"star": 0,
+"page": 132,
+"score": 0.8
+},
+{
+"w": "wear",
+"star": 0,
+"page": 132,
+"score": 0.71
+},
+{
+"w": "weather",
+"star": 0,
+"page": 132,
+"score": 0.77
+},
+{
+"w": "website",
+"star": 0,
+"page": 132,
+"score": 0.87
+},
+{
+"w": "week",
+"star": 1,
+"page": 132,
+"score": 0.75
+},
+{
+"w": "weekday",
+"star": 0,
+"page": 132,
+"score": 0.8
+},
+{
+"w": "weekend",
+"star": 0,
+"page": 132,
+"score": 0.81
+},
+{
+"w": "weigh",
+"star": 0,
+"page": 132,
+"score": 0.83
+},
+{
+"w": "weight",
+"star": 0,
+"page": 132,
+"score": 0.85
+},
+{
+"w": "welcome",
+"star": 0,
+"page": 133,
+"score": 0.84
+},
+{
+"w": "well",
+"star": 1,
+"page": 133,
+"score": 0.76
+},
+{
+"w": "west",
+"star": 0,
+"page": 133,
+"score": 0.73
+},
+{
+"w": "wet",
+"star": 0,
+"page": 133,
+"score": 0.69
+},
+{
+"w": "whale",
+"star": 0,
+"page": 133,
+"score": 0.71
+},
+{
+"w": "What",
+"star": 1,
+"page": 133,
+"score": 0.79
+},
+{
+"w": "whatever",
+"star": 0,
+"page": 133,
+"score": 0.84
+},
+{
+"w": "wheel",
+"star": 0,
+"page": 133,
+"score": 0.83
+},
+{
+"w": "when",
+"star": 0,
+"page": 133,
+"score": 0.8
+},
+{
+"w": "whenever",
+"star": 0,
+"page": 133,
+"score": 0.86
+},
+{
+"w": "where",
+"star": 0,
+"page": 133,
+"score": 0.83
+},
+{
+"w": "whether",
+"star": 0,
+"page": 133,
+"score": 0.87
+},
+{
+"w": "Which",
+"star": 1,
+"page": 133,
+"score": 0.79
+},
+{
+"w": "while",
+"star": 0,
+"page": 133,
+"score": 0.78
+},
+{
+"w": "white",
+"star": 0,
+"page": 133,
+"score": 0.83
+},
+{
+"w": "who",
+"star": 0,
+"page": 133,
+"score": 0.75
+},
+{
+"w": "whole",
+"star": 0,
+"page": 133,
+"score": 0.83
+},
+{
+"w": "whom",
+"star": 0,
+"page": 133,
+"score": 0.78
+},
+{
+"w": "whose",
+"star": 0,
+"page": 133,
+"score": 0.83
+},
+{
+"w": "why",
+"star": 0,
+"page": 133,
+"score": 0.75
+},
+{
+"w": "wide",
+"star": 0,
+"page": 133,
+"score": 0.64
+},
+{
+"w": "wife",
+"star": 0,
+"page": 133,
+"score": 0.86
+},
+{
+"w": "wild",
+"star": 0,
+"page": 133,
+"score": 0.71
+},
+{
+"w": "will",
+"star": 1,
+"page": 133,
+"score": 0.79
+},
+{
+"w": "win",
+"star": 0,
+"page": 133,
+"score": 0.7
+},
+{
+"w": "wind",
+"star": 0,
+"page": 133,
+"score": 0.79
+},
+{
+"w": "window",
+"star": 0,
+"page": 133,
+"score": 0.78
+},
+{
+"w": "windy",
+"star": 0,
+"page": 133,
+"score": 0.83
+},
+{
+"w": "wing",
+"star": 0,
+"page": 133,
+"score": 0.8
+},
+{
+"w": "winner",
+"star": 0,
+"page": 133,
+"score": 0.75
+},
+{
+"w": "winter",
+"star": 0,
+"page": 133,
+"score": 0.81
+},
+{
+"w": "wise",
+"star": 0,
+"page": 133,
+"score": 0.75
+},
+{
+"w": "wish",
+"star": 0,
+"page": 133,
+"score": 0.75
+},
+{
+"w": "within",
+"star": 0,
+"page": 133,
+"score": 0.81
+},
+{
+"w": "without",
+"star": 0,
+"page": 133,
+"score": 0.81
+},
+{
+"w": "wolf",
+"star": 0,
+"page": 133,
+"score": 0.82
+},
+{
+"w": "woman",
+"star": 0,
+"page": 133,
+"score": 0.89
+},
+{
+"w": "wonder",
+"star": 0,
+"page": 133,
+"score": 0.79
+},
+{
+"w": "wonderful",
+"star": 1,
+"page": 133,
+"score": 0.89
+},
+{
+"w": "wood",
+"star": 0,
+"page": 133,
+"score": 0.8
+},
+{
+"w": "word",
+"star": 1,
+"page": 133,
+"score": 0.74
+},
+{
+"w": "work",
+"star": 1,
+"page": 133,
+"score": 0.8
+},
+{
+"w": "worker",
+"star": 0,
+"page": 133,
+"score": 0.86
+},
+{
+"w": "world",
+"star": 1,
+"page": 133,
+"score": 0.79
+},
+{
+"w": "worry",
+"star": 0,
+"page": 133,
+"score": 0.82
+},
+{
+"w": "worse",
+"star": 0,
+"page": 133,
+"score": 0.82
+},
+{
+"w": "worst",
+"star": 0,
+"page": 133,
+"score": 0.82
+},
+{
+"w": "worth",
+"star": 0,
+"page": 133,
+"score": 0.83
+},
+{
+"w": "would",
+"star": 0,
+"page": 133,
+"score": 0.82
+},
+{
+"w": "wound",
+"star": 0,
+"page": 133,
+"score": 0.8
+},
+{
+"w": "write",
+"star": 0,
+"page": 133,
+"score": 0.83
+},
+{
+"w": "wrong",
+"star": 0,
+"page": 133,
+"score": 0.83
+},
+{
+"w": "X-ray",
+"star": 0,
+"page": 133,
+"score": 0.79
+},
+{
+"w": "yard",
+"star": 0,
+"page": 134,
+"score": 0.8
+},
+{
+"w": "year",
+"star": 1,
+"page": 134,
+"score": 0.7
+},
+{
+"w": "yellow",
+"star": 1,
+"page": 134,
+"score": 0.86
+},
+{
+"w": "yes",
+"star": 1,
+"page": 134,
+"score": 0.77
+},
+{
+"w": "yesterday",
+"star": 0,
+"page": 134,
+"score": 0.87
+},
+{
+"w": "yet",
+"star": 0,
+"page": 134,
+"score": 0.64
+},
+{
+"w": "yogurt",
+"star": 0,
+"page": 134,
+"score": 0.83
+},
+{
+"w": "you",
+"star": 0,
+"page": 134,
+"score": 0.75
+},
+{
+"w": "one",
+"star": 0,
+"page": 134,
+"score": 0.75
+},
+{
+"w": "two",
+"star": 0,
+"page": 134,
+"score": 0.73
+},
+{
+"w": "three",
+"star": 0,
+"page": 134,
+"score": 0.8
+},
+{
+"w": "four",
+"star": 0,
+"page": 134,
+"score": 0.76
+},
+{
+"w": "five",
+"star": 0,
+"page": 134,
+"score": 0.8
+},
+{
+"w": "six",
+"star": 0,
+"page": 134,
+"score": 0.72
+},
+{
+"w": "seven",
+"star": 0,
+"page": 134,
+"score": 0.83
+},
+{
+"w": "eight",
+"star": 0,
+"page": 134,
+"score": 0.82
+},
+{
+"w": "nine",
+"star": 0,
+"page": 134,
+"score": 0.8
+},
+{
+"w": "ten",
+"star": 0,
+"page": 134,
+"score": 0.71
+},
+{
+"w": "young",
+"star": 0,
+"page": 134,
+"score": 0.82
+},
+{
+"w": "your",
+"star": 0,
+"page": 134,
+"score": 0.75
+},
+{
+"w": "yours",
+"star": 0,
+"page": 134,
+"score": 0.83
+},
+{
+"w": "yourself",
+"star": 0,
+"page": 134,
+"score": 0.87
+},
+{
+"w": "youth",
+"star": 0,
+"page": 134,
+"score": 0.8
+},
+{
+"w": "zero",
+"star": 0,
+"page": 134,
+"score": 0.79
+},
+{
+"w": "ZOO",
+"star": 0,
+"page": 134,
+"score": 0.57
+},
+{
+"w": "second",
+"star": 0,
+"page": 134,
+"score": 0.86
+},
+{
+"w": "third",
+"star": 0,
+"page": 134,
+"score": 0.83
+},
+{
+"w": "fourth",
+"star": 0,
+"page": 134,
+"score": 0.74
+},
+{
+"w": "fifth",
+"star": 0,
+"page": 134,
+"score": 0.83
+},
+{
+"w": "sixth",
+"star": 0,
+"page": 134,
+"score": 0.83
+},
+{
+"w": "seventh",
+"star": 0,
+"page": 134,
+"score": 0.83
+},
+{
+"w": "eighth",
+"star": 0,
+"page": 134,
+"score": 0.86
+},
+{
+"w": "ninth",
+"star": 0,
+"page": 134,
+"score": 0.83
+},
+{
+"w": "tenth",
+"star": 0,
+"page": 134,
+"score": 0.76
+},
+{
+"w": "eleven",
+"star": 0,
+"page": 135,
+"score": 0.83
+},
+{
+"w": "twelve",
+"star": 0,
+"page": 135,
+"score": 0.86
+},
+{
+"w": "thirteen",
+"star": 0,
+"page": 135,
+"score": 0.85
+},
+{
+"w": "fourteen",
+"star": 0,
+"page": 135,
+"score": 0.83
+},
+{
+"w": "fifteen",
+"star": 0,
+"page": 135,
+"score": 0.86
+},
+{
+"w": "sixteen",
+"star": 0,
+"page": 135,
+"score": 0.82
+},
+{
+"w": "seventeen",
+"star": 0,
+"page": 135,
+"score": 0.85
+},
+{
+"w": "eighteen",
+"star": 0,
+"page": 135,
+"score": 0.89
+},
+{
+"w": "nineteen",
+"star": 0,
+"page": 135,
+"score": 0.84
+},
+{
+"w": "twenty",
+"star": 0,
+"page": 135,
+"score": 0.8
+},
+{
+"w": "thirty",
+"star": 0,
+"page": 135,
+"score": 0.81
+},
+{
+"w": "forty",
+"star": 0,
+"page": 135,
+"score": 0.83
+},
+{
+"w": "fifty",
+"star": 0,
+"page": 135,
+"score": 0.78
+},
+{
+"w": "sixty",
+"star": 0,
+"page": 135,
+"score": 0.83
+},
+{
+"w": "seventy",
+"star": 0,
+"page": 135,
+"score": 0.84
+},
+{
+"w": "eighty",
+"star": 0,
+"page": 135,
+"score": 0.86
+},
+{
+"w": "ninety",
+"star": 0,
+"page": 135,
+"score": 0.79
+},
+{
+"w": "hundred",
+"star": 0,
+"page": 135,
+"score": 0.82
+},
+{
+"w": "thousand",
+"star": 0,
+"page": 135,
+"score": 0.84
+},
+{
+"w": "million",
+"star": 0,
+"page": 135,
+"score": 0.86
+},
+{
+"w": "eleventh",
+"star": 0,
+"page": 135,
+"score": 0.85
+},
+{
+"w": "twelfth",
+"star": 0,
+"page": 135,
+"score": 0.84
+},
+{
+"w": "thirteenth",
+"star": 0,
+"page": 135,
+"score": 0.9
+},
+{
+"w": "fourteenth",
+"star": 0,
+"page": 135,
+"score": 0.88
+},
+{
+"w": "fifteenth",
+"star": 0,
+"page": 135,
+"score": 0.89
+},
+{
+"w": "sixteenth",
+"star": 0,
+"page": 135,
+"score": 0.84
+},
+{
+"w": "seventeenth",
+"star": 0,
+"page": 135,
+"score": 0.88
+},
+{
+"w": "eighteenth",
+"star": 0,
+"page": 135,
+"score": 0.91
+},
+{
+"w": "nineteenth",
+"star": 0,
+"page": 135,
+"score": 0.89
+},
+{
+"w": "twentieth",
+"star": 0,
+"page": 135,
+"score": 0.9
+},
+{
+"w": "thirtieth",
+"star": 0,
+"page": 135,
+"score": 0.89
+},
+{
+"w": "fortieth",
+"star": 0,
+"page": 135,
+"score": 0.86
+},
+{
+"w": "fiftieth",
+"star": 0,
+"page": 135,
+"score": 0.88
+},
+{
+"w": "sixtieth",
+"star": 0,
+"page": 135,
+"score": 0.89
+},
+{
+"w": "seventieth",
+"star": 0,
+"page": 135,
+"score": 0.89
+},
+{
+"w": "eightieth",
+"star": 0,
+"page": 135,
+"score": 0.88
+},
+{
+"w": "ninetieth",
+"star": 0,
+"page": 135,
+"score": 0.86
+},
+{
+"w": "hundredth",
+"star": 0,
+"page": 135,
+"score": 0.83
+},
+{
+"w": "January",
+"star": 0,
+"page": 136,
+"score": 0.87
+},
+{
+"w": "February",
+"star": 0,
+"page": 136,
+"score": 0.83
+},
+{
+"w": "March",
+"star": 0,
+"page": 136,
+"score": 0.83
+},
+{
+"w": "April",
+"star": 0,
+"page": 136,
+"score": 0.72
+},
+{
+"w": "May",
+"star": 0,
+"page": 136,
+"score": 0.64
+},
+{
+"w": "June",
+"star": 0,
+"page": 136,
+"score": 0.74
+},
+{
+"w": "July",
+"star": 0,
+"page": 136,
+"score": 0.73
+},
+{
+"w": "August",
+"star": 0,
+"page": 136,
+"score": 0.78
+},
+{
+"w": "September",
+"star": 0,
+"page": 136,
+"score": 0.83
+},
+{
+"w": "October",
+"star": 0,
+"page": 136,
+"score": 0.85
+},
+{
+"w": "November",
+"star": 0,
+"page": 136,
+"score": 0.85
+},
+{
+"w": "December",
+"star": 0,
+"page": 136,
+"score": 0.84
+},
+{
+"w": "Africa",
+"star": 0,
+"page": 136,
+"score": 0.86
+},
+{
+"w": "n",
+"star": 0,
+"page": 136,
+"score": 0.66
+},
+{
+"w": "America",
+"star": 0,
+"page": 136,
+"score": 0.87
+},
+{
+"w": "n",
+"star": 0,
+"page": 136,
+"score": 0.66
+},
+{
+"w": "Antarctica",
+"star": 0,
+"page": 136,
+"score": 0.9
+},
+{
+"w": "n",
+"star": 0,
+"page": 136,
+"score": 0.66
+},
+{
+"w": "Asia",
+"star": 0,
+"page": 136,
+"score": 0.8
+},
+{
+"w": "n",
+"star": 0,
+"page": 136,
+"score": 0.66
+},
+{
+"w": "Australia",
+"star": 0,
+"page": 136,
+"score": 0.86
+},
+{
+"w": "n",
+"star": 0,
+"page": 136,
+"score": 0.66
+},
+{
+"w": "Monday",
+"star": 0,
+"page": 136,
+"score": 0.78
+},
+{
+"w": "Tuesday",
+"star": 0,
+"page": 136,
+"score": 0.83
+},
+{
+"w": "Wednesday",
+"star": 0,
+"page": 136,
+"score": 0.89
+},
+{
+"w": "Thursday",
+"star": 0,
+"page": 136,
+"score": 0.89
+},
+{
+"w": "Friday",
+"star": 0,
+"page": 136,
+"score": 0.83
+},
+{
+"w": "Saturday",
+"star": 0,
+"page": 136,
+"score": 0.84
+},
+{
+"w": "Sunday",
+"star": 0,
+"page": 136,
+"score": 0.81
+},
+{
+"w": "African",
+"star": 0,
+"page": 136,
+"score": 0.87
+},
+{
+"w": "American",
+"star": 0,
+"page": 136,
+"score": 0.87
+},
+{
+"w": "Asian",
+"star": 0,
+"page": 136,
+"score": 0.78
+},
+{
+"w": "Australian",
+"star": 0,
+"page": 136,
+"score": 0.8
+},
+{
+"w": "Britain",
+"star": 0,
+"page": 137,
+"score": 0.82
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "Canada",
+"star": 0,
+"page": 137,
+"score": 0.81
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "China",
+"star": 0,
+"page": 137,
+"score": 0.83
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.54
+},
+{
+"w": "England",
+"star": 0,
+"page": 137,
+"score": 0.83
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "Europe",
+"star": 0,
+"page": 137,
+"score": 0.84
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "France",
+"star": 0,
+"page": 137,
+"score": 0.77
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "Germany",
+"star": 0,
+"page": 137,
+"score": 0.82
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.55
+},
+{
+"w": "India",
+"star": 0,
+"page": 137,
+"score": 0.79
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "Italy",
+"star": 0,
+"page": 137,
+"score": 0.82
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "Japan",
+"star": 0,
+"page": 137,
+"score": 0.67
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "London",
+"star": 0,
+"page": 137,
+"score": 0.85
+},
+{
+"w": "New York",
+"star": 0,
+"page": 137,
+"score": 0.85
+},
+{
+"w": "New Zealand",
+"star": 0,
+"page": 137,
+"score": 0.8
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "Paris",
+"star": 0,
+"page": 137,
+"score": 0.69
+},
+{
+"w": "Russia",
+"star": 0,
+"page": 137,
+"score": 0.84
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "Singapore",
+"star": 0,
+"page": 137,
+"score": 0.87
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.64
+},
+{
+"w": "South Africa",
+"star": 0,
+"page": 137,
+"score": 0.77
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.51
+},
+{
+"w": "The Atlantic Ocean",
+"star": 0,
+"page": 137,
+"score": 0.91
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "The Indian Ocean",
+"star": 0,
+"page": 137,
+"score": 0.92
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.53
+},
+{
+"w": "The Pacific Ocean",
+"star": 0,
+"page": 137,
+"score": 0.92
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.52
+},
+{
+"w": "The United Kingdom",
+"star": 0,
+"page": 137,
+"score": 0.86
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.66
+},
+{
+"w": "The United States of",
+"star": 0,
+"page": 137,
+"score": 0.91
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.65
+},
+{
+"w": "America",
+"star": 0,
+"page": 137,
+"score": 0.88
+},
+{
+"w": "British",
+"star": 0,
+"page": 137,
+"score": 0.79
+},
+{
+"w": "Canadian",
+"star": 0,
+"page": 137,
+"score": 0.85
+},
+{
+"w": "adj",
+"star": 0,
+"page": 137,
+"score": 0.7
+},
+{
+"w": "Chinese",
+"star": 0,
+"page": 137,
+"score": 0.87
+},
+{
+"w": "adj",
+"star": 0,
+"page": 137,
+"score": 0.8
+},
+{
+"w": "English",
+"star": 0,
+"page": 137,
+"score": 0.78
+},
+{
+"w": "adj",
+"star": 0,
+"page": 137,
+"score": 0.75
+},
+{
+"w": "adj",
+"star": 0,
+"page": 137,
+"score": 0.8
+},
+{
+"w": "European",
+"star": 0,
+"page": 137,
+"score": 0.81
+},
+{
+"w": "French",
+"star": 0,
+"page": 137,
+"score": 0.79
+},
+{
+"w": "adj",
+"star": 0,
+"page": 137,
+"score": 0.8
+},
+{
+"w": "German",
+"star": 0,
+"page": 137,
+"score": 0.82
+},
+{
+"w": "adj",
+"star": 0,
+"page": 137,
+"score": 0.77
+},
+{
+"w": "Indian",
+"star": 0,
+"page": 137,
+"score": 0.78
+},
+{
+"w": "adj",
+"star": 0,
+"page": 137,
+"score": 0.78
+},
+{
+"w": "n",
+"star": 0,
+"page": 137,
+"score": 0.51
+},
+{
+"w": "Italian",
+"star": 0,
+"page": 137,
+"score": 0.82
+},
+{
+"w": "adj",
+"star": 0,
+"page": 137,
+"score": 0.77
+},
+{
+"w": "Japanese",
+"star": 0,
+"page": 137,
+"score": 0.73
+},
+{
+"w": "New Zealander",
+"star": 0,
+"page": 137,
+"score": 0.87
+},
+{
+"w": "Russian",
+"star": 0,
+"page": 137,
+"score": 0.87
+},
+{
+"w": "Singaporean",
+"star": 0,
+"page": 137,
+"score": 0.88
+},
+{
+"w": "South African",
+"star": 0,
+"page": 137,
+"score": 0.91
+},
+{
+"w": "CPC",
+"star": 0,
+"page": 138,
+"score": 0.93
+},
+{
+"w": "PLA",
+"star": 0,
+"page": 138,
+"score": 0.92
+},
+{
+"w": "PRC",
+"star": 0,
+"page": 138,
+"score": 0.89
+},
+{
+"w": "UN",
+"star": 0,
+"page": 138,
+"score": 0.91
+},
+{
+"w": "WHO",
+"star": 0,
+"page": 138,
+"score": 0.9
+},
+{
+"w": "WTO",
+"star": 0,
+"page": 138,
+"score": 0.95
+},
+{
+"w": "Children's Day",
+"star": 0,
+"page": 138,
+"score": 0.92
+},
+{
+"w": "Mount Huangshan",
+"star": 0,
+"page": 138,
+"score": 0.89
+},
+{
+"w": "Mount Qomolangma",
+"star": 0,
+"page": 138,
+"score": 0.84
+},
+{
+"w": "DoubleNinthFestival",
+"star": 0,
+"page": 138,
+"score": 0.86
+},
+{
+"w": "Dragon Boat Festival",
+"star": 0,
+"page": 138,
+"score": 0.92
+},
+{
+"w": "Mount Taishan",
+"star": 0,
+"page": 138,
+"score": 0.86
+},
+{
+"w": "Labour Day",
+"star": 0,
+"page": 138,
+"score": 0.9
+},
+{
+"w": "The Changjiang River",
+"star": 0,
+"page": 138,
+"score": 0.9
+},
+{
+"w": "lunar calendar",
+"star": 0,
+"page": 138,
+"score": 0.9
+},
+{
+"w": "Lantern Festival",
+"star": 0,
+"page": 138,
+"score": 0.91
+},
+{
+"w": "The Great Wall",
+"star": 0,
+"page": 138,
+"score": 0.9
+},
+{
+"w": "Mid-AutumnFestival",
+"star": 0,
+"page": 138,
+"score": 0.9
+},
+{
+"w": "National Day",
+"star": 0,
+"page": 138,
+"score": 0.88
+},
+{
+"w": "The Palace Museum",
+"star": 0,
+"page": 138,
+"score": 0.89
+},
+{
+"w": "New Year's Day",
+"star": 0,
+"page": 138,
+"score": 0.82
+},
+{
+"w": "The Yellow River",
+"star": 0,
+"page": 138,
+"score": 0.91
+},
+{
+"w": "PLA Day",
+"star": 0,
+"page": 138,
+"score": 0.79
+},
+{
+"w": "Tian'anmen Square",
+"star": 0,
+"page": 138,
+"score": 0.88
+},
+{
+"w": "Spring Festival",
+"star": 0,
+"page": 138,
+"score": 0.85
+},
+{
+"w": "Teachers' Day",
+"star": 0,
+"page": 138,
+"score": 0.87
+},
+{
+"w": "Tomb-sweeping Day",
+"star": 0,
+"page": 138,
+"score": 0.81
+},
+{
+"w": "Women's Day",
+"star": 0,
+"page": 138,
+"score": 0.86
+},
+{
+"w": "Beijing roast duck",
+"star": 0,
+"page": 138,
+"score": 0.86
+},
+{
+"w": "hot pot",
+"star": 0,
+"page": 138,
+"score": 0.8
+},
+{
+"w": "mooncake",
+"star": 0,
+"page": 138,
+"score": 0.86
+},
+{
+"w": "paper-cut",
+"star": 0,
+"page": 138,
+"score": 0.88
+},
+{
+"w": "qipao",
+"star": 0,
+"page": 138,
+"score": 0.82
+},
+{
+"w": "Spring Festival couplets",
+"star": 0,
+"page": 138,
+"score": 0.91
+},
+{
+"w": "spring roll",
+"star": 0,
+"page": 138,
+"score": 0.87
+},
+{
+"w": "The Silk Road",
+"star": 0,
+"page": 138,
+"score": 0.83
+},
+{
+"w": "Traditional Chinese",
+"star": 0,
+"page": 138,
+"score": 0.87
+},
+{
+"w": "Medicine",
+"star": 0,
+"page": 138,
+"score": 0.88
+},
+{
+"w": "awake",
+"star": 0,
+"page": 139,
+"score": 0.83
+},
+{
+"w": "awoke",
+"star": 0,
+"page": 139,
+"score": 0.83
+},
+{
+"w": "be",
+"star": 0,
+"page": 139,
+"score": 0.9
+},
+{
+"w": "bore",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "bear",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "beat",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "beat",
+"star": 0,
+"page": 139,
+"score": 0.77
+},
+{
+"w": "become",
+"star": 0,
+"page": 139,
+"score": 0.85
+},
+{
+"w": "became",
+"star": 0,
+"page": 139,
+"score": 0.83
+},
+{
+"w": "began",
+"star": 0,
+"page": 139,
+"score": 0.74
+},
+{
+"w": "begin",
+"star": 0,
+"page": 139,
+"score": 0.83
+},
+{
+"w": "bleed",
+"star": 0,
+"page": 139,
+"score": 0.81
+},
+{
+"w": "bled",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "blow",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "blew",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "break",
+"star": 0,
+"page": 139,
+"score": 0.76
+},
+{
+"w": "broke",
+"star": 0,
+"page": 139,
+"score": 0.83
+},
+{
+"w": "brought",
+"star": 0,
+"page": 139,
+"score": 0.85
+},
+{
+"w": "bring",
+"star": 0,
+"page": 139,
+"score": 0.83
+},
+{
+"w": "build",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "built",
+"star": 0,
+"page": 139,
+"score": 0.73
+},
+{
+"w": "burn",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "burnt",
+"star": 0,
+"page": 139,
+"score": 0.86
+},
+{
+"w": "burned",
+"star": 0,
+"page": 139,
+"score": 0.86
+},
+{
+"w": "buy",
+"star": 0,
+"page": 139,
+"score": 0.66
+},
+{
+"w": "bought",
+"star": 0,
+"page": 139,
+"score": 0.86
+},
+{
+"w": "could",
+"star": 0,
+"page": 139,
+"score": 0.83
+},
+{
+"w": "can",
+"star": 0,
+"page": 139,
+"score": 0.64
+},
+{
+"w": "caught",
+"star": 0,
+"page": 139,
+"score": 0.81
+},
+{
+"w": "catch",
+"star": 0,
+"page": 139,
+"score": 0.83
+},
+{
+"w": "chose",
+"star": 0,
+"page": 139,
+"score": 0.78
+},
+{
+"w": "choose",
+"star": 0,
+"page": 139,
+"score": 0.85
+},
+{
+"w": "come",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "came",
+"star": 0,
+"page": 139,
+"score": 0.79
+},
+{
+"w": "cost",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "cost",
+"star": 0,
+"page": 139,
+"score": 0.75
+},
+{
+"w": "cut",
+"star": 0,
+"page": 139,
+"score": 0.75
+},
+{
+"w": "cut",
+"star": 0,
+"page": 139,
+"score": 0.75
+},
+{
+"w": "dealt",
+"star": 0,
+"page": 139,
+"score": 0.76
+},
+{
+"w": "deal",
+"star": 0,
+"page": 139,
+"score": 0.79
+},
+{
+"w": "anp",
+"star": 0,
+"page": 139,
+"score": 0.54
+},
+{
+"w": "did",
+"star": 0,
+"page": 139,
+"score": 0.59
+},
+{
+"w": "do",
+"star": 0,
+"page": 139,
+"score": 0.67
+},
+{
+"w": "awoken",
+"star": 0,
+"page": 139,
+"score": 0.76
+},
+{
+"w": "been",
+"star": 0,
+"page": 139,
+"score": 0.78
+},
+{
+"w": "born",
+"star": 0,
+"page": 139,
+"score": 0.84
+},
+{
+"w": "borne",
+"star": 0,
+"page": 139,
+"score": 0.84
+},
+{
+"w": "beaten",
+"star": 0,
+"page": 139,
+"score": 0.78
+},
+{
+"w": "become",
+"star": 0,
+"page": 139,
+"score": 0.79
+},
+{
+"w": "begun",
+"star": 0,
+"page": 139,
+"score": 0.83
+},
+{
+"w": "bled",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "blown",
+"star": 0,
+"page": 139,
+"score": 0.83
+},
+{
+"w": "broken",
+"star": 0,
+"page": 139,
+"score": 0.86
+},
+{
+"w": "brought",
+"star": 0,
+"page": 139,
+"score": 0.84
+},
+{
+"w": "built",
+"star": 0,
+"page": 139,
+"score": 0.75
+},
+{
+"w": "burnt",
+"star": 0,
+"page": 139,
+"score": 0.84
+},
+{
+"w": "burned",
+"star": 0,
+"page": 139,
+"score": 0.84
+},
+{
+"w": "bought",
+"star": 0,
+"page": 139,
+"score": 0.79
+},
+{
+"w": "caught",
+"star": 0,
+"page": 139,
+"score": 0.82
+},
+{
+"w": "chosen",
+"star": 0,
+"page": 139,
+"score": 0.82
+},
+{
+"w": "come",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "cost",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "cut",
+"star": 0,
+"page": 139,
+"score": 0.75
+},
+{
+"w": "dealt",
+"star": 0,
+"page": 139,
+"score": 0.77
+},
+{
+"w": "dug",
+"star": 0,
+"page": 139,
+"score": 0.6
+},
+{
+"w": "done",
+"star": 0,
+"page": 139,
+"score": 0.8
+},
+{
+"w": "drew",
+"star": 0,
+"page": 140,
+"score": 0.72
+},
+{
+"w": "draw",
+"star": 0,
+"page": 140,
+"score": 0.75
+},
+{
+"w": "dream",
+"star": 0,
+"page": 140,
+"score": 0.76
+},
+{
+"w": "dreamt",
+"star": 0,
+"page": 140,
+"score": 0.91
+},
+{
+"w": "dreamed",
+"star": 0,
+"page": 140,
+"score": 0.91
+},
+{
+"w": "drink",
+"star": 0,
+"page": 140,
+"score": 0.76
+},
+{
+"w": "drank",
+"star": 0,
+"page": 140,
+"score": 0.76
+},
+{
+"w": "drive",
+"star": 0,
+"page": 140,
+"score": 0.75
+},
+{
+"w": "drove",
+"star": 0,
+"page": 140,
+"score": 0.78
+},
+{
+"w": "eat",
+"star": 0,
+"page": 140,
+"score": 0.65
+},
+{
+"w": "ate",
+"star": 0,
+"page": 140,
+"score": 0.75
+},
+{
+"w": "fall",
+"star": 0,
+"page": 140,
+"score": 0.73
+},
+{
+"w": "fell",
+"star": 0,
+"page": 140,
+"score": 0.71
+},
+{
+"w": "pay",
+"star": 0,
+"page": 140,
+"score": 0.56
+},
+{
+"w": "feel",
+"star": 0,
+"page": 140,
+"score": 0.8
+},
+{
+"w": "felt",
+"star": 0,
+"page": 140,
+"score": 0.8
+},
+{
+"w": "fight",
+"star": 0,
+"page": 140,
+"score": 0.82
+},
+{
+"w": "fought",
+"star": 0,
+"page": 140,
+"score": 0.85
+},
+{
+"w": "find",
+"star": 0,
+"page": 140,
+"score": 0.79
+},
+{
+"w": "found",
+"star": 0,
+"page": 140,
+"score": 0.81
+},
+{
+"w": "fly",
+"star": 0,
+"page": 140,
+"score": 0.73
+},
+{
+"w": "flew",
+"star": 0,
+"page": 140,
+"score": 0.73
+},
+{
+"w": "forget",
+"star": 0,
+"page": 140,
+"score": 0.79
+},
+{
+"w": "forgot",
+"star": 0,
+"page": 140,
+"score": 0.86
+},
+{
+"w": "froze",
+"star": 0,
+"page": 140,
+"score": 0.83
+},
+{
+"w": "freeze",
+"star": 0,
+"page": 140,
+"score": 0.85
+},
+{
+"w": "got",
+"star": 0,
+"page": 140,
+"score": 0.7
+},
+{
+"w": "get",
+"star": 0,
+"page": 140,
+"score": 0.75
+},
+{
+"w": "give",
+"star": 0,
+"page": 140,
+"score": 0.8
+},
+{
+"w": "gave",
+"star": 0,
+"page": 140,
+"score": 0.78
+},
+{
+"w": "go",
+"star": 0,
+"page": 140,
+"score": 0.66
+},
+{
+"w": "went",
+"star": 0,
+"page": 140,
+"score": 0.7
+},
+{
+"w": "grow",
+"star": 0,
+"page": 140,
+"score": 0.71
+},
+{
+"w": "grew",
+"star": 0,
+"page": 140,
+"score": 0.7
+},
+{
+"w": "hang",
+"star": 0,
+"page": 140,
+"score": 0.9
+},
+{
+"w": "hung",
+"star": 0,
+"page": 140,
+"score": 0.72
+},
+{
+"w": "have",
+"star": 0,
+"page": 140,
+"score": 0.8
+},
+{
+"w": "had",
+"star": 0,
+"page": 140,
+"score": 0.73
+},
+{
+"w": "hear",
+"star": 0,
+"page": 140,
+"score": 0.67
+},
+{
+"w": "heard",
+"star": 0,
+"page": 140,
+"score": 0.83
+},
+{
+"w": "hid",
+"star": 0,
+"page": 140,
+"score": 0.75
+},
+{
+"w": "hide",
+"star": 0,
+"page": 140,
+"score": 0.8
+},
+{
+"w": "hit",
+"star": 0,
+"page": 140,
+"score": 0.75
+},
+{
+"w": "hit",
+"star": 0,
+"page": 140,
+"score": 0.75
+},
+{
+"w": "held",
+"star": 0,
+"page": 140,
+"score": 0.77
+},
+{
+"w": "hold",
+"star": 0,
+"page": 140,
+"score": 0.8
+},
+{
+"w": "hurt",
+"star": 0,
+"page": 140,
+"score": 0.73
+},
+{
+"w": "hurt",
+"star": 0,
+"page": 140,
+"score": 0.74
+},
+{
+"w": "drawn",
+"star": 0,
+"page": 140,
+"score": 0.83
+},
+{
+"w": "dreamt",
+"star": 0,
+"page": 140,
+"score": 0.85
+},
+{
+"w": "dreamed",
+"star": 0,
+"page": 140,
+"score": 0.85
+},
+{
+"w": "unp",
+"star": 0,
+"page": 140,
+"score": 0.58
+},
+{
+"w": "driven",
+"star": 0,
+"page": 140,
+"score": 0.76
+},
+{
+"w": "eaten",
+"star": 0,
+"page": 140,
+"score": 0.77
+},
+{
+"w": "fallen",
+"star": 0,
+"page": 140,
+"score": 0.85
+},
+{
+"w": "pay",
+"star": 0,
+"page": 140,
+"score": 0.57
+},
+{
+"w": "felt",
+"star": 0,
+"page": 140,
+"score": 0.8
+},
+{
+"w": "fought",
+"star": 0,
+"page": 140,
+"score": 0.86
+},
+{
+"w": "found",
+"star": 0,
+"page": 140,
+"score": 0.83
+},
+{
+"w": "flown",
+"star": 0,
+"page": 140,
+"score": 0.83
+},
+{
+"w": "forgotten",
+"star": 0,
+"page": 140,
+"score": 0.82
+},
+{
+"w": "frozen",
+"star": 0,
+"page": 140,
+"score": 0.84
+},
+{
+"w": "got",
+"star": 0,
+"page": 140,
+"score": 0.85
+},
+{
+"w": "gotten",
+"star": 0,
+"page": 140,
+"score": 0.85
+},
+{
+"w": "given",
+"star": 0,
+"page": 140,
+"score": 0.83
+},
+{
+"w": "gone",
+"star": 0,
+"page": 140,
+"score": 0.75
+},
+{
+"w": "grown",
+"star": 0,
+"page": 140,
+"score": 0.83
+},
+{
+"w": "hung",
+"star": 0,
+"page": 140,
+"score": 0.8
+},
+{
+"w": "had",
+"star": 0,
+"page": 140,
+"score": 0.75
+},
+{
+"w": "heard",
+"star": 0,
+"page": 140,
+"score": 0.83
+},
+{
+"w": "hidden",
+"star": 0,
+"page": 140,
+"score": 0.86
+},
+{
+"w": "hit",
+"star": 0,
+"page": 140,
+"score": 0.75
+},
+{
+"w": "held",
+"star": 0,
+"page": 140,
+"score": 0.77
+},
+{
+"w": "hurt",
+"star": 0,
+"page": 140,
+"score": 0.79
+},
+{
+"w": "keep",
+"star": 0,
+"page": 141,
+"score": 0.78
+},
+{
+"w": "kept",
+"star": 0,
+"page": 141,
+"score": 0.8
+},
+{
+"w": "know",
+"star": 0,
+"page": 141,
+"score": 0.8
+},
+{
+"w": "knew",
+"star": 0,
+"page": 141,
+"score": 0.77
+},
+{
+"w": "lay",
+"star": 0,
+"page": 141,
+"score": 0.73
+},
+{
+"w": "laid",
+"star": 0,
+"page": 141,
+"score": 0.77
+},
+{
+"w": "lead",
+"star": 0,
+"page": 141,
+"score": 0.69
+},
+{
+"w": "led",
+"star": 0,
+"page": 141,
+"score": 0.65
+},
+{
+"w": "learn",
+"star": 0,
+"page": 141,
+"score": 0.81
+},
+{
+"w": "learnt",
+"star": 0,
+"page": 141,
+"score": 0.89
+},
+{
+"w": "learned",
+"star": 0,
+"page": 141,
+"score": 0.89
+},
+{
+"w": "leave",
+"star": 0,
+"page": 141,
+"score": 0.81
+},
+{
+"w": "left",
+"star": 0,
+"page": 141,
+"score": 0.75
+},
+{
+"w": "lend",
+"star": 0,
+"page": 141,
+"score": 0.71
+},
+{
+"w": "lent",
+"star": 0,
+"page": 141,
+"score": 0.74
+},
+{
+"w": "let",
+"star": 0,
+"page": 141,
+"score": 0.71
+},
+{
+"w": "let",
+"star": 0,
+"page": 141,
+"score": 0.59
+},
+{
+"w": "lay",
+"star": 0,
+"page": 141,
+"score": 0.72
+},
+{
+"w": "lie",
+"star": 0,
+"page": 141,
+"score": 0.86
+},
+{
+"w": "light",
+"star": 0,
+"page": 141,
+"score": 0.83
+},
+{
+"w": "lit",
+"star": 0,
+"page": 141,
+"score": 0.91
+},
+{
+"w": "lighted",
+"star": 0,
+"page": 141,
+"score": 0.91
+},
+{
+"w": "lose",
+"star": 0,
+"page": 141,
+"score": 0.73
+},
+{
+"w": "lost",
+"star": 0,
+"page": 141,
+"score": 0.62
+},
+{
+"w": "make",
+"star": 0,
+"page": 141,
+"score": 0.8
+},
+{
+"w": "made",
+"star": 0,
+"page": 141,
+"score": 0.76
+},
+{
+"w": "might",
+"star": 0,
+"page": 141,
+"score": 0.83
+},
+{
+"w": "may",
+"star": 0,
+"page": 141,
+"score": 0.75
+},
+{
+"w": "meant",
+"star": 0,
+"page": 141,
+"score": 0.82
+},
+{
+"w": "mean",
+"star": 0,
+"page": 141,
+"score": 0.8
+},
+{
+"w": "met",
+"star": 0,
+"page": 141,
+"score": 0.67
+},
+{
+"w": "meet",
+"star": 0,
+"page": 141,
+"score": 0.66
+},
+{
+"w": "mistake",
+"star": 0,
+"page": 141,
+"score": 0.81
+},
+{
+"w": "mistook",
+"star": 0,
+"page": 141,
+"score": 0.87
+},
+{
+"w": "must",
+"star": 0,
+"page": 141,
+"score": 0.8
+},
+{
+"w": "must",
+"star": 0,
+"page": 141,
+"score": 0.79
+},
+{
+"w": "paid",
+"star": 0,
+"page": 141,
+"score": 0.8
+},
+{
+"w": "pay",
+"star": 0,
+"page": 141,
+"score": 0.75
+},
+{
+"w": "put",
+"star": 0,
+"page": 141,
+"score": 0.75
+},
+{
+"w": "put",
+"star": 0,
+"page": 141,
+"score": 0.64
+},
+{
+"w": "read",
+"star": 0,
+"page": 141,
+"score": 0.91
+},
+{
+"w": "rid",
+"star": 0,
+"page": 141,
+"score": 0.91
+},
+{
+"w": "read",
+"star": 0,
+"page": 141,
+"score": 0.89
+},
+{
+"w": "red",
+"star": 0,
+"page": 141,
+"score": 0.89
+},
+{
+"w": "rode",
+"star": 0,
+"page": 141,
+"score": 0.8
+},
+{
+"w": "ring",
+"star": 0,
+"page": 141,
+"score": 0.73
+},
+{
+"w": "rang",
+"star": 0,
+"page": 141,
+"score": 0.71
+},
+{
+"w": "rise",
+"star": 0,
+"page": 141,
+"score": 0.74
+},
+{
+"w": "rose",
+"star": 0,
+"page": 141,
+"score": 0.77
+},
+{
+"w": "run",
+"star": 0,
+"page": 141,
+"score": 0.62
+},
+{
+"w": "ran",
+"star": 0,
+"page": 141,
+"score": 0.7
+},
+{
+"w": "kept",
+"star": 0,
+"page": 141,
+"score": 0.68
+},
+{
+"w": "known",
+"star": 0,
+"page": 141,
+"score": 0.81
+},
+{
+"w": "laid",
+"star": 0,
+"page": 141,
+"score": 0.78
+},
+{
+"w": "led",
+"star": 0,
+"page": 141,
+"score": 0.66
+},
+{
+"w": "learnt",
+"star": 0,
+"page": 141,
+"score": 0.9
+},
+{
+"w": "learned",
+"star": 0,
+"page": 141,
+"score": 0.9
+},
+{
+"w": "left",
+"star": 0,
+"page": 141,
+"score": 0.75
+},
+{
+"w": "lent",
+"star": 0,
+"page": 141,
+"score": 0.75
+},
+{
+"w": "let",
+"star": 0,
+"page": 141,
+"score": 0.59
+},
+{
+"w": "lain",
+"star": 0,
+"page": 141,
+"score": 0.78
+},
+{
+"w": "lit",
+"star": 0,
+"page": 141,
+"score": 0.88
+},
+{
+"w": "lighted",
+"star": 0,
+"page": 141,
+"score": 0.88
+},
+{
+"w": "lost",
+"star": 0,
+"page": 141,
+"score": 0.62
+},
+{
+"w": "made",
+"star": 0,
+"page": 141,
+"score": 0.78
+},
+{
+"w": "meant",
+"star": 0,
+"page": 141,
+"score": 0.83
+},
+{
+"w": "met",
+"star": 0,
+"page": 141,
+"score": 0.69
+},
+{
+"w": "mistaken",
+"star": 0,
+"page": 141,
+"score": 0.87
+},
+{
+"w": "paid",
+"star": 0,
+"page": 141,
+"score": 0.8
+},
+{
+"w": "put",
+"star": 0,
+"page": 141,
+"score": 0.75
+},
+{
+"w": "read",
+"star": 0,
+"page": 141,
+"score": 0.89
+},
+{
+"w": "red",
+"star": 0,
+"page": 141,
+"score": 0.89
+},
+{
+"w": "ridden",
+"star": 0,
+"page": 141,
+"score": 0.84
+},
+{
+"w": "rung",
+"star": 0,
+"page": 141,
+"score": 0.71
+},
+{
+"w": "risen",
+"star": 0,
+"page": 141,
+"score": 0.83
+},
+{
+"w": "run",
+"star": 0,
+"page": 141,
+"score": 0.73
+},
+{
+"w": "said",
+"star": 0,
+"page": 142,
+"score": 0.61
+},
+{
+"w": "say",
+"star": 0,
+"page": 142,
+"score": 0.75
+},
+{
+"w": "see",
+"star": 0,
+"page": 142,
+"score": 0.63
+},
+{
+"w": "saw",
+"star": 0,
+"page": 142,
+"score": 0.63
+},
+{
+"w": "sell",
+"star": 0,
+"page": 142,
+"score": 0.8
+},
+{
+"w": "sold",
+"star": 0,
+"page": 142,
+"score": 0.72
+},
+{
+"w": "send",
+"star": 0,
+"page": 142,
+"score": 0.73
+},
+{
+"w": "sent",
+"star": 0,
+"page": 142,
+"score": 0.69
+},
+{
+"w": "set",
+"star": 0,
+"page": 142,
+"score": 0.75
+},
+{
+"w": "set",
+"star": 0,
+"page": 142,
+"score": 0.75
+},
+{
+"w": "shook",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "shake",
+"star": 0,
+"page": 142,
+"score": 0.79
+},
+{
+"w": "shall",
+"star": 0,
+"page": 142,
+"score": 0.66
+},
+{
+"w": "should",
+"star": 0,
+"page": 142,
+"score": 0.78
+},
+{
+"w": "shone",
+"star": 0,
+"page": 142,
+"score": 0.72
+},
+{
+"w": "shine",
+"star": 0,
+"page": 142,
+"score": 0.81
+},
+{
+"w": "shot",
+"star": 0,
+"page": 142,
+"score": 0.77
+},
+{
+"w": "shoot",
+"star": 0,
+"page": 142,
+"score": 0.78
+},
+{
+"w": "show",
+"star": 0,
+"page": 142,
+"score": 0.78
+},
+{
+"w": "showed",
+"star": 0,
+"page": 142,
+"score": 0.79
+},
+{
+"w": "shut",
+"star": 0,
+"page": 142,
+"score": 0.76
+},
+{
+"w": "shut",
+"star": 0,
+"page": 142,
+"score": 0.76
+},
+{
+"w": "sing",
+"star": 0,
+"page": 142,
+"score": 0.74
+},
+{
+"w": "sang",
+"star": 0,
+"page": 142,
+"score": 0.8
+},
+{
+"w": "sit",
+"star": 0,
+"page": 142,
+"score": 0.65
+},
+{
+"w": "sat",
+"star": 0,
+"page": 142,
+"score": 0.75
+},
+{
+"w": "sleep",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "slept",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "smell",
+"star": 0,
+"page": 142,
+"score": 0.71
+},
+{
+"w": "smelt",
+"star": 0,
+"page": 142,
+"score": 0.88
+},
+{
+"w": "smelled",
+"star": 0,
+"page": 142,
+"score": 0.88
+},
+{
+"w": "spoke",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "speak",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "speed",
+"star": 0,
+"page": 142,
+"score": 0.79
+},
+{
+"w": "sped",
+"star": 0,
+"page": 142,
+"score": 0.9
+},
+{
+"w": "speeded",
+"star": 0,
+"page": 142,
+"score": 0.9
+},
+{
+"w": "spell",
+"star": 0,
+"page": 142,
+"score": 0.76
+},
+{
+"w": "spelt",
+"star": 0,
+"page": 142,
+"score": 0.89
+},
+{
+"w": "spelled",
+"star": 0,
+"page": 142,
+"score": 0.89
+},
+{
+"w": "spend",
+"star": 0,
+"page": 142,
+"score": 0.75
+},
+{
+"w": "spent",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "spread",
+"star": 0,
+"page": 142,
+"score": 0.73
+},
+{
+"w": "spread",
+"star": 0,
+"page": 142,
+"score": 0.78
+},
+{
+"w": "stand",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "stood",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "steal",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "stole",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "stick",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "stuck",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "sweep",
+"star": 0,
+"page": 142,
+"score": 0.76
+},
+{
+"w": "swept",
+"star": 0,
+"page": 142,
+"score": 0.77
+},
+{
+"w": "said",
+"star": 0,
+"page": 142,
+"score": 0.76
+},
+{
+"w": "seen",
+"star": 0,
+"page": 142,
+"score": 0.72
+},
+{
+"w": "plos",
+"star": 0,
+"page": 142,
+"score": 0.7
+},
+{
+"w": "sent",
+"star": 0,
+"page": 142,
+"score": 0.71
+},
+{
+"w": "set",
+"star": 0,
+"page": 142,
+"score": 0.75
+},
+{
+"w": "shaken",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "shone",
+"star": 0,
+"page": 142,
+"score": 0.81
+},
+{
+"w": "shot",
+"star": 0,
+"page": 142,
+"score": 0.78
+},
+{
+"w": "shown",
+"star": 0,
+"page": 142,
+"score": 0.76
+},
+{
+"w": "shut",
+"star": 0,
+"page": 142,
+"score": 0.8
+},
+{
+"w": "sung",
+"star": 0,
+"page": 142,
+"score": 0.79
+},
+{
+"w": "sat",
+"star": 0,
+"page": 142,
+"score": 0.75
+},
+{
+"w": "slept",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "smelt",
+"star": 0,
+"page": 142,
+"score": 0.9
+},
+{
+"w": "smelled",
+"star": 0,
+"page": 142,
+"score": 0.9
+},
+{
+"w": "spoken",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "sped",
+"star": 0,
+"page": 142,
+"score": 0.87
+},
+{
+"w": "speeded",
+"star": 0,
+"page": 142,
+"score": 0.87
+},
+{
+"w": "spelt",
+"star": 0,
+"page": 142,
+"score": 0.88
+},
+{
+"w": "spelled",
+"star": 0,
+"page": 142,
+"score": 0.88
+},
+{
+"w": "spent",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "spread",
+"star": 0,
+"page": 142,
+"score": 0.78
+},
+{
+"w": "stood",
+"star": 0,
+"page": 142,
+"score": 0.83
+},
+{
+"w": "stolen",
+"star": 0,
+"page": 142,
+"score": 0.86
+},
+{
+"w": "stuck",
+"star": 0,
+"page": 142,
+"score": 0.77
+},
+{
+"w": "swept",
+"star": 0,
+"page": 142,
+"score": 0.83
+}
+]

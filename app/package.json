@@ -1,0 +1,43 @@
+{
+  "name": "word-quiz",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "sync:words": "node scripts/sync-words.mjs",
+    "predev": "npm run sync:words",
+    "prebuild": "npm run sync:words",
+    "pretest": "npm run sync:words",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173",
+    "typecheck": "tsc --noEmit",
+    "test": "esbuild test/render.test.tsx --bundle --format=cjs --platform=node --jsx=automatic --alias:@=./src --loader:.json=json --outfile=test/.build/rt.cjs --log-level=error && node test/.build/rt.cjs"
+  },
+  "dependencies": {
+    "@radix-ui/react-checkbox": "^1.3.2",
+    "@radix-ui/react-label": "^2.1.7",
+    "@radix-ui/react-progress": "^1.1.7",
+    "@radix-ui/react-select": "^2.2.5",
+    "@radix-ui/react-separator": "^1.1.7",
+    "@radix-ui/react-slot": "^1.2.3",
+    "@radix-ui/react-tabs": "^1.1.12",
+    "@radix-ui/react-toast": "^1.2.14",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.525.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwind-merge": "^3.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.1.8",
+    "@types/react-dom": "^19.1.6",
+    "@vitejs/plugin-react": "^4.6.0",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.0"
+  }
+}

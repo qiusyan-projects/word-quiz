@@ -1,0 +1,275 @@
+@import "tailwindcss";
+
+/* 黑白配色：整套 token 只用灰阶（oklch 彩度全为 0），深色底 + 高对比白字 */
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --radius: 0.625rem;
+
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+
+  /* 主操作 = 白底黑字，在深色界面上是最强对比 */
+  --primary: oklch(0.985 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+
+  /* 黑白体系里不用红色：破坏性操作靠更强的边框对比来区分 */
+  --destructive: oklch(0.396 0 0);
+  --destructive-foreground: oklch(0.985 0 0);
+
+  --border: oklch(1 0 0 / 12%);
+  --input: oklch(1 0 0 / 16%);
+  --ring: oklch(0.556 0 0);
+
+  --success: oklch(0.87 0 0);
+  --warning: oklch(0.72 0 0);
+
+  --chart-1: oklch(0.87 0 0);
+  --chart-2: oklch(0.556 0 0);
+  --chart-3: oklch(0.439 0 0);
+  --chart-4: oklch(0.269 0 0);
+  --chart-5: oklch(0.708 0 0);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-success: var(--success);
+  --color-warning: var(--warning);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    margin: 0;
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    font-size: 16px;
+    line-height: 1.55;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+  /* 数字等宽，计数跳动时不抖动 */
+  .tnum {
+    font-variant-numeric: tabular-nums;
+  }
+  kbd {
+    font: inherit;
+    font-size: 11.5px;
+    line-height: 1;
+    padding: 3px 6px;
+    border-radius: 5px;
+    background: oklch(1 0 0 / 8%);
+    border: 1px solid var(--border);
+    color: var(--muted-foreground);
+    white-space: nowrap;
+  }
+}
+
+@layer utilities {
+  /* 键盘可见焦点环（无障碍 P0） */
+  .focus-ring:focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+}
+
+/* 卡片切换动效 */
+@keyframes rise {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: none; }
+}
+.animate-rise {
+  animation: rise 0.26s cubic-bezier(0.22, 0.61, 0.36, 1) both;
+}
+@keyframes swipe-r {
+  from { opacity: 1; transform: translateX(0); }
+  to { opacity: 0; transform: translateX(26px); }
+}
+@keyframes swipe-l {
+  from { opacity: 1; transform: translateX(0); }
+  to { opacity: 0; transform: translateX(-26px); }
+}
+.swipe-r { animation: swipe-r 0.16s ease both; }
+.swipe-l { animation: swipe-l 0.16s ease both; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* ============ 打印 / 另存为 PDF ============ */
+#printArea {
+  display: none;
+}
+
+@page {
+  size: A4;
+  margin: 12mm 11mm;
+}
+
+@media print {
+  html, body {
+    background: #fff !important;
+    color: #111 !important;
+    font-family: ui-sans-serif, system-ui, "PingFang SC", "Microsoft YaHei", sans-serif;
+    font-size: 10.5pt;
+    line-height: 1.5;
+  }
+  /* 打印时只留打印容器 */
+  body > *:not(#printArea) {
+    display: none !important;
+  }
+  #printArea {
+    display: block !important;
+  }
+
+  .doc-head {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 20px;
+    padding-bottom: 5px;
+    margin-bottom: 9px;
+    border-bottom: 1.5px solid #111;
+  }
+  .doc-head h1 { margin: 0; font-size: 16pt; font-weight: 700; letter-spacing: -0.02em; }
+  .doc-head .sub { margin: 2px 0 0; font-size: 8pt; color: #666; letter-spacing: 0.02em; }
+  .doc-head .meta { text-align: right; font-size: 8pt; color: #666; white-space: nowrap; }
+  .doc-head .meta b { display: block; font-size: 12.5pt; color: #111; line-height: 1.05; }
+
+  #printArea table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+  #printArea thead { display: table-header-group; }
+  #printArea tr { break-inside: avoid; page-break-inside: avoid; }
+  #printArea th {
+    text-align: left;
+    font-size: 7.4pt;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    color: #444;
+    padding: 3px 5px;
+    border-bottom: 1px solid #111;
+    background: #f2f3f5;
+    white-space: nowrap;
+  }
+  #printArea td {
+    padding: 1.9px 5px;
+    border-bottom: 0.5px solid #e0e3e8;
+    /* 用垂直居中而非基线对齐：序号 8pt、单词 9.8pt、音标 7.8pt 三个字号差太多，
+       基线对齐时浏览器按各自字号算半行距，序号会整体向上飘一点。 */
+    vertical-align: middle;
+    line-height: 1.32;
+    word-break: break-word;
+    overflow-wrap: anywhere;
+  }
+  #printArea tbody tr:nth-child(even) { background: #fafbfc; }
+  /* 左半 / 右半之间的分隔线 */
+  #printArea thead th:nth-child(5),
+  #printArea tbody td:nth-child(5) {
+    border-left: 0.5px solid #d3d6dd;
+    padding-left: 9px;
+  }
+
+  /* 每半区合计 50%，两侧相加 100% */
+  #printArea .c-no {
+    width: 4%;
+    color: #8b909a;
+    font-size: 8pt;
+    text-align: right;
+    white-space: nowrap;
+    padding-right: 3px;
+    font-variant-numeric: tabular-nums;
+  }
+  /* 单词列 15%：p90 长度是 10 个字符，12% 会把它硬断成 "governmen t"。
+     hyphens 让超长词按音节断（govern-ment），比任意位置截断好看。 */
+  #printArea .c-w {
+    width: 15%;
+    font-weight: 650;
+    font-size: 9.6pt;
+    letter-spacing: -0.01em;
+    hyphens: auto;
+    overflow-wrap: break-word;
+  }
+  #printArea .c-p { width: 10%; color: #5d6370; font-size: 7.8pt; letter-spacing: -0.01em; }
+  #printArea .c-m { width: 21%; color: #1c1f26; font-size: 8.2pt; }
+  #printArea .c-blank { width: 21%; }
+  #printArea .c-empty { border-bottom: 0.5px solid #e0e3e8; }
+
+  #printArea .answers {
+    margin-top: 12px;
+    padding-top: 8px;
+    border-top: 1.5px solid #111;
+    break-before: page;
+  }
+  #printArea .answers h2 { margin: 0 0 6px; font-size: 11pt; }
+  #printArea .ans-col { column-count: 4; column-gap: 12px; font-size: 7.6pt; line-height: 1.5; }
+  #printArea .ans-col div { break-inside: avoid; padding: 0; }
+  #printArea .ans-col b { font-weight: 650; }
+  #printArea .ans-col span { color: #5d6370; }
+
+  #printArea .doc-foot {
+    margin-top: 10px;
+    padding-top: 5px;
+    border-top: 0.5px solid #ccc;
+    font-size: 7.2pt;
+    color: #888;
+    display: flex;
+    justify-content: space-between;
+  }
+}

@@ -1,0 +1,18566 @@
+[
+{
+"w": "a.m.",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "a",
+"lv": "base",
+"alt": "an",
+"ltr": "A"
+},
+{
+"w": "abandon",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ability",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "able",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "abnormal",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "aboard",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "about",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "above",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "abroad",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "absence",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "absent",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "absolutely",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "absorb",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "abstract",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "abuse",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "academic",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "accent",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "accept",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "access",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "accident",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "accommodation",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "accompany",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "according",
+"lv": "base",
+"alt": "to",
+"ltr": "A"
+},
+{
+"w": "account",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "accurate",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "accuse",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ache",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "achieve",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "achievement",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "acid",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "acknowledge",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "acquire",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "across",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "act",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "action",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "active",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "activity",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "actor",
+"lv": "base",
+"alt": "actress",
+"ltr": "A"
+},
+{
+"w": "actually",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ad",
+"lv": "base",
+"alt": "=advertisement",
+"ltr": "A"
+},
+{
+"w": "adapt",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "adaptation",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "add",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "addict",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "addition",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "address",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "adjust",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "administration",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "admire",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "admit",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "adopt",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "adorable",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "adult",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "advance",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "advantage",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "adventure",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "advertise",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "advice",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "advise",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "advocate",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "affair",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "affect",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "afford",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "afraid",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "Africa",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "after",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "afternoon",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "afterward",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "again",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "against",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "age",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "agency",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "agenda",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ago",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "agree",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "agreement",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "agriculture",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ahead",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "AI",
+"lv": "base",
+"alt": "=artificial intelligence",
+"ltr": "A"
+},
+{
+"w": "aid",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "aim",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "air",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "airline",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "airport",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "alarm",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "alcohol",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "alert",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "alive",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "all",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "allow",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "almost",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "alone",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "along",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "alongside",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "aloud",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "already",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "also",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "alternative",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "although",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "altogether",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "always",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "amateur",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "amazing",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ambition",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ambitious",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ambulance",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "America",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "among",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "amount",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "amuse",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "analyse",
+"lv": "sel",
+"alt": "analyze",
+"ltr": "A"
+},
+{
+"w": "ancestor",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ancient",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "and",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "anger",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "angle",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "angry",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "animal",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ankle",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "anniversary",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "announce",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "annoy",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "annual",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "another",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "answer",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ant",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "Antarctica",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "anticipate",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "antique",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "anxiety",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "anxious",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "any",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "anybody",
+"lv": "base",
+"alt": "anyone",
+"ltr": "A"
+},
+{
+"w": "anyhow",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "anything",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "anyway",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "anywhere",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "apart",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "apartment",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "apologise",
+"lv": "req",
+"alt": "apologize",
+"ltr": "A"
+},
+{
+"w": "app",
+"lv": "base",
+"alt": "=application",
+"ltr": "A"
+},
+{
+"w": "apparently",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "appeal",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "appear",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "appetite",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "applaud",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "apple",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "applicant",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "application",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "apply",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "appointment",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "appreciate",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "approach",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "appropriate",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "approve",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "arch",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "architect",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "Arctic",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "area",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "argue",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "arise",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "arm",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "army",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "around",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "arrangement",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "arrest",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "arrive",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "arrow",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "art",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "article",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "artificial",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "artist",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "as",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ashamed",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "Asia",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "aside",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "ask",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "asleep",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "aspect",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "assess",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "assign",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "assistant",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "association",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "assume",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "assumption",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "astonish",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "astronaut",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "astronomer",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "at",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "athlete",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "Atlantic",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "atmosphere",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "attach",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "attack",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "attain",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "attempt",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "attend",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "attention",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "attitude",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "attract",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "audience",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "aunt",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "author",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "authority",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "automatic",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "autonomous",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "autumn",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "available",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "average",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "avoid",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "awake",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "award",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "aware",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "away",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "awesome",
+"lv": "sel",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "awful",
+"lv": "base",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "awkward",
+"lv": "req",
+"alt": "",
+"ltr": "A"
+},
+{
+"w": "baby",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "back",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "background",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "backward",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bacon",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bacteria",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bad",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "badminton",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bag",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bakery",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "balance",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "ball",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "ballet",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "balloon",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bamboo",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "ban",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "banana",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "band",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bank",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bar",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "barbecue",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "barely",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bark",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "barrier",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "base",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "baseball",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "basic",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "basin",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "basis",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "basket",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "basketball",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bat",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bath",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bathroom",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "battery",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "battle",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bay",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "BCE",
+"lv": "sel",
+"alt": "Before the Common Era",
+"ltr": "B"
+},
+{
+"w": "be",
+"lv": "base",
+"alt": "am, are, is",
+"ltr": "B"
+},
+{
+"w": "beach",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bean",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bear",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "beard",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "beat",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "beautiful",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "beauty",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "because",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "become",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bed",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bedroom",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bee",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "beef",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "beer",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "before",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "begin",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "behalf",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "behave",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "behaviour",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "behind",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "being",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "belief",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "believe",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bell",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "belong",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "below",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "belt",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bend",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "beneath",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "benefit",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "beside",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "besides",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "best",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bet",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "better",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "between",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "beyond",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bias",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "big",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bike",
+"lv": "base",
+"alt": "=bicycle",
+"ltr": "B"
+},
+{
+"w": "bill",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "billion",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bin",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "biology",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bird",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "birth",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "birthday",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "biscuit",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bit",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bite",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bitter",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "black",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "blackboard",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "blame",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "blank",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "blanket",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bleed",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bless",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "blind",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "block",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "blog",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "blood",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "blouse",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "blow",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "blue",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "board",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "boat",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "body",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "boil",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bomb",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bond",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bone",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bonus",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "book",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "boost",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "boot",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "border",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bored",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "boring",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "born",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "borrow",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "boss",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "botanical",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "both",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bother",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bottle",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bottom",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bounce",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bound",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "boundary",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bow",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bowl",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bowling",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "box",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "boxing",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "boy",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "brain",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "branch",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "brand",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "brave",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bread",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "break",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "breakfast",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "breast",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "breath",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "breathe",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "brick",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bride",
+"lv": "sel",
+"alt": "bridegroom",
+"ltr": "B"
+},
+{
+"w": "bridge",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "brief",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bright",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "brilliant",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bring",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "broad",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "broadcast",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "brochure",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "brother",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "brown",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "brush",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "budget",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "buffet",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bug",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "build",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "building",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bully",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bunch",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "burn",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "burst",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bury",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "bus",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "business",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "busy",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "but",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "butcher",
+"lv": "sel",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "butter",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "butterfly",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "button",
+"lv": "req",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "buy",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "by",
+"lv": "base",
+"alt": "",
+"ltr": "B"
+},
+{
+"w": "cabbage",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cafeteria",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cage",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cake",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "calculate",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "calendar",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "call",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "calligraphy",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "calm",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "calorie",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "camel",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "camera",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "camp",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "campaign",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "campus",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "can",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "canal",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cancel",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cancer",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "candidate",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "candle",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "candy",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "canteen",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cap",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "capable",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "capacity",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "capital",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "capsule",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "captain",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "capture",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "car",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "carbon",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "card",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "care",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "career",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "careful",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "careless",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "carpet",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "carrot",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "carry",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cartoon",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "carve",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "case",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cash",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cast",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "castle",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "casual",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cat",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "catch",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "category",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cattle",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cause",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cautious",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cave",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "CE",
+"lv": "sel",
+"alt": "Common Era",
+"ltr": "C"
+},
+{
+"w": "cease",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "ceiling",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "celebrate",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "celebrity",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cell",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cent",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "centimetre",
+"lv": "sel",
+"alt": "centimeter",
+"ltr": "C"
+},
+{
+"w": "central",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "centre",
+"lv": "base",
+"alt": "center",
+"ltr": "C"
+},
+{
+"w": "century",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "ceremony",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "certain",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "certainly",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "certificate",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chain",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chair",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chairman",
+"lv": "sel",
+"alt": "chairwoman",
+"ltr": "C"
+},
+{
+"w": "chalk",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "challenge",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "champion",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chance",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "change",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "channel",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chaos",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chapter",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "character",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "characteristic",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "charge",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "charity",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "charm",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chart",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chat",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cheap",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cheat",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "check",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cheer",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cheese",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chef",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chemical",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chemist",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chemistry",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chess",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chest",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chew",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chicken",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chief",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "child",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "childhood",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "China",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "Chinese",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chip",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chocolate",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "choice",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "choke",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "choose",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chopsticks",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chore",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "chorus",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "Christmas",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "church",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cigarette",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cinema",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "circle",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "circuit",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "circumstance",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "circus",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cite",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "citizen",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "city",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "civil",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "civilian",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "civilisation",
+"lv": "sel",
+"alt": "civilization",
+"ltr": "C"
+},
+{
+"w": "claim",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clap",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clarify",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "class",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "classic",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "classmate",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "classroom",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clay",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clean",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clear",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clerk",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clever",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "click",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "client",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "climate",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "climb",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clinic",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clock",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clone",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "close",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cloth",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clothes",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cloud",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cloudy",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "club",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "clue",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "coach",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "coal",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "coast",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "coat",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "coffee",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "coin",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cold",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "collaborate",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "collapse",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "collar",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "collect",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "collection",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "college",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "colour",
+"lv": "base",
+"alt": "color",
+"ltr": "C"
+},
+{
+"w": "column",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "combine",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "come",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "comedy",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "comfort",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "comfortable",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "comic",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "command",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "comment",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "commercial",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "commit",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "commitment",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "committee",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "common",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "communicate",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "communication",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "communist",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "community",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "company",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "compare",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "comparison",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "compass",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "compete",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "competence",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "competition",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "complain",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "complete",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "complex",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "complicated",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "component",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "compose",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "composition",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "comprehension",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "comprehensive",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "comprise",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "computer",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "concentrate",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "concept",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "concern",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "concert",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "conclude",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "conclusion",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "concrete",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "condition",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "conduct",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "conference",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "confidence",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "confident",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "confirm",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "conflict",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "Confucianism",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "Confucius",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "confused",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "congratulation",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "connect",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "conscious",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "consequence",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "conservation",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "consider",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "consist",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "consistent",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "constant",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "constitution",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "construction",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "consultant",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "consultation",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "consume",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "consumption",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "contact",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "contain",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "contemporary",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "content",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "contest",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "context",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "continent",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "continue",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "contract",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "contradictory",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "contrary",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "contrast",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "contribution",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "control",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "controversial",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "convenient",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "conventional",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "conversation",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "convey",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "convince",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cook",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cookie",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cool",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cooperate",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "copy",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "core",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "corn",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "corner",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "corporate",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "correct",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "correspond",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cost",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "costume",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cottage",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cotton",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cough",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "could",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "council",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "count",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "country",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "countryside",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "county",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "couple",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "courage",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "course",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "court",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cousin",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cover",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "coverage",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cow",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "craft",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "crash",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "crazy",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cream",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "create",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "creative",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "creature",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "credit",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "crew",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "crime",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "crisis",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "criterion",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "critical",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "criticise",
+"lv": "sel",
+"alt": "criticize",
+"ltr": "C"
+},
+{
+"w": "crop",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cross",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "crowd",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "crowded",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "crucial",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cruel",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cry",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cucumber",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cuisine",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "culture",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cup",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cupboard",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cure",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "curious",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "currency",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "current",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "curtain",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "curve",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "custom",
+"lv": "req",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "customer",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cut",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cute",
+"lv": "base",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "cycle",
+"lv": "sel",
+"alt": "",
+"ltr": "C"
+},
+{
+"w": "daily",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dam",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "damage",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "damp",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dance",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "danger",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dangerous",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dare",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dark",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "data",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "database",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "date",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "daughter",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dawn",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "day",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dead",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "deadline",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "deaf",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "deal",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dear",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "death",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "debate",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "debt",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "decade",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "decent",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "decide",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "decision",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "declare",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "decline",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "decorate",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "decrease",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dedicate",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "deep",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "deer",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "defeat",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "defence",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "defend",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "definitely",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "definition",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "degree",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "delay",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "delete",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "delicate",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "delicious",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "delight",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "deliver",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "demand",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "demonstrate",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dentist",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "deny",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "department",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "departure",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "depend",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "depress",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "depth",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "describe",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "description",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "desert",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "deserve",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "design",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "desire",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "desk",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "desperate",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "despite",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dessert",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "destination",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "destroy",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "detail",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "detect",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "detective",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "determine",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "develop",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "development",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "device",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "devote",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "diagram",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dialogue",
+"lv": "base",
+"alt": "dialog",
+"ltr": "D"
+},
+{
+"w": "diamond",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "diary",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dictionary",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "die",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "diet",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "differ",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "difference",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "different",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "difficult",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "difficulty",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dig",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "digest",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "digital",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dignity",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dimension",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dining",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dinner",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dinosaur",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "direct",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "direction",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "director",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "directory",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dirty",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "disability",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "disabled",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "disappear",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "disappoint",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "disappointed",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "disaster",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "discipline",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "discount",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "discover",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "discovery",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "discrimination",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "discuss",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "discussion",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "disease",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dish",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "disc",
+"lv": "sel",
+"alt": "disk",
+"ltr": "D"
+},
+{
+"w": "dismiss",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "display",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "distance",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "distant",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "distinct",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "distinguish",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "distribution",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "district",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "disturb",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dive",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "diverse",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "divide",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "division",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dizzy",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "do",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "doctor",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "document",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dog",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "doll",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dollar",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dolphin",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "domain",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "domestic",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dominate",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "donate",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "door",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dormitory",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "double",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "doubt",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "down",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "download",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "downstairs",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "downtown",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dozen",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "draft",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "drag",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dragon",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "drama",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dramatic",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "draw",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "drawer",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dream",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dress",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "drill",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "drink",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "drive",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "driver",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "drone",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "drop",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "drought",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "drown",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "drug",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dry",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "duck",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "due to",
+"lv": "req",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dumpling",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "duration",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "during",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dust",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "duty",
+"lv": "base",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dynamic",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "dynasty",
+"lv": "sel",
+"alt": "",
+"ltr": "D"
+},
+{
+"w": "each",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "eager",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "eagle",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "ear",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "early",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "earn",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "earth",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "earthquake",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "ease",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "east",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "eastern",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "easy",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "eat",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "ecology",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "economic",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "economy",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "edge",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "editor",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "education",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "educator",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "effect",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "efficient",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "effort",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "egg",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "either",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "elder",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "elderly",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "election",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "electric",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "electricity",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "electronic",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "elegant",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "element",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "elephant",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "elevator",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "eliminate",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "else",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "elsewhere",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "email",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "embarrassed",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "emerge",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "emergency",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "emotion",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "empathy",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "emperor",
+"lv": "base",
+"alt": "empress",
+"ltr": "E"
+},
+{
+"w": "emphasis",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "employ",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "empty",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "enable",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "encounter",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "encourage",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "end",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "endangered",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "enemy",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "energetic",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "energy",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "engage",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "engine",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "engineer",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "English",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "enhance",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "enjoy",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "enormous",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "enough",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "ensure",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "enter",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "enterprise",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "entertainment",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "enthusiastic",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "entirely",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "entitle",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "entrance",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "entry",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "envelope",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "environment",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "envy",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "episode",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "equal",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "equator",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "equipment",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "era",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "eraser",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "error",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "erupt",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "escape",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "especially",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "essay",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "essential",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "establish",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "estate",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "estimate",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "ethical",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "ethnic",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "Europe",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "evaluate",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "eve",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "even",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "evening",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "event",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "eventually",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "ever",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "every",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "everybody",
+"lv": "base",
+"alt": "everyone",
+"ltr": "E"
+},
+{
+"w": "everyday",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "everything",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "everywhere",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "evidence",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "evolve",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exactly",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exam",
+"lv": "base",
+"alt": "=examination",
+"ltr": "E"
+},
+{
+"w": "examine",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "example",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exceed",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "excellent",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "except",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exceptional",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exchange",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "excited",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exciting",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "excuse",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exercise",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exhaust",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exhibition",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exist",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exit",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "expand",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "expansion",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "expect",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "expectation",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "expense",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "expensive",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "experience",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "experiment",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "expert",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "explain",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "explode",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "explore",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "export",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "expose",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "exposure",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "express",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "extend",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "extension",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "extent",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "external",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "extinction",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "extra",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "extraordinary",
+"lv": "sel",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "extremely",
+"lv": "req",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "eye",
+"lv": "base",
+"alt": "",
+"ltr": "E"
+},
+{
+"w": "fable",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fabric",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "face",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "facilitate",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "facility",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fact",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "factor",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "factory",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fail",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "failure",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "faint",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fair",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "faith",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fall",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "false",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "familiar",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "family",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "famous",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fan",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fancy",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fantastic",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fantasy",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "far",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "farm",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "farmer",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fascinating",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fashion",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fast",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fat",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "father",
+"lv": "base",
+"alt": "dad",
+"ltr": "F"
+},
+{
+"w": "fault",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "favour",
+"lv": "sel",
+"alt": "favor",
+"ltr": "F"
+},
+{
+"w": "favourite",
+"lv": "base",
+"alt": "favorite",
+"ltr": "F"
+},
+{
+"w": "fear",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "feature",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fee",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "feed",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "feel",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "feeling",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fellow",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "female",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fence",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fertile",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "festival",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fetch",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fever",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "few",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fibre",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fiction",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "field",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fight",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "figure",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "file",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fill",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "film",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "final",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "finally",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "finance",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "financial",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "find",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "finding",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fine",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "finger",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "finish",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fire",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fireman",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "firework",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "firm",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fish",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fisherman",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fist",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fit",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fix",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "flag",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "flame",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "flash",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "flat",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "flavour",
+"lv": "sel",
+"alt": "flavor",
+"ltr": "F"
+},
+{
+"w": "flexible",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "flight",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "float",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "flood",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "floor",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "flour",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "flow",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "flower",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "flu",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fluent",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fly",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "focus",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fog",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fold",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "folk",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "follow",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fond",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "food",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fool",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "foot",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "football",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "for",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "force",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "forecast",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "forehead",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "foreign",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "forest",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "forever",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "forget",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "forgive",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fork",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "form",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "formal",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "format",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "former",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fortunately",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fortune",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "forward",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "found",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "foundation",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fountain",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fox",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "frame",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "frank",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "free",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "freedom",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "freeze",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "frequency",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "frequently",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fresh",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "friction",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fridge",
+"lv": "base",
+"alt": "=refrigerator",
+"ltr": "F"
+},
+{
+"w": "friend",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "friendly",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "friendship",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "frightened",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "frog",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "from",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "front",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "frontier",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "frost",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fruit",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fry",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fuel",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fulfil",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "full",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fun",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "function",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fund",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "fundamental",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "funny",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "furniture",
+"lv": "sel",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "further",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "furthermore",
+"lv": "req",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "future",
+"lv": "base",
+"alt": "",
+"ltr": "F"
+},
+{
+"w": "gain",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gallery",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "game",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gap",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "garbage",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "garden",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "garlic",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gas",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gate",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gather",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gender",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gene",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "general",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "generate",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "generation",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "generous",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "genius",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gentle",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gentleman",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "genuine",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "geography",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "geometry",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gesture",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "get",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "giant",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gift",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gifted",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "giraffe",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "girl",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "give",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "glad",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "glance",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "glass",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "global",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "globe",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "glove",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "glue",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "go",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "goal",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "goat",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "god",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gold",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "golf",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "good",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "goodbye",
+"lv": "base",
+"alt": "bye",
+"ltr": "G"
+},
+{
+"w": "goods",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "government",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grab",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "graceful",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grade",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gradually",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "graduate",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grain",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grammar",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gramme",
+"lv": "sel",
+"alt": "gram",
+"ltr": "G"
+},
+{
+"w": "grand",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "granddaughter",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grandfather",
+"lv": "base",
+"alt": "grandpa",
+"ltr": "G"
+},
+{
+"w": "grandmother",
+"lv": "base",
+"alt": "grandma",
+"ltr": "G"
+},
+{
+"w": "grandparent",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grandson",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grape",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grasp",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grass",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grateful",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gratitude",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gravity",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "great",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "greedy",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "green",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "greenhouse",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "greet",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grey",
+"lv": "base",
+"alt": "gray",
+"ltr": "G"
+},
+{
+"w": "grocery",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "ground",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "group",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "grow",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "guarantee",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "guard",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "guess",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "guest",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "guidance",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "guide",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "guideline",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "guilty",
+"lv": "sel",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "guitar",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gun",
+"lv": "base",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "guy",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "gym",
+"lv": "base",
+"alt": "=gymnasium",
+"ltr": "G"
+},
+{
+"w": "gymnastics",
+"lv": "req",
+"alt": "",
+"ltr": "G"
+},
+{
+"w": "habit",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "habitat",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hair",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "half",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hall",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "ham",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hamburger",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hand",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "handbag",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "handkerchief",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "handle",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "handsome",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "handwriting",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hang",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "happen",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "happy",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hard",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hardly",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "harm",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "harmful",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "harmonious",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "harmony",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "harvest",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hat",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hatch",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hate",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "have",
+"lv": "base",
+"alt": "has",
+"ltr": "H"
+},
+{
+"w": "he",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "head",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "headache",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "headline",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "health",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "healthy",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hear",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "heart",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "heat",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "heavy",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "height",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "helicopter",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hello",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "help",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "helpful",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hen",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hence",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "her",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "herb",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "here",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "heritage",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hero",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hers",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "herself",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hesitate",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hi",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hide",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "high",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "highlight",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "highway",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hike",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hill",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "him",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "himself",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hire",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "his",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "historic",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "history",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hit",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hobby",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hold",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hole",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "holiday",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "home",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hometown",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "homework",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "honest",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "honey",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "honour",
+"lv": "base",
+"alt": "honor",
+"ltr": "H"
+},
+{
+"w": "hope",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "horrible",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "horror",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "horse",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hospital",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "host",
+"lv": "base",
+"alt": "hostess",
+"ltr": "H"
+},
+{
+"w": "hot",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hotel",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hour",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "house",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "household",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "housework",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "housing",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "how",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "however",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hug",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "huge",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "human",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "humanity",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "humble",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "humour",
+"lv": "base",
+"alt": "humor",
+"ltr": "H"
+},
+{
+"w": "humourous",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hungry",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hunt",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hurricane",
+"lv": "req",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hurry",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hurt",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "husband",
+"lv": "base",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hybrid",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "hydrogen",
+"lv": "sel",
+"alt": "",
+"ltr": "H"
+},
+{
+"w": "ice",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "ice cream",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "idea",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "ideal",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "identical",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "identify",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "identity",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "idiom",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "if",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "ignore",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "ill",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "illegal",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "illness",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "illustrate",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "image",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "imagine",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "immediately",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "impact",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "imply",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "import",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "important",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "impossible",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "impress",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "impression",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "improve",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "in",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "inch",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "incident",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "include",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "income",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "increase",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "incredible",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "indeed",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "independent",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "indicate",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "individual",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "industry",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "infection",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "infer",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "influence",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "influential",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "information",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "ingredient",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "initial",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "initiative",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "injury",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "ink",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "inner",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "innocent",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "innovation",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "input",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "inquire",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "insect",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "inside",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "insight",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "insist",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "inspection",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "inspire",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "instance",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "instant",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "instead",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "institute",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "institution",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "instruction",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "instrument",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "insurance",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "integrate",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "integrity",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "intellectual",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "intelligent",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "intend",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "intense",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "intention",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "interaction",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "interest",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "interesting",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "internal",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "international",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "internet",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "interpret",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "interrupt",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "intervention",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "interview",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "into",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "introduce",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "introduction",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "invent",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "invention",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "invest",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "investigate",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "investment",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "invite",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "involve",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "iron",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "irrigation",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "island",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "issue",
+"lv": "req",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "it",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "item",
+"lv": "sel",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "its",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "itself",
+"lv": "base",
+"alt": "",
+"ltr": "I"
+},
+{
+"w": "jacket",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "jam",
+"lv": "sel",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "jaw",
+"lv": "sel",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "jazz",
+"lv": "sel",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "jeans",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "job",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "jog",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "join",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "joint",
+"lv": "sel",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "joke",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "journal",
+"lv": "req",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "journalist",
+"lv": "sel",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "journey",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "joy",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "judge",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "juice",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "jump",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "jungle",
+"lv": "sel",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "junior",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "just",
+"lv": "base",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "justice",
+"lv": "req",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "justify",
+"lv": "sel",
+"alt": "",
+"ltr": "J"
+},
+{
+"w": "kangaroo",
+"lv": "req",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "keen",
+"lv": "req",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "keep",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kettle",
+"lv": "sel",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "key",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "keyboard",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kick",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kid",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kill",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kilo",
+"lv": "base",
+"alt": "=kilogram",
+"ltr": "K"
+},
+{
+"w": "kilometre",
+"lv": "base",
+"alt": "kilometer",
+"ltr": "K"
+},
+{
+"w": "kind",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kindergarten",
+"lv": "sel",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "king",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kingdom",
+"lv": "sel",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kiss",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kit",
+"lv": "sel",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kitchen",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kite",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "knee",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "knife",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "knock",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "know",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "knowledge",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "kung fu",
+"lv": "base",
+"alt": "",
+"ltr": "K"
+},
+{
+"w": "lab",
+"lv": "base",
+"alt": "=laboratory",
+"ltr": "L"
+},
+{
+"w": "label",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "labour",
+"lv": "sel",
+"alt": "labor",
+"ltr": "L"
+},
+{
+"w": "lack",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lady",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lake",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lamb",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lamp",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "land",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "landscape",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "language",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lantern",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lap",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "laptop",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "large",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "last",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "late",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "later",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "laugh",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "launch",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "law",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lawyer",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lay",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lazy",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lead",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "leader",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "leadership",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "leaf",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "league",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "leak",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lean",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "leap",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "learn",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "least",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "leather",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "leave",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lecture",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "left",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "leg",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "legal",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "legend",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "leisure",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lemon",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lend",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "length",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "less",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lesson",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "let",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "letter",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "level",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "liberation",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "liberty",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "librarian",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "library",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "license",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lie",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "life",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lifestyle",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lift",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "light",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lightning",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "like",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "likely",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "limit",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "limited",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "line",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "link",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lion",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lip",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "liquid",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "list",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "listen",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "literally",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "literary",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "literature",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "litter",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "little",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "live",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lively",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "livestock",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "living",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "load",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "loan",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "local",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "location",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lock",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "log",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "logical",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lonely",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "long",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "look",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "loose",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lose",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "loss",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lost",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lot",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "loud",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "love",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lovely",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "low",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lower",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "loyal",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "luck",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lucky",
+"lv": "req",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lunar",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lunch",
+"lv": "base",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "lung",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "luxury",
+"lv": "sel",
+"alt": "",
+"ltr": "L"
+},
+{
+"w": "machine",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mad",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "madam",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "magazine",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "magic",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "magnificent",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mail",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "main",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "maintain",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "major",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "majority",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "make",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "male",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mall",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "man",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "manage",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "manager",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mankind",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "manner",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "many",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "map",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "marathon",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "march",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "marine",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mark",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "market",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "marriage",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "marry",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mass",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "massive",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "master",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "match",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "material",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "maths",
+"lv": "base",
+"alt": "=mathematics, math",
+"ltr": "M"
+},
+{
+"w": "matter",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mature",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "maximum",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "may",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "maybe",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "me",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "meal",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mean",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "meaning",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "means",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "meanwhile",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "measure",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "meat",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mechanic",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "medal",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "medical",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "medicine",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "medium",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "meet",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "meeting",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "member",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "membership",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "memorial",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "memory",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mental",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mention",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "menu",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mercy",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "merely",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "merry",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mess",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "message",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "metal",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "metaphor",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "method",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "metre",
+"lv": "base",
+"alt": "meter",
+"ltr": "M"
+},
+{
+"w": "microscope",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "middle",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "midnight",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "might",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "migration",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mild",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mile",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "military",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "milk",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "millimetre",
+"lv": "sel",
+"alt": "millimeter",
+"ltr": "M"
+},
+{
+"w": "million",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mind",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mine",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mineral",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "minimum",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "minister",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "minor",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "minority",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "minute",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "miracle",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mirror",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "Miss",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "missile",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "missing",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mission",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mist",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mistake",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mix",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mixture",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mobile",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mobile phone",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mode",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "model",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "modern",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "modernization",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "modest",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "modify",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "moment",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "money",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "monitor",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "monkey",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "month",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "monthly",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "monument",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mood",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "moon",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "moral",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "more",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "moreover",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "morning",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mosquito",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "most",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mostly",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mother",
+"lv": "base",
+"alt": "mum, mom",
+"ltr": "M"
+},
+{
+"w": "motion",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "motivate",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "motive",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "motor",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mount",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mountain",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mouse",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mouth",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "move",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "movement",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "movie",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "Mr",
+"lv": "base",
+"alt": "Mr.",
+"ltr": "M"
+},
+{
+"w": "Mrs",
+"lv": "base",
+"alt": "Mrs.",
+"ltr": "M"
+},
+{
+"w": "Ms",
+"lv": "base",
+"alt": "Ms.",
+"ltr": "M"
+},
+{
+"w": "much",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mud",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "multiple",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "murder",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "muscle",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "museum",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mushroom",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "music",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "musician",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "must",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mutton",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mutual",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "my",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "myself",
+"lv": "base",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "mystery",
+"lv": "req",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "myth",
+"lv": "sel",
+"alt": "",
+"ltr": "M"
+},
+{
+"w": "nail",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "name",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "narrow",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nation",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "national",
+"lv": "req",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nationality",
+"lv": "req",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "native",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "natural",
+"lv": "req",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nature",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "navy",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "near",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nearby",
+"lv": "req",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nearly",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "neat",
+"lv": "req",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "necessary",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "neck",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "need",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "needle",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "negative",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "negotiate",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "neighbour",
+"lv": "base",
+"alt": "neighbor",
+"ltr": "N"
+},
+{
+"w": "neighbourhood",
+"lv": "sel",
+"alt": "neighborhood",
+"ltr": "N"
+},
+{
+"w": "neither",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nephew",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nervous",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nest",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "net",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "network",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "neutral",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "never",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nevertheless",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "new",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "news",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "newspaper",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "next",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nice",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "niece",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "night",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "no",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "noble",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nobody",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nod",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "noise",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "noisy",
+"lv": "req",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "none",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "noodle",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "noon",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nor",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "normal",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "north",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "northern",
+"lv": "req",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nose",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "not",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "note",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "notebook",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nothing",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "notice",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "novel",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "novelist",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "now",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nowadays",
+"lv": "req",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nowhere",
+"lv": "req",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nuclear",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "number",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "numerous",
+"lv": "req",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nurse",
+"lv": "base",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nut",
+"lv": "req",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "nutrition",
+"lv": "sel",
+"alt": "",
+"ltr": "N"
+},
+{
+"w": "obey",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "object",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "objective",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "observe",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "obstacle",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "obtain",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "obviously",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "occasion",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "occupation",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "occupy",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "occur",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "ocean",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "odd",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "of",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "off",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "offend",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "offer",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "office",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "officer",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "official",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "often",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "oil",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "OK",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "old",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "Olympic",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "on",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "once",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "onion",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "online",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "only",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "onto",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "open",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "opera",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "operate",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "operation",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "operator",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "opinion",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "opponent",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "opportunity",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "oppose",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "opposite",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "optimistic",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "option",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "or",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "orange",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "orbit",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "orchestra",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "order",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "ordinary",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "organ",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "organic",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "organisation",
+"lv": "req",
+"alt": "organization",
+"ltr": "O"
+},
+{
+"w": "organise",
+"lv": "base",
+"alt": "organize",
+"ltr": "O"
+},
+{
+"w": "origin",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "original",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "other",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "otherwise",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "ought to",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "our",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "ours",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "ourselves",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "out",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "outcome",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "outgoing",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "outline",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "output",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "outside",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "outstanding",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "oven",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "over",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "overall",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "overcome",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "overseas",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "owe",
+"lv": "sel",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "own",
+"lv": "base",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "oxygen",
+"lv": "req",
+"alt": "",
+"ltr": "O"
+},
+{
+"w": "pace",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "Pacific",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pack",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "package",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "packet",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "page",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pagoda",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pain",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "paint",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pair",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "palace",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pale",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pan",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pancake",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "panda",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "panel",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "panic",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pants",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "paper",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "paragraph",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "parcel",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pardon",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "parent",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "park",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "parking",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "part",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "participate",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "particular",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "partner",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "party",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pass",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "passage",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "passenger",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "passion",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "passive",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "passport",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "past",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "patent",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "path",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "patience",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "patient",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "patriotism",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pattern",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pay",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "PE",
+"lv": "base",
+"alt": "=physical education",
+"ltr": "P"
+},
+{
+"w": "peace",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "peak",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pear",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pen",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pencil",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "penguin",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "people",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pepper",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "per cent",
+"lv": "base",
+"alt": "percent",
+"ltr": "P"
+},
+{
+"w": "per",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "perceive",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "percentage",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "perfect",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "perform",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "performance",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "perhaps",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "period",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "permanent",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "permit",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "person",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "personal",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "personality",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "perspective",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "persuade",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pessimistic",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pet",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "petrol",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "phase",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "phenomenon",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "philosophy",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "phone",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "photo",
+"lv": "base",
+"alt": "=photograph",
+"ltr": "P"
+},
+{
+"w": "photographer",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "phrase",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "physician",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "physics",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "piano",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pick",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "picnic",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "picture",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pie",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "piece",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pig",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pile",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pill",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pilot",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "ping-pong",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pink",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pioneer",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pipe",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pity",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pizza",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "place",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "plain",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "plan",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "plane",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "planet",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "plant",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "plastic",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "plate",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "platform",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "play",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "player",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "playground",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pleasant",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "please",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pleasure",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "plenty",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "plot",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "plug",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "plus",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "p.m.",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pocket",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "poem",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "poet",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "poetry",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "point",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "poison",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "polar",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pole",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "police",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "policeman",
+"lv": "base",
+"alt": "policewoman",
+"ltr": "P"
+},
+{
+"w": "policy",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "polish",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "polite",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "political",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "politician",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "politics",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pollute",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pollution",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pond",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pool",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "poor",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "popular",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "population",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pork",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "porridge",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "port",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "portrait",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pose",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "position",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "positive",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "possession",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "possible",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "post",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "postcard",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "poster",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "postman",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "postpone",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pot",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "potato",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "potential",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pound",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pour",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "poverty",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "power",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "practical",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "practise",
+"lv": "base",
+"alt": "practice",
+"ltr": "P"
+},
+{
+"w": "praise",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pray",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "precious",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "precisely",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "predict",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prefer",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "preference",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prejudice",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "premier",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prepare",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "present",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "presentation",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "preserve",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "president",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "press",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pressure",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pretend",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pretty",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prevent",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "previous",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "price",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pride",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "primary",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "primitive",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prince",
+"lv": "base",
+"alt": "princess",
+"ltr": "P"
+},
+{
+"w": "principal",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "principle",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "print",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prior",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "priority",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prison",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "private",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prize",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "probably",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "problem",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "procedure",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "proceed",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "process",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "produce",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "product",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "profession",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "professional",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "professor",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "profile",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "profit",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "programme",
+"lv": "base",
+"alt": "program",
+"ltr": "P"
+},
+{
+"w": "progress",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prohibit",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "project",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "promise",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "promote",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pronounce",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pronunciation",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "proof",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "proper",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "property",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "proportion",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "proposal",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prospect",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prosperity",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "protect",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "protein",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "protest",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "proud",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "prove",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "provide",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "province",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "psychology",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pub",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "public",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "publish",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pudding",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pull",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "punish",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "purchase",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pure",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "purple",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "purpose",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "purse",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pursue",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "push",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "put",
+"lv": "base",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "puzzle",
+"lv": "sel",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "pyramid",
+"lv": "req",
+"alt": "",
+"ltr": "P"
+},
+{
+"w": "qualification",
+"lv": "sel",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "qualify",
+"lv": "sel",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "quality",
+"lv": "base",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "quantity",
+"lv": "sel",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "quarter",
+"lv": "base",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "queen",
+"lv": "base",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "question",
+"lv": "base",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "quick",
+"lv": "base",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "quiet",
+"lv": "base",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "quit",
+"lv": "req",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "quite",
+"lv": "base",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "quote",
+"lv": "sel",
+"alt": "",
+"ltr": "Q"
+},
+{
+"w": "rabbit",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "race",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "racial",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "radiation",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "radio",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "radium",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "railway",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rain",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rainbow",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rainy",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "raise",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "random",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "range",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rank",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rapid",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rare",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rate",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rather",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rating",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "raw",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "ray",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reach",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "react",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reaction",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "read",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "ready",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "real",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "realise",
+"lv": "base",
+"alt": "realize",
+"ltr": "R"
+},
+{
+"w": "realistic",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reality",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "really",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reason",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "recall",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "receipt",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "receive",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "recent",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "recently",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "receptionist",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "recipe",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "recite",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "recognise",
+"lv": "base",
+"alt": "recognize",
+"ltr": "R"
+},
+{
+"w": "recognition",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "recommend",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "record",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "recording",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "recover",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "recreation",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "recycle",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "red",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reduce",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "refer",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reference",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reflect",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reform",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "refresh",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "refuse",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "regard",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "regardless",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "region",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "register",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "regret",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "regular",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reinforce",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reject",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rejuvenate",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "relate",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "relationship",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "relative",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "relax",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "relay",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "release",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "relevant",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reliable",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "relief",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "relieve",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "religion",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rely",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "remain",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "remarkable",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "remember",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "remind",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "remote",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "remove",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rent",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "repair",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "repeat",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "replace",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reply",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "report",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "represent",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "representative",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "republic",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reputation",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "request",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "require",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rescue",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "research",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reserve",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "resident",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "resign",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "resistance",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "resolution",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "resolve",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "resource",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "respect",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "respective",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "respond",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "response",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "responsibility",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "responsible",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rest",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "restaurant",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "restore",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "restrict",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "result",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "retire",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "return",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reveal",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "review",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "revise",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "revolution",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "reward",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rhyme",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rhythm",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rice",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rich",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "riddle",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "ride",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "right",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rigid",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "ring",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "ripe",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rise",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "risk",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rival",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "river",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "road",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "roast",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "robot",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rock",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rocket",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "role",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "roll",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "romantic",
+"lv": "req",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "roof",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "room",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "root",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rope",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rose",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rough",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "round",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "route",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "routine",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "row",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "royal",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rubber",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rubbish",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rude",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rugby",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "ruin",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rule",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "ruler",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "run",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rural",
+"lv": "sel",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "rush",
+"lv": "base",
+"alt": "",
+"ltr": "R"
+},
+{
+"w": "sacrifice",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sad",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "safe",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "safety",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sail",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "salad",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "salary",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sale",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "salesman",
+"lv": "sel",
+"alt": "saleswoman",
+"ltr": "S"
+},
+{
+"w": "salt",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "salty",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "same",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sample",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sand",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sandwich",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "satellite",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "satisfaction",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "satisfy",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sauce",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "saucer",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sausage",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "save",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "saving",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "say",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "saying",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "scale",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "scan",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "scare",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "scarf",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "scene",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "schedule",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "scholarship",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "school",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "schoolbag",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "science",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "scientific",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "scientist",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "scissors",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "score",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "scream",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "screen",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sculpture",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sea",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "search",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "season",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "seat",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "secondary",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "secret",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "secretary",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "section",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "secure",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "security",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "see",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "seed",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "seek",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "seem",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "seize",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "seldom",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "select",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "selfish",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sell",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "semester",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "send",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "senior",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sense",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sensitive",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sentence",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "separate",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "series",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "serious",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "servant",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "serve",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "service",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "session",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "set",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "setting",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "settle",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "several",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "severe",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sew",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sex",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shade",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shadow",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shake",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shall",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shallow",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shame",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shape",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "share",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shark",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sharp",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shave",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "she",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sheep",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sheet",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shelf",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shell",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shelter",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shift",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shine",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "ship",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shirt",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shock",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shoe",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shoot",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shop",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shore",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "short",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shortage",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shorts",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "should",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shoulder",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shout",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "show",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shower",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shut",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "shy",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sick",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "side",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sigh",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sight",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sign",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "signal",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "significant",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "silence",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "silent",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "silk",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "silly",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "silver",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "similar",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "simple",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "since",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sincerely",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sing",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "single",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sink",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sir",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sister",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sit",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "site",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "situation",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "size",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "skate",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "skateboard",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "ski",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "skill",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "skin",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "skip",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "skirt",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sky",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "slave",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sleep",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sleepy",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "slice",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "slide",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "slightly",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "slim",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "slip",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "slow",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "small",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "smart",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "smell",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "smile",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "smog",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "smoke",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "smooth",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "snack",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "snake",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sneeze",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "snow",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "snowy",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "so",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "soccer",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "social",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "socialism",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "socialist",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "society",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sock",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sofa",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "soft",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "software",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "soil",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "solar",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "soldier",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "solid",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "solution",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "solve",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "some",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "somebody",
+"lv": "base",
+"alt": "someone",
+"ltr": "S"
+},
+{
+"w": "somehow",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "something",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sometimes",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "somewhat",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "somewhere",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "son",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "song",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "soon",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sore",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sorrow",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sorry",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sort",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "soul",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sound",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "soup",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sour",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "source",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "south",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "southern",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "souvenir",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sow",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "space",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "spacecraft",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "spare",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "speak",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "speaker",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "special",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "specialist",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "species",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "specific",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "speech",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "speed",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "spell",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "spend",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "spicy",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "spirit",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "splendid",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "split",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sponsor",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "spoon",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sport",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "spot",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "spread",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "spring",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "spy",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "square",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stability",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stadium",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "staff",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stage",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stair",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stamp",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stand",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "standard",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "star",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stare",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "start",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "starve",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "state",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "station",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "statistic",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "statue",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "status",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stay",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "steady",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "steak",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "steal",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "steam",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "steel",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "step",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stick",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "still",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stimulate",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stomach",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stomachache",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stone",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stop",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "store",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "storm",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "story",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "straight",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "straightforward",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "strait",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "strange",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stranger",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "strategy",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "strawberry",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stream",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "street",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "strength",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "strengthen",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stress",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stretch",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "strict",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "strike",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "string",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "strong",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "structure",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "struggle",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "student",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "studio",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "study",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stuff",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "stupid",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "style",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "subject",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "subjective",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "submit",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "subscribe",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "subsequent",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "substance",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "substantial",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "suburb",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "subway",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "succeed",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "success",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "successful",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "such",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sudden",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "suffer",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sufficient",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sugar",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "suggest",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "suggestion",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "suit",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "suitable",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sum",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "summary",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "summer",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sun",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sunny",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "super",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "superb",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "superior",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "supermarket",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "supplement",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "supply",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "support",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "suppose",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sure",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "surf",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "surface",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "surgeon",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "surgery",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "surprise",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "surround",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "surrounding",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "survey",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "survive",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "suspect",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "suspend",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sustain",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sweat",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sweater",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sweep",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sweet",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "swim",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "swing",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "switch",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "symbol",
+"lv": "base",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "sympathy",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "symphony",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "symptom",
+"lv": "sel",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "system",
+"lv": "req",
+"alt": "",
+"ltr": "S"
+},
+{
+"w": "table",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tablet",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tackle",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tail",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tailor",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "take",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tale",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "talent",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "talk",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tall",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tank",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tap",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tape",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "target",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "task",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "taste",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tax",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "taxi",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tea",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "teach",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "teacher",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "team",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "teamwork",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "teapot",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tear",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "technique",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "technology",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "teenage",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "teenager",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "telephone",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "telescope",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tell",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "temperature",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "temple",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "temporary",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tend",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tendency",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tennis",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tension",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tent",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "term",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "terrible",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "territory",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "test",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "text",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "than",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "thank",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "that",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "the",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "theatre",
+"lv": "base",
+"alt": "theater",
+"ltr": "T"
+},
+{
+"w": "theft",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "their",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "theirs",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "them",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "theme",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "themselves",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "then",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "theory",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "there",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "therefore",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "these",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "they",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "thick",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "thin",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "thing",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "think",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "thinking",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "thirsty",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "this",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "thorough",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "those",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "though",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "thought",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "threat",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "threaten",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "throat",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "through",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "throughout",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "throw",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "thunder",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "thus",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "ticket",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tidy",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tie",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tiger",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tight",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "time",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tiny",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tip",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tired",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tissue",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "title",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "to",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "toast",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tobacco",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "today",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tofu",
+"lv": "base",
+"alt": "bean curd",
+"ltr": "T"
+},
+{
+"w": "together",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "toilet",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tolerate",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tomato",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tomb",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tomorrow",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "ton",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tone",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tonight",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "too",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tool",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tooth",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "toothache",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "top",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "topic",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "total",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "touch",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tough",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tour",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tourist",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tournament",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "towards",
+"lv": "base",
+"alt": "toward",
+"ltr": "T"
+},
+{
+"w": "towel",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tower",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "town",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "toy",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "track",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "trade",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tradition",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "traditional",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "traffic",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "train",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "training",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "transfer",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "transform",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "transition",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "translate",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "transport",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "trap",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "travel",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "treasure",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "treat",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "treatment",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tree",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "trend",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "trial",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "trick",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "trip",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tropical",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "trouble",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "trousers",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "truck",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "true",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "trunk",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "trust",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "truth",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "try",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "T-shirt",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tube",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tune",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "tunnel",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "turkey",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "turn",
+"lv": "base",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "TV",
+"lv": "base",
+"alt": "=television",
+"ltr": "T"
+},
+{
+"w": "twice",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "twin",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "type",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "typhoon",
+"lv": "sel",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "typical",
+"lv": "req",
+"alt": "",
+"ltr": "T"
+},
+{
+"w": "ugly",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "ultimately",
+"lv": "sel",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "umbrella",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "uncle",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "under",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "underground",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "understand",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "uniform",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "union",
+"lv": "req",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "unique",
+"lv": "req",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "unit",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "universe",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "university",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "unless",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "until",
+"lv": "base",
+"alt": "till",
+"ltr": "U"
+},
+{
+"w": "unusual",
+"lv": "sel",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "up",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "update",
+"lv": "req",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "upon",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "upper",
+"lv": "req",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "upset",
+"lv": "sel",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "urban",
+"lv": "sel",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "urge",
+"lv": "sel",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "urgent",
+"lv": "sel",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "us",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "use",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "used",
+"lv": "req",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "useful",
+"lv": "req",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "usual",
+"lv": "base",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "usually",
+"lv": "req",
+"alt": "",
+"ltr": "U"
+},
+{
+"w": "vacation",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "valid",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "valley",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "valuable",
+"lv": "req",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "value",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "variation",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "variety",
+"lv": "req",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "various",
+"lv": "req",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "vary",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "vase",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "vast",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "vegetable",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "vehicle",
+"lv": "req",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "venue",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "version",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "very",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "victim",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "victory",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "video",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "view",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "village",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "violence",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "violin",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "virtual",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "virtue",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "virus",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "visible",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "vision",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "visit",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "visitor",
+"lv": "req",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "visual",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "vital",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "vivid",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "vocabulary",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "voice",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "volcano",
+"lv": "req",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "volleyball",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "volume",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "voluntary",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "volunteer",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "vote",
+"lv": "base",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "voyage",
+"lv": "sel",
+"alt": "",
+"ltr": "V"
+},
+{
+"w": "wage",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "waist",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wait",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wake",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "walk",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wall",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wallet",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wander",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "want",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "war",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "ward",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "warm",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "warn",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "warning",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wash",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "washroom",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "waste",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "watch",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "water",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "watermelon",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wave",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "way",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "we",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "weak",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wealth",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "weapon",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wear",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "weather",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "web",
+"lv": "req",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "website",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wedding",
+"lv": "req",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "weed",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "week",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "weekday",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "weekend",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "weekly",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "weep",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "weigh",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "weight",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "welcome",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "welfare",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "well",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "west",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "western",
+"lv": "req",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wet",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wetland",
+"lv": "req",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "whale",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "what",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "whatever",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wheat",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wheel",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "when",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "whenever",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "where",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "whether",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "which",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "while",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "whisper",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "white",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "who",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "whole",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "whom",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "whose",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "why",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wide",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "widespread",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wife",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "Wi-Fi",
+"lv": "req",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wild",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "will",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "win",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wind",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "window",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "windy",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wine",
+"lv": "req",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wing",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "winner",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "winter",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wire",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wisdom",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wise",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wish",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "with",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "withdraw",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "within",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "without",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "witness",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wolf",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "woman",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wonder",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wonderful",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wood",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wool",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "word",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "work",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "worker",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "world",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "worry",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "worse",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "worst",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "worth",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "worthwhile",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "worthy",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "would",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wound",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wrap",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wrestle",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wrinkle",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wrist",
+"lv": "sel",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "write",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "writer",
+"lv": "req",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "wrong",
+"lv": "base",
+"alt": "",
+"ltr": "W"
+},
+{
+"w": "X-ray",
+"lv": "base",
+"alt": "",
+"ltr": "X"
+},
+{
+"w": "yard",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "year",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "yellow",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "yes",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "yesterday",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "yet",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "yield",
+"lv": "sel",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "yoghurt",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "you",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "young",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "your",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "yours",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "yourself",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "youth",
+"lv": "base",
+"alt": "",
+"ltr": "Y"
+},
+{
+"w": "zero",
+"lv": "base",
+"alt": "",
+"ltr": "Z"
+},
+{
+"w": "zone",
+"lv": "sel",
+"alt": "",
+"ltr": "Z"
+},
+{
+"w": "zoo",
+"lv": "base",
+"alt": "",
+"ltr": "Z"
+}
+]

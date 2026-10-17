@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>单词自测 · 高考3500</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<a class="skip" href="#main">跳到主内容</a>
+
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <span class="mark" aria-hidden="true">
+        <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 5h4l5 12 5-8h2"></path>
+        </svg>
+      </span>
+      <div>
+        <h1>单词自测</h1>
+        <p class="sub">高考英语词汇 <b id="totalBadge">0</b> 条 · 键盘快速标记</p>
+      </div>
+    </div>
+    <div class="top-right">
+      <span id="progressChip" class="chip hidden" role="status"></span>
+      <button class="btn ghost sm" id="btnResetAll">重置</button>
+    </div>
+  </header>
+
+  <main id="main">
+    <!-- ============ 首页 ============ -->
+    <section id="viewHome" class="view" aria-labelledby="hHome">
+      <h2 id="hHome" class="sr">开始</h2>
+      <div class="grid">
+        <section class="card glass pad" aria-labelledby="hStart">
+          <h3 class="card-h" id="hStart">开始测试</h3>
+          <div class="stats" id="homeStats"></div>
+
+          <div class="opts">
+            <label class="opt"><span class="lb">测试范围</span>
+              <select id="optRange" aria-label="测试范围">
+                <option value="all">全部</option>
+                <option value="core">高考核心（课标+词书）</option>
+                <option value="cs">仅教育部课标</option>
+                <option value="junior">仅初中基础词汇</option>
+                <option value="senior">高中及以上（跳过基础）</option>
+                <option value="bridge">仅四六级衔接</option>
+              </select>
+            </label>
+            <label class="opt"><span class="lb">顺序</span>
+              <select id="optOrder" aria-label="测试顺序">
+                <option value="asc">正序 A → Z</option>
+                <option value="random">随机乱序</option>
+                <option value="pri">按优先级（基础 → 高中 → 衔接）</option>
+                <option value="freq">高频优先（常用词先测）</option>
+                <option value="rare">低频优先（生僻词先测）</option>
+              </select>
+            </label>
+            <label class="opt"><span class="lb">起始位置</span>
+              <input type="number" id="optStart" min="1" value="1" aria-label="从第几个词开始">
+            </label>
+            <label class="opt"><span class="lb">显示音标</span>
+              <input type="checkbox" id="optPh" checked>
+            </label>
+            <label class="opt"><span class="lb">直接显示释义</span>
+              <input type="checkbox" id="optMean">
+            </label>
+            <label class="opt"><span class="lb">标记后自动朗读</span>
+              <input type="checkbox" id="optSpeak">
+            </label>
+          </div>
+
+          <div class="io">
+            <button class="btn primary" id="btnNew">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7 4.5v15a1 1 0 0 0 1.54.84l12-7.5a1 1 0 0 0 0-1.68l-12-7.5A1 1 0 0 0 7 4.5Z"/></svg>
+              开始新一轮
+            </button>
+            <button class="btn" id="btnResume">继续上次</button>
+            <button class="btn warn" id="btnWeak">只测「不会」的</button>
+          </div>
+          <p class="tip">进度自动保存在本机浏览器，随时关闭、随时接着测。</p>
+        </section>
+
+        <section class="card glass pad" aria-labelledby="hKeys">
+          <h3 class="card-h" id="hKeys">快捷键<span class="k">纯键盘操作</span></h3>
+          <ul class="keys">
+            <li><kbd>空格</kbd><kbd>→</kbd><kbd>Enter</kbd><span class="d">认识，下一个</span></li>
+            <li><kbd>N</kbd><kbd>←</kbd><span class="d">不认识，下一个</span></li>
+            <li><kbd>S</kbd><kbd>↓</kbd><span class="d">显示 / 隐藏释义</span></li>
+            <li><kbd>P</kbd><span class="d">朗读发音</span></li>
+            <li><kbd>↑</kbd><span class="d">上一个词（不改变标记）</span></li>
+            <li><kbd>X</kbd><span class="d">跳过，不标记</span></li>
+            <li><kbd>W</kbd><span class="d">跳到下一个不会 / 未标记的词</span></li>
+            <li><kbd>U</kbd><kbd>Backspace</kbd><span class="d">撤销上一个标记</span></li>
+            <li><kbd>Esc</kbd><span class="d">查看结果 / 返回答题</span></li>
+            <li><kbd>/</kbd><span class="d">结果页聚焦搜索框</span></li>
+            <li><kbd>B</kbd><kbd>R</kbd><kbd>H</kbd><span class="d">结果页：继续测试 / 重测不会 / 返回首页</span></li>
+          </ul>
+          <p class="tip">触摸屏：<b>点卡片</b>看释义，<b>右滑</b>标记认识，<b>左滑</b>标记不认识。</p>
+
+          <h3 class="card-h" style="margin-top:22px">导入自定义词表</h3>
+          <p class="tip">每行一条：<code>word</code>、<code>word&lt;Tab&gt;释义</code> 或 <code>word,释义</code></p>
+          <label class="sr" for="importText">待导入的词表内容</label>
+          <textarea id="importText" rows="4" placeholder="abandon&#9;v. 放弃&#10;ability&#9;n. 能力"></textarea>
+          <div class="io">
+            <button class="btn" id="btnImport">导入替换</button>
+            <button class="btn ghost" id="btnRestore">恢复默认</button>
+            <button class="btn ghost" id="btnFile" onclick="document.getElementById('fileInput').click()">选择文件</button>
+            <input type="file" id="fileInput" accept=".txt,.csv,.tsv">
+          </div>
+        </section>
+      </div>
+    </section>
+
+    <!-- ============ 答题 ============ -->
+    <section id="viewCard" class="view hidden" aria-labelledby="hCard">
+      <h2 id="hCard" class="sr">单词卡片</h2>
+      <div class="meter">
+        <div class="info">
+          <b id="counter">0 / 0</b>
+          <span aria-hidden="true">·</span>
+          <span>会 <b id="cntOk">0</b></span>
+          <span aria-hidden="true">·</span>
+          <button class="no" id="btnJumpWeak" title="跳到记不清的词">不会 <b id="cntNo">0</b></button>
+        </div>
+        <div style="flex:1"></div>
+        <button class="btn ghost sm" id="btnFinish">结果 <kbd>Esc</kbd></button>
+      </div>
+      <div class="track" role="progressbar" aria-label="测试进度" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" id="progressBar">
+        <i id="progressIn"></i>
+      </div>
+
+      <section class="card glass stage">
+        <span class="pill hidden" id="lastTag"></span>
+        <span class="pill base hidden" id="baseTag">初中基础</span>
+        <span class="pill lv" id="lvTag"></span>
+        <div class="word" id="wordText" role="status" aria-live="polite">—</div>
+        <div class="ph" id="wordPh"></div>
+        <div class="freq hidden" id="freqTag"></div>
+        <div class="mean hidden" id="wordMean"></div>
+        <div class="hint" id="wordHint">按 <kbd>S</kbd> 或点卡片查看释义</div>
+      </section>
+
+      <div class="acts">
+        <button class="btn no" id="btnNo">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg>
+          不认识 <kbd>N</kbd>
+        </button>
+        <button class="btn ghost speaker" id="btnSpeak" aria-label="朗读当前单词">朗读 <kbd>P</kbd></button>
+        <button class="btn ok" id="btnOk">
+          认识
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg>
+          <kbd>空格</kbd>
+        </button>
+      </div>
+      <div class="acts-sub">
+        <button class="btn link hi" id="btnMean">释义 <kbd>S</kbd></button>
+        <button class="btn link" id="btnUndo">撤销 <kbd>U</kbd></button>
+        <button class="btn link" id="btnPrev">上一个 <kbd>↑</kbd></button>
+        <button class="btn link" id="btnPass">跳过 <kbd>X</kbd></button>
+      </div>
+      <p class="tip center" id="cardTip">手机上：<b>点卡片看释义</b> · <b>右滑认识</b> · <b>左滑不认识</b></p>
+    </section>
+
+    <!-- ============ 结果 ============ -->
+    <section id="viewResult" class="view hidden" aria-labelledby="hRes">
+      <h2 id="hRes" class="sr">测试结果</h2>
+      <div class="stack">
+        <section class="card glass pad">
+          <h3 class="card-h">掌握情况</h3>
+          <div class="hero">
+            <div class="ring-wrap">
+              <svg viewBox="0 0 120 120" class="ring" aria-hidden="true">
+                <defs>
+                  <linearGradient id="ringGrad" x1="0" y1="0" x2="1" y2="1">
+                    <stop offset="0%" stop-color="#3533CC"/>
+                    <stop offset="55%" stop-color="#7675C7"/>
+                    <stop offset="100%" stop-color="#CCCD84"/>
+                  </linearGradient>
+                </defs>
+                <circle cx="60" cy="60" r="52" class="ring-bg"/>
+                <circle cx="60" cy="60" r="52" class="ring-fg" id="ringFg"/>
+              </svg>
+              <div class="ring-label"><b id="rateText">0%</b><span>掌握率</span></div>
+            </div>
+            <div>
+              <div class="stats" id="resStats"></div>
+              <p class="verdict" id="verdict"></p>
+            </div>
+          </div>
+        </section>
+
+        <section class="card glass pad" aria-labelledby="hExp">
+          <h3 class="card-h" id="hExp">导出</h3>
+          <div class="io">
+            <button class="btn primary" id="expNoPdf">导出生词 PDF（含音标释义）</button>
+            <button class="btn warn" id="expNoPdfQuiz">导出默写版 PDF</button>
+            <button class="btn" id="expNoCsv">生词 CSV</button>
+            <button class="btn" id="expNoTxt">生词 TXT</button>
+            <button class="btn ghost" id="expAllCsv">全部结果 CSV</button>
+            <button class="btn ghost" id="expCopy">复制生词到剪贴板</button>
+          </div>
+          <div class="io grow" style="margin-top:14px">
+            <button class="btn primary" id="btnBack">继续测试 <kbd>Esc</kbd></button>
+            <button class="btn warn" id="btnRetestWeak">重测「不会」的词</button>
+            <button class="btn ghost" id="btnHome">返回首页</button>
+          </div>
+        </section>
+
+        <section class="card glass pad" aria-labelledby="hList">
+          <div class="list-head">
+            <h3 class="card-h" id="hList" style="margin:0">单词清单</h3>
+            <div class="filters">
+              <label class="sr" for="filterLevel">按层级筛选</label>
+              <select id="filterLevel">
+                <option value="">全部层级</option>
+                <option value="__base">初中基础词汇</option>
+                <option value="__senior">高中及以上（非基础）</option>
+                <option value="课标">课标（教育部）</option>
+                <option value="高考词书">高考词书（星火）</option>
+                <option value="教材">教材/词书共识</option>
+                <option value="CET4">CET4 衔接</option>
+                <option value="CET6">CET6 衔接</option>
+              </select>
+              <label class="sr" for="filterStatus">按状态筛选</label>
+              <select id="filterStatus">
+                <option value="no">不会</option>
+                <option value="ok">会</option>
+                <option value="skip">未标记</option>
+                <option value="all">全部词库</option>
+              </select>
+              <label class="sr" for="filterFreq">按常用度筛选</label>
+              <select id="filterFreq">
+                <option value="">全部常用度</option>
+                <option value="high">高频（4-5 星）</option>
+                <option value="mid">中频（3 星）</option>
+                <option value="low">低频（1-2 星）</option>
+                <option value="none">未评级</option>
+              </select>
+              <label class="sr" for="filterText">搜索单词或释义</label>
+              <input type="search" id="filterText" placeholder="搜索单词或释义">
+            </div>
+          </div>
+          <div class="list" id="list"></div>
+          <p class="tip" id="listTip"></p>
+        </section>
+      </div>
+    </section>
+  </main>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<!-- 打印容器：仅在 window.print() 时可见 -->
+<div id="printArea" aria-hidden="true"></div>
+
+<script src="words.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

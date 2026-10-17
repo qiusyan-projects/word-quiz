@@ -1,0 +1,6516 @@
+{
+"source": "教育部《义务教育英语课程标准（2022年版）》附录3 三级词汇表",
+"declared": 1600,
+"words": [
+{
+"w": "a.m",
+"star": 0
+},
+{
+"w": "ability",
+"star": 0
+},
+{
+"w": "able",
+"star": 0
+},
+{
+"w": "about",
+"star": 1
+},
+{
+"w": "above",
+"star": 0
+},
+{
+"w": "abroad",
+"star": 0
+},
+{
+"w": "absent",
+"star": 0
+},
+{
+"w": "accept",
+"star": 0
+},
+{
+"w": "accident",
+"star": 0
+},
+{
+"w": "according",
+"star": 0
+},
+{
+"w": "account",
+"star": 0
+},
+{
+"w": "ache",
+"star": 0
+},
+{
+"w": "achieve",
+"star": 0
+},
+{
+"w": "across",
+"star": 0
+},
+{
+"w": "act",
+"star": 0
+},
+{
+"w": "action",
+"star": 0
+},
+{
+"w": "active",
+"star": 0
+},
+{
+"w": "activity",
+"star": 0
+},
+{
+"w": "actor",
+"star": 0
+},
+{
+"w": "actress",
+"star": 0
+},
+{
+"w": "actually",
+"star": 0
+},
+{
+"w": "ad",
+"star": 0
+},
+{
+"w": "add",
+"star": 0
+},
+{
+"w": "address",
+"star": 0
+},
+{
+"w": "admire",
+"star": 0
+},
+{
+"w": "adult",
+"star": 0
+},
+{
+"w": "advantage",
+"star": 0
+},
+{
+"w": "advice",
+"star": 0
+},
+{
+"w": "advise",
+"star": 0
+},
+{
+"w": "afford",
+"star": 0
+},
+{
+"w": "afraid",
+"star": 0
+},
+{
+"w": "afternoon",
+"star": 0
+},
+{
+"w": "again",
+"star": 0
+},
+{
+"w": "against",
+"star": 0
+},
+{
+"w": "age",
+"star": 0
+},
+{
+"w": "ago",
+"star": 0
+},
+{
+"w": "agree",
+"star": 0
+},
+{
+"w": "ahead",
+"star": 0
+},
+{
+"w": "AI",
+"star": 0
+},
+{
+"w": "aid",
+"star": 0
+},
+{
+"w": "aim",
+"star": 0
+},
+{
+"w": "airport",
+"star": 0
+},
+{
+"w": "alarm",
+"star": 0
+},
+{
+"w": "alive",
+"star": 0
+},
+{
+"w": "all",
+"star": 1
+},
+{
+"w": "allow",
+"star": 0
+},
+{
+"w": "almost",
+"star": 0
+},
+{
+"w": "alone",
+"star": 0
+},
+{
+"w": "along",
+"star": 0
+},
+{
+"w": "aloud",
+"star": 0
+},
+{
+"w": "already",
+"star": 0
+},
+{
+"w": "also",
+"star": 0
+},
+{
+"w": "although",
+"star": 0
+},
+{
+"w": "always",
+"star": 0
+},
+{
+"w": "amazing",
+"star": 0
+},
+{
+"w": "among",
+"star": 0
+},
+{
+"w": "an",
+"star": 0
+},
+{
+"w": "ancient",
+"star": 0
+},
+{
+"w": "and",
+"star": 1
+},
+{
+"w": "angry",
+"star": 0
+},
+{
+"w": "animal",
+"star": 1
+},
+{
+"w": "another",
+"star": 0
+},
+{
+"w": "answer",
+"star": 0
+},
+{
+"w": "ant",
+"star": 0
+},
+{
+"w": "any",
+"star": 0
+},
+{
+"w": "anybody",
+"star": 0
+},
+{
+"w": "anyone",
+"star": 0
+},
+{
+"w": "anything",
+"star": 0
+},
+{
+"w": "anyway",
+"star": 0
+},
+{
+"w": "anywhere",
+"star": 0
+},
+{
+"w": "apartment",
+"star": 0
+},
+{
+"w": "app",
+"star": 0
+},
+{
+"w": "appear",
+"star": 0
+},
+{
+"w": "apple",
+"star": 0
+},
+{
+"w": "area",
+"star": 0
+},
+{
+"w": "argue",
+"star": 0
+},
+{
+"w": "arm",
+"star": 0
+},
+{
+"w": "army",
+"star": 0
+},
+{
+"w": "around",
+"star": 0
+},
+{
+"w": "arrive",
+"star": 0
+},
+{
+"w": "art",
+"star": 1
+},
+{
+"w": "article",
+"star": 0
+},
+{
+"w": "artist",
+"star": 0
+},
+{
+"w": "as",
+"star": 0
+},
+{
+"w": "ask",
+"star": 1
+},
+{
+"w": "asleep",
+"star": 0
+},
+{
+"w": "astronaut",
+"star": 0
+},
+{
+"w": "athlete",
+"star": 0
+},
+{
+"w": "attack",
+"star": 0
+},
+{
+"w": "attend",
+"star": 0
+},
+{
+"w": "attention",
+"star": 0
+},
+{
+"w": "aunt",
+"star": 1
+},
+{
+"w": "autumn",
+"star": 0
+},
+{
+"w": "average",
+"star": 0
+},
+{
+"w": "avoid",
+"star": 0
+},
+{
+"w": "awake",
+"star": 0
+},
+{
+"w": "award",
+"star": 0
+},
+{
+"w": "aware",
+"star": 0
+},
+{
+"w": "away",
+"star": 0
+},
+{
+"w": "awful",
+"star": 0
+},
+{
+"w": "baby",
+"star": 0
+},
+{
+"w": "back",
+"star": 1
+},
+{
+"w": "background",
+"star": 0
+},
+{
+"w": "bad",
+"star": 1
+},
+{
+"w": "badminton",
+"star": 0
+},
+{
+"w": "bag",
+"star": 0
+},
+{
+"w": "balance",
+"star": 0
+},
+{
+"w": "ball",
+"star": 1
+},
+{
+"w": "balloon",
+"star": 0
+},
+{
+"w": "bamboo",
+"star": 0
+},
+{
+"w": "banana",
+"star": 0
+},
+{
+"w": "band",
+"star": 0
+},
+{
+"w": "bank",
+"star": 0
+},
+{
+"w": "baseball",
+"star": 0
+},
+{
+"w": "basic",
+"star": 0
+},
+{
+"w": "basket",
+"star": 0
+},
+{
+"w": "basketball",
+"star": 1
+},
+{
+"w": "bat",
+"star": 0
+},
+{
+"w": "bath",
+"star": 0
+},
+{
+"w": "bathroom",
+"star": 0
+},
+{
+"w": "be",
+"star": 0
+},
+{
+"w": "beach",
+"star": 1
+},
+{
+"w": "bean",
+"star": 0
+},
+{
+"w": "bear",
+"star": 0
+},
+{
+"w": "beat",
+"star": 0
+},
+{
+"w": "beautiful",
+"star": 1
+},
+{
+"w": "because",
+"star": 0
+},
+{
+"w": "become",
+"star": 0
+},
+{
+"w": "bed",
+"star": 1
+},
+{
+"w": "bedroom",
+"star": 0
+},
+{
+"w": "bee",
+"star": 0
+},
+{
+"w": "beef",
+"star": 0
+},
+{
+"w": "before",
+"star": 0
+},
+{
+"w": "behave",
+"star": 0
+},
+{
+"w": "behind",
+"star": 1
+},
+{
+"w": "believe",
+"star": 0
+},
+{
+"w": "bell",
+"star": 0
+},
+{
+"w": "belong",
+"star": 0
+},
+{
+"w": "below",
+"star": 0
+},
+{
+"w": "belt",
+"star": 0
+},
+{
+"w": "benefit",
+"star": 0
+},
+{
+"w": "beside",
+"star": 1
+},
+{
+"w": "best",
+"star": 1
+},
+{
+"w": "better",
+"star": 0
+},
+{
+"w": "between",
+"star": 0
+},
+{
+"w": "big",
+"star": 0
+},
+{
+"w": "bike",
+"star": 0
+},
+{
+"w": "bill",
+"star": 0
+},
+{
+"w": "bin",
+"star": 0
+},
+{
+"w": "biology",
+"star": 0
+},
+{
+"w": "bird",
+"star": 1
+},
+{
+"w": "birth",
+"star": 0
+},
+{
+"w": "birthday",
+"star": 0
+},
+{
+"w": "biscuit",
+"star": 0
+},
+{
+"w": "bit",
+"star": 0
+},
+{
+"w": "black",
+"star": 1
+},
+{
+"w": "blackboard",
+"star": 1
+},
+{
+"w": "bleed",
+"star": 0
+},
+{
+"w": "blind",
+"star": 0
+},
+{
+"w": "block",
+"star": 0
+},
+{
+"w": "blood",
+"star": 0
+},
+{
+"w": "blouse",
+"star": 0
+},
+{
+"w": "blow",
+"star": 0
+},
+{
+"w": "blue",
+"star": 0
+},
+{
+"w": "board",
+"star": 0
+},
+{
+"w": "boat",
+"star": 1
+},
+{
+"w": "body",
+"star": 0
+},
+{
+"w": "boil",
+"star": 0
+},
+{
+"w": "book",
+"star": 1
+},
+{
+"w": "boring",
+"star": 0
+},
+{
+"w": "born",
+"star": 0
+},
+{
+"w": "borrow",
+"star": 0
+},
+{
+"w": "boss",
+"star": 0
+},
+{
+"w": "both",
+"star": 0
+},
+{
+"w": "bottle",
+"star": 0
+},
+{
+"w": "bottom",
+"star": 0
+},
+{
+"w": "bowl",
+"star": 0
+},
+{
+"w": "box",
+"star": 0
+},
+{
+"w": "boy",
+"star": 0
+},
+{
+"w": "brain",
+"star": 0
+},
+{
+"w": "brave",
+"star": 0
+},
+{
+"w": "bread",
+"star": 1
+},
+{
+"w": "break",
+"star": 0
+},
+{
+"w": "breakfast",
+"star": 0
+},
+{
+"w": "breath",
+"star": 0
+},
+{
+"w": "bridge",
+"star": 0
+},
+{
+"w": "bright",
+"star": 0
+},
+{
+"w": "bring",
+"star": 0
+},
+{
+"w": "brother",
+"star": 0
+},
+{
+"w": "brown",
+"star": 0
+},
+{
+"w": "brush",
+"star": 0
+},
+{
+"w": "budget",
+"star": 0
+},
+{
+"w": "build",
+"star": 0
+},
+{
+"w": "building",
+"star": 0
+},
+{
+"w": "bully",
+"star": 0
+},
+{
+"w": "burn",
+"star": 0
+},
+{
+"w": "bus",
+"star": 0
+},
+{
+"w": "business",
+"star": 0
+},
+{
+"w": "busy",
+"star": 0
+},
+{
+"w": "but",
+"star": 1
+},
+{
+"w": "butter",
+"star": 0
+},
+{
+"w": "butterfly",
+"star": 0
+},
+{
+"w": "buy",
+"star": 0
+},
+{
+"w": "by",
+"star": 0
+},
+{
+"w": "cabbage",
+"star": 0
+},
+{
+"w": "cake",
+"star": 0
+},
+{
+"w": "calendar",
+"star": 0
+},
+{
+"w": "call",
+"star": 1
+},
+{
+"w": "calm",
+"star": 0
+},
+{
+"w": "camera",
+"star": 0
+},
+{
+"w": "camp",
+"star": 0
+},
+{
+"w": "can",
+"star": 0
+},
+{
+"w": "cancel",
+"star": 0
+},
+{
+"w": "cancer",
+"star": 0
+},
+{
+"w": "candle",
+"star": 0
+},
+{
+"w": "candy",
+"star": 0
+},
+{
+"w": "cap",
+"star": 0
+},
+{
+"w": "capital",
+"star": 0
+},
+{
+"w": "car",
+"star": 0
+},
+{
+"w": "card",
+"star": 1
+},
+{
+"w": "care",
+"star": 0
+},
+{
+"w": "careful",
+"star": 1
+},
+{
+"w": "careless",
+"star": 0
+},
+{
+"w": "carrot",
+"star": 0
+},
+{
+"w": "carry",
+"star": 0
+},
+{
+"w": "cartoon",
+"star": 0
+},
+{
+"w": "case",
+"star": 0
+},
+{
+"w": "cash",
+"star": 0
+},
+{
+"w": "cat",
+"star": 1
+},
+{
+"w": "catch",
+"star": 0
+},
+{
+"w": "cause",
+"star": 0
+},
+{
+"w": "celebrate",
+"star": 0
+},
+{
+"w": "cent",
+"star": 0
+},
+{
+"w": "central",
+"star": 0
+},
+{
+"w": "centre",
+"star": 0
+},
+{
+"w": "century",
+"star": 0
+},
+{
+"w": "certain",
+"star": 0
+},
+{
+"w": "chair",
+"star": 1
+},
+{
+"w": "chalk",
+"star": 0
+},
+{
+"w": "challenge",
+"star": 0
+},
+{
+"w": "champion",
+"star": 0
+},
+{
+"w": "chance",
+"star": 0
+},
+{
+"w": "change",
+"star": 0
+},
+{
+"w": "character",
+"star": 0
+},
+{
+"w": "characteristic",
+"star": 0
+},
+{
+"w": "charity",
+"star": 0
+},
+{
+"w": "chat",
+"star": 0
+},
+{
+"w": "cheap",
+"star": 0
+},
+{
+"w": "cheat",
+"star": 0
+},
+{
+"w": "check",
+"star": 0
+},
+{
+"w": "cheer",
+"star": 0
+},
+{
+"w": "cheese",
+"star": 0
+},
+{
+"w": "chemistry",
+"star": 0
+},
+{
+"w": "chess",
+"star": 0
+},
+{
+"w": "chicken",
+"star": 0
+},
+{
+"w": "child",
+"star": 0
+},
+{
+"w": "China",
+"star": 0
+},
+{
+"w": "Chinese",
+"star": 0
+},
+{
+"w": "chip",
+"star": 0
+},
+{
+"w": "chocolate",
+"star": 0
+},
+{
+"w": "choice",
+"star": 0
+},
+{
+"w": "choose",
+"star": 0
+},
+{
+"w": "chopsticks",
+"star": 0
+},
+{
+"w": "chore",
+"star": 0
+},
+{
+"w": "Christmas",
+"star": 0
+},
+{
+"w": "cinema",
+"star": 0
+},
+{
+"w": "circle",
+"star": 0
+},
+{
+"w": "citizen",
+"star": 0
+},
+{
+"w": "city",
+"star": 0
+},
+{
+"w": "class",
+"star": 0
+},
+{
+"w": "classic",
+"star": 0
+},
+{
+"w": "classmate",
+"star": 0
+},
+{
+"w": "classroom",
+"star": 0
+},
+{
+"w": "clean",
+"star": 0
+},
+{
+"w": "clear",
+"star": 0
+},
+{
+"w": "clever",
+"star": 0
+},
+{
+"w": "click",
+"star": 0
+},
+{
+"w": "climate",
+"star": 0
+},
+{
+"w": "climb",
+"star": 0
+},
+{
+"w": "clock",
+"star": 1
+},
+{
+"w": "close",
+"star": 0
+},
+{
+"w": "clothes",
+"star": 0
+},
+{
+"w": "cloud",
+"star": 0
+},
+{
+"w": "cloudy",
+"star": 0
+},
+{
+"w": "club",
+"star": 0
+},
+{
+"w": "coach",
+"star": 0
+},
+{
+"w": "coast",
+"star": 0
+},
+{
+"w": "coffee",
+"star": 0
+},
+{
+"w": "coin",
+"star": 0
+},
+{
+"w": "cold",
+"star": 1
+},
+{
+"w": "collect",
+"star": 0
+},
+{
+"w": "college",
+"star": 0
+},
+{
+"w": "colour",
+"star": 0
+},
+{
+"w": "come",
+"star": 0
+},
+{
+"w": "comfortable",
+"star": 0
+},
+{
+"w": "common",
+"star": 0
+},
+{
+"w": "communicate",
+"star": 0
+},
+{
+"w": "community",
+"star": 0
+},
+{
+"w": "company",
+"star": 0
+},
+{
+"w": "compare",
+"star": 0
+},
+{
+"w": "compete",
+"star": 0
+},
+{
+"w": "complete",
+"star": 0
+},
+{
+"w": "computer",
+"star": 0
+},
+{
+"w": "concert",
+"star": 0
+},
+{
+"w": "condition",
+"star": 0
+},
+{
+"w": "confidence",
+"star": 0
+},
+{
+"w": "congratulation",
+"star": 0
+},
+{
+"w": "connect",
+"star": 0
+},
+{
+"w": "consider",
+"star": 0
+},
+{
+"w": "continue",
+"star": 0
+},
+{
+"w": "control",
+"star": 0
+},
+{
+"w": "convenient",
+"star": 0
+},
+{
+"w": "conversation",
+"star": 0
+},
+{
+"w": "cook",
+"star": 1
+},
+{
+"w": "cookie",
+"star": 0
+},
+{
+"w": "cooperate",
+"star": 0
+},
+{
+"w": "copy",
+"star": 0
+},
+{
+"w": "corn",
+"star": 0
+},
+{
+"w": "corner",
+"star": 0
+},
+{
+"w": "correct",
+"star": 0
+},
+{
+"w": "cost",
+"star": 0
+},
+{
+"w": "cotton",
+"star": 0
+},
+{
+"w": "cough",
+"star": 0
+},
+{
+"w": "could",
+"star": 0
+},
+{
+"w": "count",
+"star": 0
+},
+{
+"w": "country",
+"star": 0
+},
+{
+"w": "countryside",
+"star": 0
+},
+{
+"w": "couple",
+"star": 0
+},
+{
+"w": "courage",
+"star": 0
+},
+{
+"w": "course",
+"star": 0
+},
+{
+"w": "cousin",
+"star": 0
+},
+{
+"w": "cover",
+"star": 0
+},
+{
+"w": "cow",
+"star": 0
+},
+{
+"w": "crazy",
+"star": 0
+},
+{
+"w": "create",
+"star": 0
+},
+{
+"w": "creative",
+"star": 0
+},
+{
+"w": "cross",
+"star": 0
+},
+{
+"w": "crowded",
+"star": 0
+},
+{
+"w": "cry",
+"star": 0
+},
+{
+"w": "cucumber",
+"star": 0
+},
+{
+"w": "culture",
+"star": 0
+},
+{
+"w": "cup",
+"star": 0
+},
+{
+"w": "curious",
+"star": 0
+},
+{
+"w": "customer",
+"star": 0
+},
+{
+"w": "cut",
+"star": 1
+},
+{
+"w": "cute",
+"star": 0
+},
+{
+"w": "daily",
+"star": 0
+},
+{
+"w": "dance",
+"star": 0
+},
+{
+"w": "danger",
+"star": 0
+},
+{
+"w": "dangerous",
+"star": 0
+},
+{
+"w": "dark",
+"star": 0
+},
+{
+"w": "date",
+"star": 0
+},
+{
+"w": "daughter",
+"star": 0
+},
+{
+"w": "day",
+"star": 0
+},
+{
+"w": "dead",
+"star": 0
+},
+{
+"w": "deaf",
+"star": 0
+},
+{
+"w": "deal",
+"star": 0
+},
+{
+"w": "dear",
+"star": 0
+},
+{
+"w": "death",
+"star": 0
+},
+{
+"w": "decide",
+"star": 0
+},
+{
+"w": "deep",
+"star": 0
+},
+{
+"w": "degree",
+"star": 0
+},
+{
+"w": "delicious",
+"star": 0
+},
+{
+"w": "dentist",
+"star": 0
+},
+{
+"w": "depend",
+"star": 0
+},
+{
+"w": "describe",
+"star": 0
+},
+{
+"w": "desert",
+"star": 0
+},
+{
+"w": "design",
+"star": 0
+},
+{
+"w": "desk",
+"star": 1
+},
+{
+"w": "develop",
+"star": 0
+},
+{
+"w": "dialogue",
+"star": 0
+},
+{
+"w": "diary",
+"star": 0
+},
+{
+"w": "dictionary",
+"star": 0
+},
+{
+"w": "die",
+"star": 0
+},
+{
+"w": "diet",
+"star": 0
+},
+{
+"w": "difference",
+"star": 0
+},
+{
+"w": "different",
+"star": 0
+},
+{
+"w": "difficult",
+"star": 0
+},
+{
+"w": "digital",
+"star": 0
+},
+{
+"w": "dining",
+"star": 0
+},
+{
+"w": "dinner",
+"star": 0
+},
+{
+"w": "direct",
+"star": 0
+},
+{
+"w": "director",
+"star": 0
+},
+{
+"w": "dirty",
+"star": 0
+},
+{
+"w": "disappoint",
+"star": 0
+},
+{
+"w": "disaster",
+"star": 0
+},
+{
+"w": "discover",
+"star": 0
+},
+{
+"w": "discuss",
+"star": 0
+},
+{
+"w": "disease",
+"star": 0
+},
+{
+"w": "dish",
+"star": 0
+},
+{
+"w": "divide",
+"star": 0
+},
+{
+"w": "do",
+"star": 1
+},
+{
+"w": "doctor",
+"star": 0
+},
+{
+"w": "dollar",
+"star": 0
+},
+{
+"w": "donate",
+"star": 0
+},
+{
+"w": "door",
+"star": 1
+},
+{
+"w": "double",
+"star": 0
+},
+{
+"w": "doubt",
+"star": 0
+},
+{
+"w": "down",
+"star": 0
+},
+{
+"w": "download",
+"star": 0
+},
+{
+"w": "dragon",
+"star": 0
+},
+{
+"w": "drama",
+"star": 0
+},
+{
+"w": "draw",
+"star": 0
+},
+{
+"w": "dream",
+"star": 0
+},
+{
+"w": "dress",
+"star": 0
+},
+{
+"w": "drink",
+"star": 1
+},
+{
+"w": "drive",
+"star": 0
+},
+{
+"w": "driver",
+"star": 0
+},
+{
+"w": "drop",
+"star": 0
+},
+{
+"w": "dry",
+"star": 0
+},
+{
+"w": "duck",
+"star": 1
+},
+{
+"w": "dumpling",
+"star": 0
+},
+{
+"w": "during",
+"star": 0
+},
+{
+"w": "duty",
+"star": 0
+},
+{
+"w": "each",
+"star": 0
+},
+{
+"w": "eagle",
+"star": 0
+},
+{
+"w": "ear",
+"star": 0
+},
+{
+"w": "early",
+"star": 0
+},
+{
+"w": "earth",
+"star": 1
+},
+{
+"w": "earthquake",
+"star": 0
+},
+{
+"w": "east",
+"star": 0
+},
+{
+"w": "easy",
+"star": 0
+},
+{
+"w": "eat",
+"star": 1
+},
+{
+"w": "education",
+"star": 0
+},
+{
+"w": "effect",
+"star": 0
+},
+{
+"w": "effort",
+"star": 0
+},
+{
+"w": "egg",
+"star": 0
+},
+{
+"w": "eight",
+"star": 0
+},
+{
+"w": "eighteen",
+"star": 0
+},
+{
+"w": "eighteenth",
+"star": 0
+},
+{
+"w": "eighth",
+"star": 0
+},
+{
+"w": "eightieth",
+"star": 0
+},
+{
+"w": "eighty",
+"star": 0
+},
+{
+"w": "either",
+"star": 0
+},
+{
+"w": "elder",
+"star": 0
+},
+{
+"w": "electric",
+"star": 0
+},
+{
+"w": "electronic",
+"star": 0
+},
+{
+"w": "elephant",
+"star": 1
+},
+{
+"w": "eleven",
+"star": 0
+},
+{
+"w": "eleventh",
+"star": 0
+},
+{
+"w": "else",
+"star": 0
+},
+{
+"w": "email",
+"star": 1
+},
+{
+"w": "emergency",
+"star": 0
+},
+{
+"w": "emperor",
+"star": 0
+},
+{
+"w": "empress",
+"star": 0
+},
+{
+"w": "empty",
+"star": 0
+},
+{
+"w": "encourage",
+"star": 0
+},
+{
+"w": "end",
+"star": 0
+},
+{
+"w": "enemy",
+"star": 0
+},
+{
+"w": "energetic",
+"star": 0
+},
+{
+"w": "energy",
+"star": 0
+},
+{
+"w": "engineer",
+"star": 0
+},
+{
+"w": "English",
+"star": 0
+},
+{
+"w": "enjoy",
+"star": 0
+},
+{
+"w": "enough",
+"star": 0
+},
+{
+"w": "enter",
+"star": 0
+},
+{
+"w": "environment",
+"star": 0
+},
+{
+"w": "era",
+"star": 0
+},
+{
+"w": "eraser",
+"star": 0
+},
+{
+"w": "especially",
+"star": 0
+},
+{
+"w": "even",
+"star": 0
+},
+{
+"w": "evening",
+"star": 0
+},
+{
+"w": "event",
+"star": 0
+},
+{
+"w": "ever",
+"star": 0
+},
+{
+"w": "every",
+"star": 0
+},
+{
+"w": "everybody",
+"star": 0
+},
+{
+"w": "everyday",
+"star": 0
+},
+{
+"w": "everyone",
+"star": 0
+},
+{
+"w": "everything",
+"star": 0
+},
+{
+"w": "everywhere",
+"star": 0
+},
+{
+"w": "exactly",
+"star": 0
+},
+{
+"w": "exam",
+"star": 0
+},
+{
+"w": "example",
+"star": 0
+},
+{
+"w": "excellent",
+"star": 0
+},
+{
+"w": "except",
+"star": 0
+},
+{
+"w": "excited",
+"star": 1
+},
+{
+"w": "exciting",
+"star": 0
+},
+{
+"w": "excuse",
+"star": 0
+},
+{
+"w": "exercise",
+"star": 0
+},
+{
+"w": "expect",
+"star": 0
+},
+{
+"w": "expensive",
+"star": 0
+},
+{
+"w": "experience",
+"star": 0
+},
+{
+"w": "expert",
+"star": 0
+},
+{
+"w": "explain",
+"star": 0
+},
+{
+"w": "explore",
+"star": 0
+},
+{
+"w": "express",
+"star": 0
+},
+{
+"w": "eye",
+"star": 0
+},
+{
+"w": "face",
+"star": 0
+},
+{
+"w": "fact",
+"star": 0
+},
+{
+"w": "factory",
+"star": 0
+},
+{
+"w": "fail",
+"star": 0
+},
+{
+"w": "fair",
+"star": 0
+},
+{
+"w": "fall",
+"star": 0
+},
+{
+"w": "false",
+"star": 0
+},
+{
+"w": "familiar",
+"star": 0
+},
+{
+"w": "family",
+"star": 0
+},
+{
+"w": "famous",
+"star": 0
+},
+{
+"w": "fan",
+"star": 1
+},
+{
+"w": "fantastic",
+"star": 0
+},
+{
+"w": "far",
+"star": 1
+},
+{
+"w": "farm",
+"star": 0
+},
+{
+"w": "farmer",
+"star": 0
+},
+{
+"w": "fashion",
+"star": 0
+},
+{
+"w": "fat",
+"star": 0
+},
+{
+"w": "father",
+"star": 0
+},
+{
+"w": "favourite",
+"star": 0
+},
+{
+"w": "fear",
+"star": 0
+},
+{
+"w": "fee",
+"star": 1
+},
+{
+"w": "feed",
+"star": 0
+},
+{
+"w": "feeling",
+"star": 0
+},
+{
+"w": "festival",
+"star": 0
+},
+{
+"w": "fever",
+"star": 0
+},
+{
+"w": "few",
+"star": 0
+},
+{
+"w": "field",
+"star": 0
+},
+{
+"w": "fifteen",
+"star": 0
+},
+{
+"w": "fifteenth",
+"star": 0
+},
+{
+"w": "fifth",
+"star": 0
+},
+{
+"w": "fiftieth",
+"star": 0
+},
+{
+"w": "fifty",
+"star": 0
+},
+{
+"w": "fight",
+"star": 0
+},
+{
+"w": "film",
+"star": 0
+},
+{
+"w": "final",
+"star": 0
+},
+{
+"w": "find",
+"star": 1
+},
+{
+"w": "fine",
+"star": 0
+},
+{
+"w": "finger",
+"star": 0
+},
+{
+"w": "finish",
+"star": 0
+},
+{
+"w": "fire",
+"star": 1
+},
+{
+"w": "fireman",
+"star": 0
+},
+{
+"w": "firework",
+"star": 0
+},
+{
+"w": "fish",
+"star": 1
+},
+{
+"w": "five",
+"star": 0
+},
+{
+"w": "flag",
+"star": 0
+},
+{
+"w": "flat",
+"star": 0
+},
+{
+"w": "floor",
+"star": 0
+},
+{
+"w": "flower",
+"star": 0
+},
+{
+"w": "flu",
+"star": 0
+},
+{
+"w": "fly",
+"star": 1
+},
+{
+"w": "focus",
+"star": 0
+},
+{
+"w": "fog",
+"star": 0
+},
+{
+"w": "folk",
+"star": 0
+},
+{
+"w": "follow",
+"star": 0
+},
+{
+"w": "fool",
+"star": 0
+},
+{
+"w": "foot",
+"star": 0
+},
+{
+"w": "football",
+"star": 1
+},
+{
+"w": "for",
+"star": 1
+},
+{
+"w": "force",
+"star": 0
+},
+{
+"w": "foreign",
+"star": 0
+},
+{
+"w": "forest",
+"star": 0
+},
+{
+"w": "forever",
+"star": 0
+},
+{
+"w": "forget",
+"star": 0
+},
+{
+"w": "fork",
+"star": 0
+},
+{
+"w": "form",
+"star": 0
+},
+{
+"w": "fortieth",
+"star": 0
+},
+{
+"w": "forty",
+"star": 0
+},
+{
+"w": "forward",
+"star": 0
+},
+{
+"w": "found",
+"star": 0
+},
+{
+"w": "four",
+"star": 0
+},
+{
+"w": "fourteen",
+"star": 0
+},
+{
+"w": "fourteenth",
+"star": 0
+},
+{
+"w": "fourth",
+"star": 0
+},
+{
+"w": "fox",
+"star": 0
+},
+{
+"w": "free",
+"star": 0
+},
+{
+"w": "freeze",
+"star": 0
+},
+{
+"w": "fresh",
+"star": 0
+},
+{
+"w": "fridge",
+"star": 0
+},
+{
+"w": "friend",
+"star": 1
+},
+{
+"w": "friendly",
+"star": 0
+},
+{
+"w": "friendship",
+"star": 0
+},
+{
+"w": "from",
+"star": 0
+},
+{
+"w": "front",
+"star": 1
+},
+{
+"w": "fruit",
+"star": 1
+},
+{
+"w": "full",
+"star": 0
+},
+{
+"w": "fun",
+"star": 0
+},
+{
+"w": "funny",
+"star": 0
+},
+{
+"w": "future",
+"star": 0
+},
+{
+"w": "game",
+"star": 0
+},
+{
+"w": "garden",
+"star": 0
+},
+{
+"w": "gas",
+"star": 0
+},
+{
+"w": "gate",
+"star": 0
+},
+{
+"w": "general",
+"star": 0
+},
+{
+"w": "gentleman",
+"star": 0
+},
+{
+"w": "geography",
+"star": 0
+},
+{
+"w": "get",
+"star": 1
+},
+{
+"w": "giraffe",
+"star": 0
+},
+{
+"w": "girl",
+"star": 1
+},
+{
+"w": "give",
+"star": 0
+},
+{
+"w": "glad",
+"star": 0
+},
+{
+"w": "glass",
+"star": 0
+},
+{
+"w": "glove",
+"star": 0
+},
+{
+"w": "glue",
+"star": 0
+},
+{
+"w": "go",
+"star": 0
+},
+{
+"w": "goal",
+"star": 0
+},
+{
+"w": "good",
+"star": 1
+},
+{
+"w": "goodbye",
+"star": 0
+},
+{
+"w": "government",
+"star": 0
+},
+{
+"w": "grade",
+"star": 0
+},
+{
+"w": "graduate",
+"star": 0
+},
+{
+"w": "grammar",
+"star": 0
+},
+{
+"w": "grandfather",
+"star": 0
+},
+{
+"w": "grandmother",
+"star": 0
+},
+{
+"w": "grape",
+"star": 0
+},
+{
+"w": "grass",
+"star": 0
+},
+{
+"w": "great",
+"star": 1
+},
+{
+"w": "green",
+"star": 0
+},
+{
+"w": "greet",
+"star": 0
+},
+{
+"w": "grey",
+"star": 0
+},
+{
+"w": "ground",
+"star": 0
+},
+{
+"w": "group",
+"star": 0
+},
+{
+"w": "grow",
+"star": 0
+},
+{
+"w": "guard",
+"star": 0
+},
+{
+"w": "guess",
+"star": 0
+},
+{
+"w": "guest",
+"star": 0
+},
+{
+"w": "guide",
+"star": 0
+},
+{
+"w": "guitar",
+"star": 0
+},
+{
+"w": "gun",
+"star": 0
+},
+{
+"w": "gym",
+"star": 0
+},
+{
+"w": "habit",
+"star": 0
+},
+{
+"w": "hair",
+"star": 1
+},
+{
+"w": "half",
+"star": 1
+},
+{
+"w": "hall",
+"star": 0
+},
+{
+"w": "hamburger",
+"star": 0
+},
+{
+"w": "hand",
+"star": 1
+},
+{
+"w": "handsome",
+"star": 0
+},
+{
+"w": "hang",
+"star": 0
+},
+{
+"w": "happen",
+"star": 0
+},
+{
+"w": "happy",
+"star": 0
+},
+{
+"w": "hard",
+"star": 1
+},
+{
+"w": "hardly",
+"star": 0
+},
+{
+"w": "harm",
+"star": 0
+},
+{
+"w": "hat",
+"star": 0
+},
+{
+"w": "hate",
+"star": 0
+},
+{
+"w": "have",
+"star": 0
+},
+{
+"w": "he",
+"star": 1
+},
+{
+"w": "head",
+"star": 1
+},
+{
+"w": "health",
+"star": 0
+},
+{
+"w": "healthy",
+"star": 0
+},
+{
+"w": "hear",
+"star": 0
+},
+{
+"w": "heart",
+"star": 0
+},
+{
+"w": "heat",
+"star": 0
+},
+{
+"w": "heavy",
+"star": 0
+},
+{
+"w": "height",
+"star": 0
+},
+{
+"w": "hello",
+"star": 0
+},
+{
+"w": "help",
+"star": 0
+},
+{
+"w": "helpful",
+"star": 1
+},
+{
+"w": "hen",
+"star": 0
+},
+{
+"w": "her",
+"star": 1
+},
+{
+"w": "here",
+"star": 0
+},
+{
+"w": "hero",
+"star": 0
+},
+{
+"w": "hers",
+"star": 0
+},
+{
+"w": "herself",
+"star": 0
+},
+{
+"w": "hi",
+"star": 1
+},
+{
+"w": "hide",
+"star": 0
+},
+{
+"w": "high",
+"star": 0
+},
+{
+"w": "hike",
+"star": 0
+},
+{
+"w": "him",
+"star": 0
+},
+{
+"w": "himself",
+"star": 0
+},
+{
+"w": "his",
+"star": 1
+},
+{
+"w": "history",
+"star": 0
+},
+{
+"w": "hit",
+"star": 0
+},
+{
+"w": "hobby",
+"star": 0
+},
+{
+"w": "hold",
+"star": 0
+},
+{
+"w": "hole",
+"star": 0
+},
+{
+"w": "holiday",
+"star": 0
+},
+{
+"w": "home",
+"star": 0
+},
+{
+"w": "hometown",
+"star": 0
+},
+{
+"w": "homework",
+"star": 0
+},
+{
+"w": "honest",
+"star": 0
+},
+{
+"w": "honey",
+"star": 0
+},
+{
+"w": "honour",
+"star": 0
+},
+{
+"w": "hope",
+"star": 0
+},
+{
+"w": "horse",
+"star": 0
+},
+{
+"w": "hospital",
+"star": 1
+},
+{
+"w": "host",
+"star": 0
+},
+{
+"w": "hostess",
+"star": 0
+},
+{
+"w": "hot",
+"star": 1
+},
+{
+"w": "hotel",
+"star": 0
+},
+{
+"w": "hour",
+"star": 0
+},
+{
+"w": "house",
+"star": 0
+},
+{
+"w": "housework",
+"star": 0
+},
+{
+"w": "how",
+"star": 0
+},
+{
+"w": "however",
+"star": 0
+},
+{
+"w": "hug",
+"star": 0
+},
+{
+"w": "huge",
+"star": 0
+},
+{
+"w": "human",
+"star": 0
+},
+{
+"w": "humour",
+"star": 0
+},
+{
+"w": "hundred",
+"star": 0
+},
+{
+"w": "hundredth",
+"star": 0
+},
+{
+"w": "hungry",
+"star": 0
+},
+{
+"w": "hunt",
+"star": 0
+},
+{
+"w": "hurry",
+"star": 0
+},
+{
+"w": "hurt",
+"star": 1
+},
+{
+"w": "husband",
+"star": 0
+},
+{
+"w": "ice",
+"star": 0
+},
+{
+"w": "ice cream",
+"star": 0
+},
+{
+"w": "idea",
+"star": 0
+},
+{
+"w": "if",
+"star": 0
+},
+{
+"w": "illness",
+"star": 0
+},
+{
+"w": "imagine",
+"star": 0
+},
+{
+"w": "important",
+"star": 0
+},
+{
+"w": "impossible",
+"star": 0
+},
+{
+"w": "improve",
+"star": 0
+},
+{
+"w": "include",
+"star": 0
+},
+{
+"w": "increase",
+"star": 0
+},
+{
+"w": "industry",
+"star": 0
+},
+{
+"w": "influence",
+"star": 0
+},
+{
+"w": "information",
+"star": 0
+},
+{
+"w": "Ino",
+"star": 0
+},
+{
+"w": "insect",
+"star": 0
+},
+{
+"w": "inside",
+"star": 0
+},
+{
+"w": "instead",
+"star": 0
+},
+{
+"w": "instruction",
+"star": 0
+},
+{
+"w": "instrument",
+"star": 0
+},
+{
+"w": "interest",
+"star": 0
+},
+{
+"w": "interesting",
+"star": 0
+},
+{
+"w": "international",
+"star": 0
+},
+{
+"w": "Internet",
+"star": 1
+},
+{
+"w": "interview",
+"star": 0
+},
+{
+"w": "into",
+"star": 0
+},
+{
+"w": "introduce",
+"star": 0
+},
+{
+"w": "invent",
+"star": 0
+},
+{
+"w": "invite",
+"star": 0
+},
+{
+"w": "island",
+"star": 0
+},
+{
+"w": "it",
+"star": 1
+},
+{
+"w": "its",
+"star": 0
+},
+{
+"w": "itself",
+"star": 0
+},
+{
+"w": "jacket",
+"star": 0
+},
+{
+"w": "jeans",
+"star": 0
+},
+{
+"w": "job",
+"star": 1
+},
+{
+"w": "join",
+"star": 0
+},
+{
+"w": "joke",
+"star": 0
+},
+{
+"w": "journey",
+"star": 0
+},
+{
+"w": "joy",
+"star": 0
+},
+{
+"w": "judge",
+"star": 0
+},
+{
+"w": "juice",
+"star": 0
+},
+{
+"w": "jump",
+"star": 0
+},
+{
+"w": "junior",
+"star": 0
+},
+{
+"w": "just",
+"star": 0
+},
+{
+"w": "keep",
+"star": 0
+},
+{
+"w": "key",
+"star": 0
+},
+{
+"w": "keyboard",
+"star": 0
+},
+{
+"w": "kick",
+"star": 0
+},
+{
+"w": "kid",
+"star": 1
+},
+{
+"w": "kill",
+"star": 0
+},
+{
+"w": "kilo",
+"star": 0
+},
+{
+"w": "kilometre",
+"star": 0
+},
+{
+"w": "kind",
+"star": 1
+},
+{
+"w": "king",
+"star": 0
+},
+{
+"w": "kiss",
+"star": 0
+},
+{
+"w": "kitchen",
+"star": 0
+},
+{
+"w": "kite",
+"star": 1
+},
+{
+"w": "knee",
+"star": 0
+},
+{
+"w": "knife",
+"star": 0
+},
+{
+"w": "knock",
+"star": 0
+},
+{
+"w": "know",
+"star": 0
+},
+{
+"w": "knowledge",
+"star": 0
+},
+{
+"w": "kung fu",
+"star": 0
+},
+{
+"w": "lab",
+"star": 0
+},
+{
+"w": "lady",
+"star": 0
+},
+{
+"w": "lake",
+"star": 0
+},
+{
+"w": "land",
+"star": 0
+},
+{
+"w": "landscape",
+"star": 0
+},
+{
+"w": "language",
+"star": 0
+},
+{
+"w": "lantern",
+"star": 0
+},
+{
+"w": "laptop",
+"star": 0
+},
+{
+"w": "large",
+"star": 0
+},
+{
+"w": "last",
+"star": 1
+},
+{
+"w": "late",
+"star": 0
+},
+{
+"w": "later",
+"star": 0
+},
+{
+"w": "laugh",
+"star": 0
+},
+{
+"w": "law",
+"star": 0
+},
+{
+"w": "lawyer",
+"star": 0
+},
+{
+"w": "lay",
+"star": 0
+},
+{
+"w": "lazy",
+"star": 0
+},
+{
+"w": "lead",
+"star": 0
+},
+{
+"w": "leaf",
+"star": 0
+},
+{
+"w": "learn",
+"star": 0
+},
+{
+"w": "least",
+"star": 0
+},
+{
+"w": "leave",
+"star": 0
+},
+{
+"w": "leg",
+"star": 0
+},
+{
+"w": "lend",
+"star": 0
+},
+{
+"w": "less",
+"star": 0
+},
+{
+"w": "lesson",
+"star": 0
+},
+{
+"w": "let",
+"star": 1
+},
+{
+"w": "letter",
+"star": 0
+},
+{
+"w": "level",
+"star": 0
+},
+{
+"w": "library",
+"star": 0
+},
+{
+"w": "lie",
+"star": 0
+},
+{
+"w": "life",
+"star": 0
+},
+{
+"w": "lift",
+"star": 0
+},
+{
+"w": "light",
+"star": 0
+},
+{
+"w": "lightning",
+"star": 0
+},
+{
+"w": "like",
+"star": 0
+},
+{
+"w": "likely",
+"star": 0
+},
+{
+"w": "line",
+"star": 0
+},
+{
+"w": "lion",
+"star": 0
+},
+{
+"w": "list",
+"star": 0
+},
+{
+"w": "listen",
+"star": 0
+},
+{
+"w": "literature",
+"star": 0
+},
+{
+"w": "litter",
+"star": 0
+},
+{
+"w": "little",
+"star": 0
+},
+{
+"w": "live",
+"star": 1
+},
+{
+"w": "lively",
+"star": 0
+},
+{
+"w": "local",
+"star": 0
+},
+{
+"w": "lock",
+"star": 0
+},
+{
+"w": "lonely",
+"star": 0
+},
+{
+"w": "long",
+"star": 0
+},
+{
+"w": "look",
+"star": 1
+},
+{
+"w": "lose",
+"star": 0
+},
+{
+"w": "loss",
+"star": 0
+},
+{
+"w": "lost",
+"star": 0
+},
+{
+"w": "lot",
+"star": 1
+},
+{
+"w": "loud",
+"star": 0
+},
+{
+"w": "love",
+"star": 0
+},
+{
+"w": "lovely",
+"star": 0
+},
+{
+"w": "low",
+"star": 0
+},
+{
+"w": "luck",
+"star": 0
+},
+{
+"w": "lunch",
+"star": 1
+},
+{
+"w": "machine",
+"star": 0
+},
+{
+"w": "mad",
+"star": 0
+},
+{
+"w": "madam",
+"star": 0
+},
+{
+"w": "magazine",
+"star": 0
+},
+{
+"w": "magic",
+"star": 0
+},
+{
+"w": "main",
+"star": 0
+},
+{
+"w": "make",
+"star": 0
+},
+{
+"w": "mall",
+"star": 0
+},
+{
+"w": "man",
+"star": 0
+},
+{
+"w": "manage",
+"star": 0
+},
+{
+"w": "manner",
+"star": 0
+},
+{
+"w": "many",
+"star": 0
+},
+{
+"w": "map",
+"star": 0
+},
+{
+"w": "mark",
+"star": 0
+},
+{
+"w": "market",
+"star": 0
+},
+{
+"w": "marry",
+"star": 0
+},
+{
+"w": "master",
+"star": 0
+},
+{
+"w": "match",
+"star": 0
+},
+{
+"w": "material",
+"star": 0
+},
+{
+"w": "maths",
+"star": 0
+},
+{
+"w": "matter",
+"star": 0
+},
+{
+"w": "may",
+"star": 0
+},
+{
+"w": "maybe",
+"star": 0
+},
+{
+"w": "me",
+"star": 0
+},
+{
+"w": "meal",
+"star": 0
+},
+{
+"w": "mean",
+"star": 0
+},
+{
+"w": "meaning",
+"star": 0
+},
+{
+"w": "meat",
+"star": 0
+},
+{
+"w": "medal",
+"star": 0
+},
+{
+"w": "medical",
+"star": 0
+},
+{
+"w": "medicine",
+"star": 0
+},
+{
+"w": "medium",
+"star": 0
+},
+{
+"w": "meeting",
+"star": 0
+},
+{
+"w": "member",
+"star": 0
+},
+{
+"w": "mention",
+"star": 0
+},
+{
+"w": "menu",
+"star": 0
+},
+{
+"w": "mess",
+"star": 0
+},
+{
+"w": "message",
+"star": 0
+},
+{
+"w": "method",
+"star": 0
+},
+{
+"w": "metre",
+"star": 0
+},
+{
+"w": "middle",
+"star": 0
+},
+{
+"w": "might",
+"star": 0
+},
+{
+"w": "mile",
+"star": 0
+},
+{
+"w": "milk",
+"star": 0
+},
+{
+"w": "million",
+"star": 0
+},
+{
+"w": "mind",
+"star": 0
+},
+{
+"w": "mine",
+"star": 0
+},
+{
+"w": "minute",
+"star": 0
+},
+{
+"w": "mirror",
+"star": 0
+},
+{
+"w": "miss",
+"star": 0
+},
+{
+"w": "mistake",
+"star": 0
+},
+{
+"w": "mix",
+"star": 0
+},
+{
+"w": "mobile",
+"star": 0
+},
+{
+"w": "modern",
+"star": 0
+},
+{
+"w": "moment",
+"star": 0
+},
+{
+"w": "money",
+"star": 0
+},
+{
+"w": "monkey",
+"star": 0
+},
+{
+"w": "month",
+"star": 1
+},
+{
+"w": "moon",
+"star": 0
+},
+{
+"w": "more",
+"star": 0
+},
+{
+"w": "morning",
+"star": 0
+},
+{
+"w": "most",
+"star": 0
+},
+{
+"w": "mother",
+"star": 0
+},
+{
+"w": "mountain",
+"star": 0
+},
+{
+"w": "mouse",
+"star": 0
+},
+{
+"w": "mouth",
+"star": 0
+},
+{
+"w": "move",
+"star": 0
+},
+{
+"w": "movie",
+"star": 0
+},
+{
+"w": "Mr",
+"star": 0
+},
+{
+"w": "Mrs",
+"star": 0
+},
+{
+"w": "Ms",
+"star": 0
+},
+{
+"w": "much",
+"star": 0
+},
+{
+"w": "museum",
+"star": 0
+},
+{
+"w": "music",
+"star": 0
+},
+{
+"w": "must",
+"star": 0
+},
+{
+"w": "mutton",
+"star": 0
+},
+{
+"w": "my",
+"star": 0
+},
+{
+"w": "myself",
+"star": 0
+},
+{
+"w": "name",
+"star": 0
+},
+{
+"w": "narrow",
+"star": 0
+},
+{
+"w": "nation",
+"star": 0
+},
+{
+"w": "nature",
+"star": 0
+},
+{
+"w": "near",
+"star": 0
+},
+{
+"w": "nearly",
+"star": 0
+},
+{
+"w": "necessary",
+"star": 0
+},
+{
+"w": "neck",
+"star": 0
+},
+{
+"w": "need",
+"star": 0
+},
+{
+"w": "negative",
+"star": 0
+},
+{
+"w": "neighbour",
+"star": 0
+},
+{
+"w": "neither",
+"star": 0
+},
+{
+"w": "nervous",
+"star": 0
+},
+{
+"w": "never",
+"star": 0
+},
+{
+"w": "new",
+"star": 0
+},
+{
+"w": "news",
+"star": 0
+},
+{
+"w": "newspaper",
+"star": 0
+},
+{
+"w": "nice",
+"star": 0
+},
+{
+"w": "night",
+"star": 0
+},
+{
+"w": "nine",
+"star": 0
+},
+{
+"w": "nineteen",
+"star": 0
+},
+{
+"w": "nineteenth",
+"star": 0
+},
+{
+"w": "ninetieth",
+"star": 0
+},
+{
+"w": "ninety",
+"star": 0
+},
+{
+"w": "ninth",
+"star": 0
+},
+{
+"w": "no",
+"star": 0
+},
+{
+"w": "nobody",
+"star": 0
+},
+{
+"w": "noise",
+"star": 0
+},
+{
+"w": "none",
+"star": 0
+},
+{
+"w": "noodle",
+"star": 0
+},
+{
+"w": "noon",
+"star": 0
+},
+{
+"w": "nor",
+"star": 0
+},
+{
+"w": "normal",
+"star": 0
+},
+{
+"w": "north",
+"star": 0
+},
+{
+"w": "nose",
+"star": 0
+},
+{
+"w": "not",
+"star": 1
+},
+{
+"w": "note",
+"star": 0
+},
+{
+"w": "notebook",
+"star": 0
+},
+{
+"w": "nothing",
+"star": 0
+},
+{
+"w": "notice",
+"star": 0
+},
+{
+"w": "novel",
+"star": 0
+},
+{
+"w": "now",
+"star": 0
+},
+{
+"w": "number",
+"star": 0
+},
+{
+"w": "nurse",
+"star": 0
+},
+{
+"w": "O'clock",
+"star": 1
+},
+{
+"w": "object",
+"star": 0
+},
+{
+"w": "ocean",
+"star": 0
+},
+{
+"w": "of",
+"star": 1
+},
+{
+"w": "off",
+"star": 1
+},
+{
+"w": "offer",
+"star": 0
+},
+{
+"w": "office",
+"star": 0
+},
+{
+"w": "officer",
+"star": 0
+},
+{
+"w": "often",
+"star": 0
+},
+{
+"w": "oil",
+"star": 0
+},
+{
+"w": "OK",
+"star": 1
+},
+{
+"w": "Olympic",
+"star": 0
+},
+{
+"w": "on",
+"star": 0
+},
+{
+"w": "once",
+"star": 0
+},
+{
+"w": "one",
+"star": 0
+},
+{
+"w": "onion",
+"star": 0
+},
+{
+"w": "online",
+"star": 0
+},
+{
+"w": "only",
+"star": 0
+},
+{
+"w": "open",
+"star": 0
+},
+{
+"w": "opera",
+"star": 0
+},
+{
+"w": "operate",
+"star": 0
+},
+{
+"w": "opinion",
+"star": 0
+},
+{
+"w": "opposite",
+"star": 0
+},
+{
+"w": "orange",
+"star": 0
+},
+{
+"w": "organise",
+"star": 0
+},
+{
+"w": "other",
+"star": 0
+},
+{
+"w": "our",
+"star": 1
+},
+{
+"w": "ours",
+"star": 0
+},
+{
+"w": "ourselves",
+"star": 0
+},
+{
+"w": "outside",
+"star": 0
+},
+{
+"w": "oven",
+"star": 0
+},
+{
+"w": "over",
+"star": 0
+},
+{
+"w": "own",
+"star": 0
+},
+{
+"w": "p.m",
+"star": 0
+},
+{
+"w": "pack",
+"star": 0
+},
+{
+"w": "packet",
+"star": 0
+},
+{
+"w": "page",
+"star": 0
+},
+{
+"w": "pain",
+"star": 0
+},
+{
+"w": "paint",
+"star": 0
+},
+{
+"w": "pair",
+"star": 1
+},
+{
+"w": "palace",
+"star": 0
+},
+{
+"w": "pale",
+"star": 0
+},
+{
+"w": "pancake",
+"star": 0
+},
+{
+"w": "paper",
+"star": 0
+},
+{
+"w": "paragraph",
+"star": 0
+},
+{
+"w": "pardon",
+"star": 0
+},
+{
+"w": "parent",
+"star": 0
+},
+{
+"w": "park",
+"star": 1
+},
+{
+"w": "part",
+"star": 0
+},
+{
+"w": "partner",
+"star": 0
+},
+{
+"w": "party",
+"star": 0
+},
+{
+"w": "pass",
+"star": 0
+},
+{
+"w": "passage",
+"star": 0
+},
+{
+"w": "passenger",
+"star": 0
+},
+{
+"w": "passport",
+"star": 0
+},
+{
+"w": "past",
+"star": 0
+},
+{
+"w": "patient",
+"star": 0
+},
+{
+"w": "pay",
+"star": 0
+},
+{
+"w": "PE",
+"star": 0
+},
+{
+"w": "peace",
+"star": 0
+},
+{
+"w": "pear",
+"star": 0
+},
+{
+"w": "pen",
+"star": 0
+},
+{
+"w": "pencil",
+"star": 1
+},
+{
+"w": "penguin",
+"star": 0
+},
+{
+"w": "people",
+"star": 0
+},
+{
+"w": "pepper",
+"star": 0
+},
+{
+"w": "per cent",
+"star": 0
+},
+{
+"w": "perfect",
+"star": 0
+},
+{
+"w": "perform",
+"star": 0
+},
+{
+"w": "perhaps",
+"star": 0
+},
+{
+"w": "period",
+"star": 0
+},
+{
+"w": "person",
+"star": 0
+},
+{
+"w": "personal",
+"star": 0
+},
+{
+"w": "pet",
+"star": 1
+},
+{
+"w": "phone",
+"star": 0
+},
+{
+"w": "photo",
+"star": 0
+},
+{
+"w": "physics",
+"star": 0
+},
+{
+"w": "piano",
+"star": 0
+},
+{
+"w": "pick",
+"star": 0
+},
+{
+"w": "picnic",
+"star": 0
+},
+{
+"w": "picture",
+"star": 0
+},
+{
+"w": "pie",
+"star": 0
+},
+{
+"w": "piece",
+"star": 0
+},
+{
+"w": "pill",
+"star": 0
+},
+{
+"w": "pilot",
+"star": 0
+},
+{
+"w": "ping-pong",
+"star": 0
+},
+{
+"w": "pink",
+"star": 1
+},
+{
+"w": "pioneer",
+"star": 0
+},
+{
+"w": "pity",
+"star": 0
+},
+{
+"w": "pizza",
+"star": 0
+},
+{
+"w": "place",
+"star": 0
+},
+{
+"w": "plan",
+"star": 0
+},
+{
+"w": "plane",
+"star": 0
+},
+{
+"w": "planet",
+"star": 0
+},
+{
+"w": "plant",
+"star": 1
+},
+{
+"w": "plastic",
+"star": 0
+},
+{
+"w": "plate",
+"star": 0
+},
+{
+"w": "play",
+"star": 0
+},
+{
+"w": "playground",
+"star": 0
+},
+{
+"w": "please",
+"star": 0
+},
+{
+"w": "pleasure",
+"star": 0
+},
+{
+"w": "plenty",
+"star": 0
+},
+{
+"w": "pocket",
+"star": 0
+},
+{
+"w": "poem",
+"star": 0
+},
+{
+"w": "poet",
+"star": 0
+},
+{
+"w": "point",
+"star": 0
+},
+{
+"w": "police",
+"star": 0
+},
+{
+"w": "policeman",
+"star": 0
+},
+{
+"w": "policemen",
+"star": 0
+},
+{
+"w": "polite",
+"star": 0
+},
+{
+"w": "pollute",
+"star": 0
+},
+{
+"w": "pool",
+"star": 0
+},
+{
+"w": "poor",
+"star": 0
+},
+{
+"w": "popular",
+"star": 0
+},
+{
+"w": "population",
+"star": 0
+},
+{
+"w": "pork",
+"star": 0
+},
+{
+"w": "porridge",
+"star": 0
+},
+{
+"w": "position",
+"star": 0
+},
+{
+"w": "positive",
+"star": 0
+},
+{
+"w": "possible",
+"star": 0
+},
+{
+"w": "post",
+"star": 0
+},
+{
+"w": "postcard",
+"star": 0
+},
+{
+"w": "postman",
+"star": 0
+},
+{
+"w": "potato",
+"star": 0
+},
+{
+"w": "pound",
+"star": 0
+},
+{
+"w": "pour",
+"star": 0
+},
+{
+"w": "power",
+"star": 0
+},
+{
+"w": "practice",
+"star": 0
+},
+{
+"w": "praise",
+"star": 0
+},
+{
+"w": "prefer",
+"star": 0
+},
+{
+"w": "prepare",
+"star": 0
+},
+{
+"w": "present",
+"star": 0
+},
+{
+"w": "president",
+"star": 0
+},
+{
+"w": "press",
+"star": 0
+},
+{
+"w": "pressure",
+"star": 0
+},
+{
+"w": "pretty",
+"star": 0
+},
+{
+"w": "price",
+"star": 0
+},
+{
+"w": "pride",
+"star": 0
+},
+{
+"w": "primary",
+"star": 0
+},
+{
+"w": "prince",
+"star": 0
+},
+{
+"w": "princess",
+"star": 0
+},
+{
+"w": "print",
+"star": 0
+},
+{
+"w": "private",
+"star": 0
+},
+{
+"w": "prize",
+"star": 0
+},
+{
+"w": "probably",
+"star": 0
+},
+{
+"w": "problem",
+"star": 0
+},
+{
+"w": "produce",
+"star": 0
+},
+{
+"w": "product",
+"star": 0
+},
+{
+"w": "programme",
+"star": 0
+},
+{
+"w": "progress",
+"star": 0
+},
+{
+"w": "project",
+"star": 0
+},
+{
+"w": "promise",
+"star": 0
+},
+{
+"w": "pronounce",
+"star": 0
+},
+{
+"w": "proper",
+"star": 0
+},
+{
+"w": "protect",
+"star": 0
+},
+{
+"w": "proud",
+"star": 0
+},
+{
+"w": "prove",
+"star": 0
+},
+{
+"w": "provide",
+"star": 0
+},
+{
+"w": "public",
+"star": 0
+},
+{
+"w": "publish",
+"star": 0
+},
+{
+"w": "pull",
+"star": 0
+},
+{
+"w": "punish",
+"star": 0
+},
+{
+"w": "purple",
+"star": 0
+},
+{
+"w": "purpose",
+"star": 0
+},
+{
+"w": "push",
+"star": 0
+},
+{
+"w": "put",
+"star": 1
+},
+{
+"w": "quality",
+"star": 0
+},
+{
+"w": "quarter",
+"star": 0
+},
+{
+"w": "queen",
+"star": 0
+},
+{
+"w": "question",
+"star": 0
+},
+{
+"w": "quick",
+"star": 0
+},
+{
+"w": "quiet",
+"star": 1
+},
+{
+"w": "quite",
+"star": 0
+},
+{
+"w": "rabbit",
+"star": 0
+},
+{
+"w": "race",
+"star": 0
+},
+{
+"w": "radio",
+"star": 0
+},
+{
+"w": "railway",
+"star": 0
+},
+{
+"w": "rain",
+"star": 0
+},
+{
+"w": "rainbow",
+"star": 0
+},
+{
+"w": "raise",
+"star": 0
+},
+{
+"w": "rapid",
+"star": 0
+},
+{
+"w": "rather",
+"star": 0
+},
+{
+"w": "reach",
+"star": 0
+},
+{
+"w": "read",
+"star": 1
+},
+{
+"w": "ready",
+"star": 0
+},
+{
+"w": "real",
+"star": 0
+},
+{
+"w": "realise",
+"star": 0
+},
+{
+"w": "really",
+"star": 0
+},
+{
+"w": "reason",
+"star": 0
+},
+{
+"w": "receive",
+"star": 0
+},
+{
+"w": "recent",
+"star": 0
+},
+{
+"w": "recognise",
+"star": 0
+},
+{
+"w": "recommend",
+"star": 0
+},
+{
+"w": "record",
+"star": 0
+},
+{
+"w": "recycle",
+"star": 0
+},
+{
+"w": "red",
+"star": 1
+},
+{
+"w": "reduce",
+"star": 0
+},
+{
+"w": "refuse",
+"star": 0
+},
+{
+"w": "regret",
+"star": 0
+},
+{
+"w": "relationship",
+"star": 0
+},
+{
+"w": "relative",
+"star": 0
+},
+{
+"w": "relax",
+"star": 0
+},
+{
+"w": "remain",
+"star": 0
+},
+{
+"w": "remember",
+"star": 0
+},
+{
+"w": "remind",
+"star": 0
+},
+{
+"w": "repair",
+"star": 0
+},
+{
+"w": "repeat",
+"star": 0
+},
+{
+"w": "reply",
+"star": 0
+},
+{
+"w": "report",
+"star": 0
+},
+{
+"w": "require",
+"star": 0
+},
+{
+"w": "research",
+"star": 0
+},
+{
+"w": "respect",
+"star": 0
+},
+{
+"w": "responsible",
+"star": 0
+},
+{
+"w": "rest",
+"star": 0
+},
+{
+"w": "restaurant",
+"star": 0
+},
+{
+"w": "result",
+"star": 0
+},
+{
+"w": "return",
+"star": 0
+},
+{
+"w": "review",
+"star": 0
+},
+{
+"w": "rice",
+"star": 0
+},
+{
+"w": "rich",
+"star": 0
+},
+{
+"w": "ride",
+"star": 0
+},
+{
+"w": "right",
+"star": 0
+},
+{
+"w": "ring",
+"star": 0
+},
+{
+"w": "rise",
+"star": 0
+},
+{
+"w": "risk",
+"star": 0
+},
+{
+"w": "river",
+"star": 0
+},
+{
+"w": "road",
+"star": 0
+},
+{
+"w": "robot",
+"star": 1
+},
+{
+"w": "rock",
+"star": 0
+},
+{
+"w": "rocket",
+"star": 0
+},
+{
+"w": "role",
+"star": 0
+},
+{
+"w": "room",
+"star": 0
+},
+{
+"w": "rope",
+"star": 0
+},
+{
+"w": "rose",
+"star": 0
+},
+{
+"w": "round",
+"star": 0
+},
+{
+"w": "row",
+"star": 0
+},
+{
+"w": "rubbish",
+"star": 0
+},
+{
+"w": "rule",
+"star": 0
+},
+{
+"w": "ruler",
+"star": 1
+},
+{
+"w": "run",
+"star": 0
+},
+{
+"w": "rush",
+"star": 0
+},
+{
+"w": "Sad",
+"star": 1
+},
+{
+"w": "Safe",
+"star": 1
+},
+{
+"w": "safety",
+"star": 0
+},
+{
+"w": "salad",
+"star": 0
+},
+{
+"w": "sale",
+"star": 0
+},
+{
+"w": "salt",
+"star": 0
+},
+{
+"w": "same",
+"star": 0
+},
+{
+"w": "sand",
+"star": 0
+},
+{
+"w": "sandwich",
+"star": 0
+},
+{
+"w": "satisfy",
+"star": 0
+},
+{
+"w": "save",
+"star": 0
+},
+{
+"w": "say",
+"star": 0
+},
+{
+"w": "scare",
+"star": 0
+},
+{
+"w": "scarf",
+"star": 0
+},
+{
+"w": "School",
+"star": 1
+},
+{
+"w": "schoolbag",
+"star": 0
+},
+{
+"w": "science",
+"star": 0
+},
+{
+"w": "scientist",
+"star": 0
+},
+{
+"w": "scissors",
+"star": 0
+},
+{
+"w": "score",
+"star": 0
+},
+{
+"w": "screen",
+"star": 0
+},
+{
+"w": "sea",
+"star": 0
+},
+{
+"w": "search",
+"star": 0
+},
+{
+"w": "season",
+"star": 0
+},
+{
+"w": "seat",
+"star": 0
+},
+{
+"w": "second",
+"star": 0
+},
+{
+"w": "secret",
+"star": 0
+},
+{
+"w": "see",
+"star": 0
+},
+{
+"w": "seem",
+"star": 0
+},
+{
+"w": "seldom",
+"star": 0
+},
+{
+"w": "send",
+"star": 0
+},
+{
+"w": "sense",
+"star": 0
+},
+{
+"w": "sentence",
+"star": 0
+},
+{
+"w": "separate",
+"star": 0
+},
+{
+"w": "serious",
+"star": 0
+},
+{
+"w": "serve",
+"star": 0
+},
+{
+"w": "service",
+"star": 0
+},
+{
+"w": "set",
+"star": 0
+},
+{
+"w": "seven",
+"star": 0
+},
+{
+"w": "seventeen",
+"star": 0
+},
+{
+"w": "seventeenth",
+"star": 0
+},
+{
+"w": "seventh",
+"star": 0
+},
+{
+"w": "seventieth",
+"star": 0
+},
+{
+"w": "seventy",
+"star": 0
+},
+{
+"w": "several",
+"star": 0
+},
+{
+"w": "shake",
+"star": 0
+},
+{
+"w": "shall",
+"star": 0
+},
+{
+"w": "shame",
+"star": 0
+},
+{
+"w": "shape",
+"star": 0
+},
+{
+"w": "share",
+"star": 0
+},
+{
+"w": "shark",
+"star": 0
+},
+{
+"w": "She",
+"star": 1
+},
+{
+"w": "sheep",
+"star": 0
+},
+{
+"w": "shelf",
+"star": 0
+},
+{
+"w": "shine",
+"star": 0
+},
+{
+"w": "ship",
+"star": 0
+},
+{
+"w": "shirt",
+"star": 0
+},
+{
+"w": "shock",
+"star": 0
+},
+{
+"w": "Shoe",
+"star": 1
+},
+{
+"w": "shoot",
+"star": 0
+},
+{
+"w": "shop",
+"star": 0
+},
+{
+"w": "short",
+"star": 1
+},
+{
+"w": "shorts",
+"star": 0
+},
+{
+"w": "should",
+"star": 1
+},
+{
+"w": "shoulder",
+"star": 0
+},
+{
+"w": "shout",
+"star": 0
+},
+{
+"w": "show",
+"star": 0
+},
+{
+"w": "shower",
+"star": 0
+},
+{
+"w": "shut",
+"star": 0
+},
+{
+"w": "shy",
+"star": 0
+},
+{
+"w": "sick",
+"star": 0
+},
+{
+"w": "side",
+"star": 0
+},
+{
+"w": "sign",
+"star": 0
+},
+{
+"w": "silent",
+"star": 0
+},
+{
+"w": "silk",
+"star": 0
+},
+{
+"w": "silly",
+"star": 0
+},
+{
+"w": "silver",
+"star": 0
+},
+{
+"w": "similar",
+"star": 0
+},
+{
+"w": "simple",
+"star": 0
+},
+{
+"w": "since",
+"star": 0
+},
+{
+"w": "sing",
+"star": 0
+},
+{
+"w": "single",
+"star": 0
+},
+{
+"w": "sir",
+"star": 0
+},
+{
+"w": "sister",
+"star": 0
+},
+{
+"w": "Sit",
+"star": 1
+},
+{
+"w": "situation",
+"star": 0
+},
+{
+"w": "six",
+"star": 0
+},
+{
+"w": "sixteen",
+"star": 0
+},
+{
+"w": "sixteenth",
+"star": 0
+},
+{
+"w": "sixth",
+"star": 0
+},
+{
+"w": "sixtieth",
+"star": 0
+},
+{
+"w": "sixty",
+"star": 0
+},
+{
+"w": "size",
+"star": 0
+},
+{
+"w": "skate",
+"star": 0
+},
+{
+"w": "ski",
+"star": 0
+},
+{
+"w": "skill",
+"star": 0
+},
+{
+"w": "skirt",
+"star": 1
+},
+{
+"w": "sky",
+"star": 0
+},
+{
+"w": "sleep",
+"star": 0
+},
+{
+"w": "slim",
+"star": 0
+},
+{
+"w": "slow",
+"star": 0
+},
+{
+"w": "Small",
+"star": 1
+},
+{
+"w": "smart",
+"star": 0
+},
+{
+"w": "smell",
+"star": 0
+},
+{
+"w": "smile",
+"star": 0
+},
+{
+"w": "smoke",
+"star": 0
+},
+{
+"w": "smooth",
+"star": 0
+},
+{
+"w": "snack",
+"star": 0
+},
+{
+"w": "snake",
+"star": 0
+},
+{
+"w": "snow",
+"star": 0
+},
+{
+"w": "social",
+"star": 0
+},
+{
+"w": "socialism",
+"star": 0
+},
+{
+"w": "society",
+"star": 0
+},
+{
+"w": "Sock",
+"star": 1
+},
+{
+"w": "sofa",
+"star": 0
+},
+{
+"w": "soft",
+"star": 0
+},
+{
+"w": "soil",
+"star": 0
+},
+{
+"w": "soldier",
+"star": 0
+},
+{
+"w": "solve",
+"star": 0
+},
+{
+"w": "some",
+"star": 0
+},
+{
+"w": "somebody",
+"star": 0
+},
+{
+"w": "someone",
+"star": 0
+},
+{
+"w": "something",
+"star": 0
+},
+{
+"w": "sometimes",
+"star": 0
+},
+{
+"w": "somewhere",
+"star": 0
+},
+{
+"w": "son",
+"star": 0
+},
+{
+"w": "song",
+"star": 0
+},
+{
+"w": "soon",
+"star": 0
+},
+{
+"w": "sore",
+"star": 0
+},
+{
+"w": "sorry",
+"star": 0
+},
+{
+"w": "sound",
+"star": 0
+},
+{
+"w": "soup",
+"star": 0
+},
+{
+"w": "south",
+"star": 0
+},
+{
+"w": "space",
+"star": 0
+},
+{
+"w": "spare",
+"star": 0
+},
+{
+"w": "speak",
+"star": 1
+},
+{
+"w": "special",
+"star": 0
+},
+{
+"w": "speech",
+"star": 0
+},
+{
+"w": "speed",
+"star": 0
+},
+{
+"w": "spell",
+"star": 0
+},
+{
+"w": "spend",
+"star": 0
+},
+{
+"w": "spirit",
+"star": 0
+},
+{
+"w": "spoon",
+"star": 0
+},
+{
+"w": "spread",
+"star": 0
+},
+{
+"w": "spring",
+"star": 0
+},
+{
+"w": "square",
+"star": 0
+},
+{
+"w": "stage",
+"star": 0
+},
+{
+"w": "stamp",
+"star": 0
+},
+{
+"w": "stand",
+"star": 1
+},
+{
+"w": "standard",
+"star": 0
+},
+{
+"w": "Star",
+"star": 1
+},
+{
+"w": "start",
+"star": 0
+},
+{
+"w": "state",
+"star": 0
+},
+{
+"w": "station",
+"star": 0
+},
+{
+"w": "stay",
+"star": 0
+},
+{
+"w": "steal",
+"star": 0
+},
+{
+"w": "step",
+"star": 0
+},
+{
+"w": "stick",
+"star": 0
+},
+{
+"w": "stomach",
+"star": 0
+},
+{
+"w": "stone",
+"star": 0
+},
+{
+"w": "stop",
+"star": 0
+},
+{
+"w": "store",
+"star": 0
+},
+{
+"w": "storm",
+"star": 0
+},
+{
+"w": "story",
+"star": 0
+},
+{
+"w": "straight",
+"star": 0
+},
+{
+"w": "strange",
+"star": 0
+},
+{
+"w": "strawberry",
+"star": 0
+},
+{
+"w": "stress",
+"star": 0
+},
+{
+"w": "strict",
+"star": 0
+},
+{
+"w": "strong",
+"star": 0
+},
+{
+"w": "student",
+"star": 0
+},
+{
+"w": "study",
+"star": 0
+},
+{
+"w": "style",
+"star": 0
+},
+{
+"w": "subject",
+"star": 1
+},
+{
+"w": "succeed",
+"star": 0
+},
+{
+"w": "success",
+"star": 0
+},
+{
+"w": "such",
+"star": 0
+},
+{
+"w": "sudden",
+"star": 0
+},
+{
+"w": "suffer",
+"star": 0
+},
+{
+"w": "sugar",
+"star": 0
+},
+{
+"w": "suggest",
+"star": 0
+},
+{
+"w": "suit",
+"star": 0
+},
+{
+"w": "summer",
+"star": 0
+},
+{
+"w": "sun",
+"star": 0
+},
+{
+"w": "sunny",
+"star": 0
+},
+{
+"w": "supermarket",
+"star": 0
+},
+{
+"w": "support",
+"star": 0
+},
+{
+"w": "suppose",
+"star": 0
+},
+{
+"w": "sure",
+"star": 0
+},
+{
+"w": "surface",
+"star": 0
+},
+{
+"w": "surprise",
+"star": 0
+},
+{
+"w": "survey",
+"star": 0
+},
+{
+"w": "survive",
+"star": 0
+},
+{
+"w": "sweater",
+"star": 0
+},
+{
+"w": "sweep",
+"star": 0
+},
+{
+"w": "sweet",
+"star": 0
+},
+{
+"w": "swim",
+"star": 0
+},
+{
+"w": "symbol",
+"star": 0
+},
+{
+"w": "T-shirt",
+"star": 0
+},
+{
+"w": "table",
+"star": 0
+},
+{
+"w": "tail",
+"star": 1
+},
+{
+"w": "take",
+"star": 0
+},
+{
+"w": "talent",
+"star": 0
+},
+{
+"w": "talk",
+"star": 1
+},
+{
+"w": "tall",
+"star": 1
+},
+{
+"w": "tap",
+"star": 0
+},
+{
+"w": "tape",
+"star": 0
+},
+{
+"w": "task",
+"star": 0
+},
+{
+"w": "taste",
+"star": 0
+},
+{
+"w": "taxi",
+"star": 1
+},
+{
+"w": "tea",
+"star": 0
+},
+{
+"w": "teach",
+"star": 0
+},
+{
+"w": "teacher",
+"star": 0
+},
+{
+"w": "team",
+"star": 0
+},
+{
+"w": "teamwork",
+"star": 0
+},
+{
+"w": "technology",
+"star": 0
+},
+{
+"w": "teenage",
+"star": 0
+},
+{
+"w": "tell",
+"star": 1
+},
+{
+"w": "temperature",
+"star": 0
+},
+{
+"w": "ten",
+"star": 0
+},
+{
+"w": "tennis",
+"star": 0
+},
+{
+"w": "tent",
+"star": 0
+},
+{
+"w": "tenth",
+"star": 0
+},
+{
+"w": "term",
+"star": 0
+},
+{
+"w": "terrible",
+"star": 0
+},
+{
+"w": "test",
+"star": 0
+},
+{
+"w": "text",
+"star": 0
+},
+{
+"w": "than",
+"star": 0
+},
+{
+"w": "thank",
+"star": 1
+},
+{
+"w": "that",
+"star": 1
+},
+{
+"w": "the",
+"star": 1
+},
+{
+"w": "theatre",
+"star": 0
+},
+{
+"w": "their",
+"star": 1
+},
+{
+"w": "theirs",
+"star": 0
+},
+{
+"w": "them",
+"star": 0
+},
+{
+"w": "themselves",
+"star": 0
+},
+{
+"w": "then",
+"star": 0
+},
+{
+"w": "there",
+"star": 0
+},
+{
+"w": "therefore",
+"star": 0
+},
+{
+"w": "these",
+"star": 0
+},
+{
+"w": "they",
+"star": 0
+},
+{
+"w": "thick",
+"star": 0
+},
+{
+"w": "thing",
+"star": 0
+},
+{
+"w": "think",
+"star": 1
+},
+{
+"w": "third",
+"star": 0
+},
+{
+"w": "thirsty",
+"star": 0
+},
+{
+"w": "thirteen",
+"star": 0
+},
+{
+"w": "thirteenth",
+"star": 0
+},
+{
+"w": "thirtieth",
+"star": 0
+},
+{
+"w": "thirty",
+"star": 0
+},
+{
+"w": "this",
+"star": 0
+},
+{
+"w": "those",
+"star": 0
+},
+{
+"w": "though",
+"star": 0
+},
+{
+"w": "thought",
+"star": 0
+},
+{
+"w": "thousand",
+"star": 0
+},
+{
+"w": "three",
+"star": 0
+},
+{
+"w": "throat",
+"star": 0
+},
+{
+"w": "through",
+"star": 0
+},
+{
+"w": "throw",
+"star": 0
+},
+{
+"w": "thunder",
+"star": 0
+},
+{
+"w": "ticket",
+"star": 0
+},
+{
+"w": "tidy",
+"star": 0
+},
+{
+"w": "tie",
+"star": 0
+},
+{
+"w": "tiger",
+"star": 0
+},
+{
+"w": "time",
+"star": 0
+},
+{
+"w": "tiny",
+"star": 0
+},
+{
+"w": "tired",
+"star": 1
+},
+{
+"w": "to",
+"star": 0
+},
+{
+"w": "today",
+"star": 0
+},
+{
+"w": "tofu",
+"star": 0
+},
+{
+"w": "together",
+"star": 0
+},
+{
+"w": "toilet",
+"star": 1
+},
+{
+"w": "tomato",
+"star": 0
+},
+{
+"w": "tomorrow",
+"star": 0
+},
+{
+"w": "ton",
+"star": 0
+},
+{
+"w": "tonight",
+"star": 0
+},
+{
+"w": "too",
+"star": 0
+},
+{
+"w": "tool",
+"star": 0
+},
+{
+"w": "tooth",
+"star": 0
+},
+{
+"w": "top",
+"star": 0
+},
+{
+"w": "total",
+"star": 0
+},
+{
+"w": "touch",
+"star": 0
+},
+{
+"w": "tour",
+"star": 0
+},
+{
+"w": "tourist",
+"star": 0
+},
+{
+"w": "towards",
+"star": 0
+},
+{
+"w": "tower",
+"star": 0
+},
+{
+"w": "town",
+"star": 0
+},
+{
+"w": "toy",
+"star": 0
+},
+{
+"w": "trade",
+"star": 0
+},
+{
+"w": "tradition",
+"star": 0
+},
+{
+"w": "traffic",
+"star": 0
+},
+{
+"w": "train",
+"star": 1
+},
+{
+"w": "training",
+"star": 0
+},
+{
+"w": "translate",
+"star": 0
+},
+{
+"w": "travel",
+"star": 1
+},
+{
+"w": "treasure",
+"star": 0
+},
+{
+"w": "treat",
+"star": 0
+},
+{
+"w": "tree",
+"star": 0
+},
+{
+"w": "trip",
+"star": 0
+},
+{
+"w": "trouble",
+"star": 0
+},
+{
+"w": "trousers",
+"star": 0
+},
+{
+"w": "truck",
+"star": 0
+},
+{
+"w": "true",
+"star": 0
+},
+{
+"w": "trust",
+"star": 0
+},
+{
+"w": "truth",
+"star": 0
+},
+{
+"w": "try",
+"star": 0
+},
+{
+"w": "turn",
+"star": 0
+},
+{
+"w": "TV",
+"star": 0
+},
+{
+"w": "twelfth",
+"star": 0
+},
+{
+"w": "twelve",
+"star": 0
+},
+{
+"w": "twentieth",
+"star": 0
+},
+{
+"w": "twenty",
+"star": 0
+},
+{
+"w": "two",
+"star": 0
+},
+{
+"w": "ugly",
+"star": 0
+},
+{
+"w": "umbrella",
+"star": 0
+},
+{
+"w": "uncle",
+"star": 0
+},
+{
+"w": "under",
+"star": 0
+},
+{
+"w": "underground",
+"star": 0
+},
+{
+"w": "understand",
+"star": 0
+},
+{
+"w": "uniform",
+"star": 0
+},
+{
+"w": "unit",
+"star": 0
+},
+{
+"w": "universe",
+"star": 0
+},
+{
+"w": "university",
+"star": 0
+},
+{
+"w": "unless",
+"star": 0
+},
+{
+"w": "until",
+"star": 0
+},
+{
+"w": "up",
+"star": 0
+},
+{
+"w": "upon",
+"star": 0
+},
+{
+"w": "us",
+"star": 0
+},
+{
+"w": "use",
+"star": 0
+},
+{
+"w": "usual",
+"star": 0
+},
+{
+"w": "vacation",
+"star": 0
+},
+{
+"w": "value",
+"star": 0
+},
+{
+"w": "vegetable",
+"star": 0
+},
+{
+"w": "very",
+"star": 0
+},
+{
+"w": "victory",
+"star": 0
+},
+{
+"w": "video",
+"star": 0
+},
+{
+"w": "view",
+"star": 0
+},
+{
+"w": "village",
+"star": 0
+},
+{
+"w": "violin",
+"star": 0
+},
+{
+"w": "virus",
+"star": 0
+},
+{
+"w": "voice",
+"star": 0
+},
+{
+"w": "volleyball",
+"star": 0
+},
+{
+"w": "voluntary",
+"star": 0
+},
+{
+"w": "volunteer",
+"star": 0
+},
+{
+"w": "vote",
+"star": 0
+},
+{
+"w": "Wait",
+"star": 1
+},
+{
+"w": "wake",
+"star": 0
+},
+{
+"w": "Walk",
+"star": 1
+},
+{
+"w": "Wall",
+"star": 1
+},
+{
+"w": "wallet",
+"star": 0
+},
+{
+"w": "want",
+"star": 0
+},
+{
+"w": "war",
+"star": 0
+},
+{
+"w": "warm",
+"star": 0
+},
+{
+"w": "warn",
+"star": 0
+},
+{
+"w": "wash",
+"star": 1
+},
+{
+"w": "waste",
+"star": 0
+},
+{
+"w": "water",
+"star": 0
+},
+{
+"w": "watermelon",
+"star": 0
+},
+{
+"w": "wave",
+"star": 0
+},
+{
+"w": "way",
+"star": 0
+},
+{
+"w": "we",
+"star": 0
+},
+{
+"w": "weak",
+"star": 0
+},
+{
+"w": "wealth",
+"star": 0
+},
+{
+"w": "wear",
+"star": 0
+},
+{
+"w": "weather",
+"star": 0
+},
+{
+"w": "website",
+"star": 0
+},
+{
+"w": "week",
+"star": 1
+},
+{
+"w": "weekday",
+"star": 0
+},
+{
+"w": "weekend",
+"star": 0
+},
+{
+"w": "weigh",
+"star": 0
+},
+{
+"w": "weight",
+"star": 0
+},
+{
+"w": "welcome",
+"star": 0
+},
+{
+"w": "well",
+"star": 1
+},
+{
+"w": "west",
+"star": 0
+},
+{
+"w": "wet",
+"star": 0
+},
+{
+"w": "whale",
+"star": 0
+},
+{
+"w": "What",
+"star": 1
+},
+{
+"w": "whatever",
+"star": 0
+},
+{
+"w": "wheel",
+"star": 0
+},
+{
+"w": "when",
+"star": 0
+},
+{
+"w": "whenever",
+"star": 0
+},
+{
+"w": "where",
+"star": 0
+},
+{
+"w": "whether",
+"star": 0
+},
+{
+"w": "Which",
+"star": 1
+},
+{
+"w": "while",
+"star": 0
+},
+{
+"w": "white",
+"star": 0
+},
+{
+"w": "who",
+"star": 0
+},
+{
+"w": "whole",
+"star": 0
+},
+{
+"w": "whom",
+"star": 0
+},
+{
+"w": "whose",
+"star": 0
+},
+{
+"w": "why",
+"star": 0
+},
+{
+"w": "wide",
+"star": 0
+},
+{
+"w": "wife",
+"star": 0
+},
+{
+"w": "wild",
+"star": 0
+},
+{
+"w": "will",
+"star": 1
+},
+{
+"w": "win",
+"star": 0
+},
+{
+"w": "wind",
+"star": 0
+},
+{
+"w": "window",
+"star": 0
+},
+{
+"w": "windy",
+"star": 0
+},
+{
+"w": "wing",
+"star": 0
+},
+{
+"w": "winner",
+"star": 0
+},
+{
+"w": "winter",
+"star": 0
+},
+{
+"w": "wise",
+"star": 0
+},
+{
+"w": "wish",
+"star": 0
+},
+{
+"w": "within",
+"star": 0
+},
+{
+"w": "without",
+"star": 0
+},
+{
+"w": "wolf",
+"star": 0
+},
+{
+"w": "woman",
+"star": 0
+},
+{
+"w": "wonder",
+"star": 0
+},
+{
+"w": "wonderful",
+"star": 1
+},
+{
+"w": "wood",
+"star": 0
+},
+{
+"w": "word",
+"star": 1
+},
+{
+"w": "work",
+"star": 1
+},
+{
+"w": "worker",
+"star": 0
+},
+{
+"w": "world",
+"star": 1
+},
+{
+"w": "worry",
+"star": 0
+},
+{
+"w": "worse",
+"star": 0
+},
+{
+"w": "worst",
+"star": 0
+},
+{
+"w": "worth",
+"star": 0
+},
+{
+"w": "would",
+"star": 0
+},
+{
+"w": "wound",
+"star": 0
+},
+{
+"w": "write",
+"star": 0
+},
+{
+"w": "wrong",
+"star": 0
+},
+{
+"w": "X-ray",
+"star": 0
+},
+{
+"w": "yard",
+"star": 0
+},
+{
+"w": "year",
+"star": 1
+},
+{
+"w": "yellow",
+"star": 1
+},
+{
+"w": "yes",
+"star": 1
+},
+{
+"w": "yesterday",
+"star": 0
+},
+{
+"w": "yet",
+"star": 0
+},
+{
+"w": "yogurt",
+"star": 0
+},
+{
+"w": "you",
+"star": 0
+},
+{
+"w": "young",
+"star": 0
+},
+{
+"w": "your",
+"star": 0
+},
+{
+"w": "yours",
+"star": 0
+},
+{
+"w": "yourself",
+"star": 0
+},
+{
+"w": "youth",
+"star": 0
+},
+{
+"w": "zero",
+"star": 0
+},
+{
+"w": "ZOO",
+"star": 0
+}
+],
+"extra": [
+"empress",
+"policemen",
+"yogurt",
+"eleven",
+"fourteen",
+"sixteen",
+"seventeen",
+"eighteen",
+"nineteen",
+"sixty",
+"seventy",
+"eighty",
+"sixth",
+"seventh",
+"eighth",
+"tenth",
+"eleventh",
+"thirteenth",
+"fourteenth",
+"fifteenth",
+"sixteenth",
+"seventeenth",
+"eighteenth",
+"nineteenth",
+"thirtieth",
+"fortieth",
+"fiftieth",
+"sixtieth",
+"seventieth",
+"eightieth",
+"ninetieth",
+"hundredth"
+]
+}
